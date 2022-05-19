@@ -33,13 +33,13 @@ pages:
             name: MUSHRA - Random 2
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true
-            reference: configs/resources/audio/1/ref.wav
+            reference: configs/resources/audio/1/ref_10s.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
                 C1: configs/resources/audio/1/2dft_10s.wav
                 C2: configs/resources/audio/1/hplp_10s.wav
-                C3: configs/resources/audio/1/irm2_10s.wav          
+                C3: configs/resources/audio/1/irm2_10s.wav
 
     - type: finish
       name: Thank you
