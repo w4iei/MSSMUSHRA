@@ -21,11 +21,11 @@ pages:
       createAnchor35: true
       createAnchor70: true
       stimuli:
-          C1: configs/resources/audio/1/2dft.wav
-          C2: configs/resources/audio/1/hplp.wav
-          C3: configs/resources/audio/1/irm2.wav
-          C4: configs/resources/audio/1/rep2.wav
-          C5: configs/resources/audio/1/tau1.wav
+          C1: configs/resources/audio/1/2dft_10s.wav
+          C2: configs/resources/audio/1/hplp_10s.wav
+          C3: configs/resources/audio/1/irm2_10s.wav
+          C4: configs/resources/audio/1/rep2_10s.wav
+          C5: configs/resources/audio/1/tau1_10s.wav
     -
           - random
           - type: mushra
@@ -37,9 +37,9 @@ pages:
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/1/2dft.wav
-                C2: configs/resources/audio/1/hplp.wav
-                C3: configs/resources/audio/1/irm2.wav          
+                C1: configs/resources/audio/1/2dft_10s.wav
+                C2: configs/resources/audio/1/hplp_10s.wav
+                C3: configs/resources/audio/1/irm2_10s.wav          
 
     - type: finish
       name: Thank you
