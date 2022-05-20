@@ -9,8 +9,14 @@ remoteService: service/write.php
 pages:
     - type: generic
       id: first_page
-      name: Welcome
-      content: Welcome to webMUSHRA! ERB Statements to go here!!!
+      name: Welcome to the musical source separation (MSS) evaluation task
+      content: "Informed consent form
+I hereby declare that I have been clearly informed about the research project musical source separation perception at the University of Amsterdam, Faculty of Humanities, conducted by Jaffe under supervision of J. A. Burgoyne as described in the information brochure. My questions have been answered to my satisfaction.
+I realise that participation in this research is on an entirely voluntary basis. I retain the right to revoke this consent without having to provide any reasons for my decision. I am aware that I am entitled to discontinue the research at any time, and that I can always withdraw my consent after the research has ended. If I decide to stop or withdraw my consent, all the information gathered up until then will be permanently deleted.
+I understand that no personal information will be collected.
+If I need any further information on the research, now or in the future, I can contact J.A. Burgoyne (phone number: +31 20 – 525 7034 e-mail: j.a.burgoyne@uva.nl; Postbus 93058, 1099 BB Amsterdam.
+If I have any complaints regarding this research, I can contact the secretary of the Ethics Committee of the Faculty of Humanities of the University of Amsterdam; email: commissie- ethiek-fgw@uva.nl; phone number: +31 20 – 525 3054; Kloveniersburgwal 48, 1012 CX Amsterdam.
+By pressing “Next” I consent to participating in this research. Furthermore, I understand that I can revoke my consent by closing the web browser at any time prior to pressing “Send Results” on the final page."
     - type: mushra
       id: trial1
       name: MUSHRA
@@ -26,23 +32,71 @@ pages:
           C3: configs/resources/audio/1/irm2_10s.wav
           C4: configs/resources/audio/1/rep2_10s.wav
           C5: configs/resources/audio/1/tau1_10s.wav
-    -
-          - random
-          - type: mushra
-            id: trial_random_1
-            name: MUSHRA - Random 2
-            content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
-            enableLooping: true
-            reference: configs/resources/audio/1/ref_10s.wav
-            createAnchor35: false
-            createAnchor70: false
-            stimuli:
-                C1: configs/resources/audio/1/2dft_10s.wav
-                C2: configs/resources/audio/1/hplp_10s.wav
-                C3: configs/resources/audio/1/irm2_10s.wav
+
+    - type: mushra
+      id: trial2
+      name: MUSHRA
+      content: This training shows how to use our user interface. Please perform the underlined instructions to proceed with the training session. Reminder: In a MUSHRA listening test you are asked to rate the Basic Audio Quality (BAQ) of each condition.<br/>Basic Audio Quality is a single and global attribute that is used to judge any and all detected differences between the reference and the condition.
+      showWaveform: true
+      enableLooping: true
+      reference: configs/resources/audio/2/ref_10s.wav
+      createAnchor35: true
+      createAnchor70: true
+      stimuli:
+          C1: configs/resources/audio/2/2dft_10s.wav
+          C2: configs/resources/audio/2/hplp_10s.wav
+          C3: configs/resources/audio/2/irm2_10s.wav
+          C4: configs/resources/audio/2/rep2_10s.wav
+          C5: configs/resources/audio/2/tau1_10s.wav
+
+    - type: mushra
+      id: trial3
+      name: MUSHRA
+      content: This training shows how to use our user interface. Please perform the underlined instructions to proceed with the training session. Reminder: In a MUSHRA listening test you are asked to rate the Basic Audio Quality (BAQ) of each condition.<br/>Basic Audio Quality is a single and global attribute that is used to judge any and all detected differences between the reference and the condition.
+      showWaveform: true
+      enableLooping: true
+      reference: configs/resources/audio/3/ref_10s.wav
+      createAnchor35: true
+      createAnchor70: true
+      stimuli:
+          C1: configs/resources/audio/3/2DFT_10s.wav
+          C2: configs/resources/audio/3/HPLP_10s.wav
+          C3: configs/resources/audio/3/IRM2_10s.wav
+          C4: configs/resources/audio/3/REP2_10s.wav
+          C5: configs/resources/audio/3/TAU1_10s.wav
+
+    - type: mushra
+      id: trial4
+      name: MUSHRA
+      content: This training shows how to use our user interface. Please perform the underlined instructions to proceed with the training session. Reminder: In a MUSHRA listening test you are asked to rate the Basic Audio Quality (BAQ) of each condition.<br/>Basic Audio Quality is a single and global attribute that is used to judge any and all detected differences between the reference and the condition.
+      showWaveform: true
+      enableLooping: true
+      reference: configs/resources/audio/4/ref_10s.wav
+      createAnchor35: true
+      createAnchor70: true
+      stimuli:
+          C1: configs/resources/audio/4/IRM2_10s.wav
+          C2: configs/resources/audio/4/MWF_10s.wav
+          C3: configs/resources/audio/4/TAU1_10s.wav
+          C4: configs/resources/audio/4/UHL3_10s.wav
+
+    - type: mushra
+      id: trial5
+      name: MUSHRA
+      content: This training shows how to use our user interface. Please perform the underlined instructions to proceed with the training session. Reminder: In a MUSHRA listening test you are asked to rate the Basic Audio Quality (BAQ) of each condition.<br/>Basic Audio Quality is a single and global attribute that is used to judge any and all detected differences between the reference and the condition.
+      showWaveform: true
+      enableLooping: true
+      reference: configs/resources/audio/5/ref_10s.wav
+      createAnchor35: true
+      createAnchor70: true
+      stimuli:
+          C1: configs/resources/audio/5/IRM2_10s.wav
+          C2: configs/resources/audio/5/MWF_10s.wav
+          C3: configs/resources/audio/5/TAU1_10s.wav
+          C4: configs/resources/audio/5/UHL3_10s.wav
 
     - type: finish
       name: Thank you
-      content: Thank you for attending!
+      content: Thank you for participating!
       showResults: true
       writeResults: true
