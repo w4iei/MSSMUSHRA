@@ -15,7 +15,7 @@ pages:
         \n
         In this research, we will be performing an informal MUSHRA experiment to correlate subjective score of audio quality with objective measures. In musical source separation (MSS), an audio recording is broken into its constituent parts (eg: guitar, singing, drums, bass). These extractions can have varying qualities as measured objectively and subjectively—at odds with similar extractions. In other words, some extractions can have a high objective score and sound terrible, but others can have the opposite.\n
         \n
-        \n
+        <br>
         Please use your computer at a reasonable volume with headphones in a quiet listening environment.\n
         When evaluating these extracts, compare them to the reference, which would warrant a 100% score. \n Pay particular attention to whether the extract has other instruments that should not be present, interference, or noise. These should negatively affect the score. \n\n
         Thanks, Noah Jaffe"
