@@ -10,14 +10,13 @@ pages:
     - type: generic
       id: welcome_instructions
       name: Welcome to the musical source separation (MSS) evaluation task
-      content: "Thank you for taking part in this study as the part of a Master’s thesis at the University of Amsterdam.<br>
-        In this research, we will be performing an informal MUSHRA to correlate subjective score of audio quality with objective measures. In this experiment, you will hear approximately 25 different audio samples. The samples are of individual instruments (eg: guitar, drums, bass, or vocals). A reference (perfect 100 score) will be provided. In this test, please rate the other recordings from 0 (unintelligible, or complete task failure) to 100. The task should take approximately 15 minutes.<br>
-
-        In this research, we will be performing an informal MUSHRA experiment to correlate subjective score of audio quality with objective measures. In musical source separation (MSS), an audio recording is broken into its constituent parts (eg: guitar, singing, drums, bass). These extractions can have varying qualities as measured objectively and subjectively—at odds with similar extractions. In other words, some extractions can have a high objective score and sound terrible, but others can have the opposite.
-
+      content: "Thank you for taking part in this study as the part of my Master’s thesis at the University of Amsterdam.<br>
+        In this research, we will be performing an informal MUSHRA experiment to correlate subjective score of audio quality with objective measures. In musical source separation (MSS), an audio recording is broken into its constituent parts (eg: guitar, singing, drums, bass). These extractions can have varying qualities as measured objectively and subjectively—at odds with similar extractions. In other words, some extractions can have a high objective score and sound terrible, but others can have the opposite.<br>
+        In this experiment, you will hear approximately 25 different audio samples. The samples are of individual instruments (eg: guitar, drums, bass, or vocals). A reference (perfect 100 score) will be provided. In this test, please rate the other recordings from 0 (unintelligible, or complete task failure) to 100. The task should take approximately 15 minutes.<br>
         <br>
-        Please use your computer at a reasonable volume with headphones in a quiet listening environment.\n
-        When evaluating these extracts, compare them to the reference, which would warrant a 100% score. \n Pay particular attention to whether the extract has other instruments that should not be present, interference, or noise. These should negatively affect the score. <br>
+        <br>
+        Please use your computer at a reasonable volume with headphones in a quiet listening environment.<br>
+        When evaluating these extracts, compare them to the reference, which would warrant a 100% score. <br> Pay particular attention to whether the extract has other instruments that should not be present, interference, or noise. These should negatively affect the score. <br>
         Thanks, Noah Jaffe"
     - type: generic
       id: informed_consent
@@ -33,7 +32,7 @@ pages:
     - type: mushra
       id: trial1
       name: MUSHRA
-      content: This training shows how to use our user interface. Please perform the underlined instructions to proceed with the training session. Reminder: In a MUSHRA listening test you are asked to rate the Basic Audio Quality (BAQ) of each condition.<br/>Basic Audio Quality is a single and global attribute that is used to judge any and all detected differences between the reference and the condition.
+      content: This exerise is to evaluate the quality of a vocal audio extraction.
       showWaveform: true
       enableLooping: true
       reference: configs/resources/audio/1/ref_10s.wav
@@ -49,7 +48,7 @@ pages:
     - type: mushra
       id: trial2
       name: MUSHRA
-      content: This training shows how to use our user interface. Please perform the underlined instructions to proceed with the training session. Reminder: In a MUSHRA listening test you are asked to rate the Basic Audio Quality (BAQ) of each condition.<br/>Basic Audio Quality is a single and global attribute that is used to judge any and all detected differences between the reference and the condition.
+      content: This exerise is to evaluate the quality of a vocal accompaniment extraction. A successful extract for this task contains no singing. Consider whether this extraction could be used for karaoke or a cover recording.
       showWaveform: true
       enableLooping: true
       reference: configs/resources/audio/2/ref_10s.wav
@@ -65,7 +64,7 @@ pages:
     - type: mushra
       id: trial3
       name: MUSHRA
-      content: This training shows how to use our user interface. Please perform the underlined instructions to proceed with the training session. Reminder: In a MUSHRA listening test you are asked to rate the Basic Audio Quality (BAQ) of each condition.<br/>Basic Audio Quality is a single and global attribute that is used to judge any and all detected differences between the reference and the condition.
+      content: This exerise is to evaluate the quality of a rock band accompaniment extraction. A successful extract for this task contains no singing. Consider whether this extraction could be used for karaoke or a cover recording.
       showWaveform: true
       enableLooping: true
       reference: configs/resources/audio/3/ref_10s.wav
@@ -81,7 +80,7 @@ pages:
     - type: mushra
       id: trial4
       name: MUSHRA
-      content: This training shows how to use our user interface. Please perform the underlined instructions to proceed with the training session. Reminder: In a MUSHRA listening test you are asked to rate the Basic Audio Quality (BAQ) of each condition.<br/>Basic Audio Quality is a single and global attribute that is used to judge any and all detected differences between the reference and the condition.
+      content: This exerise is to evaluate the quality of a guitar extraction. Consider whether this extraction could be used as a sample for a new song or remix.
       showWaveform: true
       enableLooping: true
       reference: configs/resources/audio/4/ref_10s.wav
@@ -96,7 +95,7 @@ pages:
     - type: mushra
       id: trial5
       name: MUSHRA
-      content: This training shows how to use our user interface. Please perform the underlined instructions to proceed with the training session. Reminder: In a MUSHRA listening test you are asked to rate the Basic Audio Quality (BAQ) of each condition.<br/>Basic Audio Quality is a single and global attribute that is used to judge any and all detected differences between the reference and the condition.
+      content: This exerise is to evaluate the quality of a drums extraction. Consider whether this extraction could be used as a sample for a new song or remix.
       showWaveform: true
       enableLooping: true
       reference: configs/resources/audio/5/ref_10s.wav
