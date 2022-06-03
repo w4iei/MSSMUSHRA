@@ -32,7 +32,7 @@ pages:
     - type: mushra
       id: trial1
       name: MUSHRA
-      content: This exerise is to evaluate the quality of a vocal audio extraction.
+      content: This exercise is to evaluate the quality of a vocal audio extraction.
       showWaveform: true
       enableLooping: true
       reference: configs/resources/audio/1/ref_10s.wav
@@ -48,7 +48,7 @@ pages:
     - type: mushra
       id: trial2
       name: MUSHRA
-      content: This exerise is to evaluate the quality of a vocal accompaniment extraction. A successful extract for this task contains no singing. Consider whether this extraction could be used for karaoke or a cover recording.
+      content: This exercise is to evaluate the quality of a vocal accompaniment extraction. A successful extract for this task contains no singing. Consider whether this extraction could be used for karaoke or a cover recording.
       showWaveform: true
       enableLooping: true
       reference: configs/resources/audio/2/ref_10s.wav
@@ -64,7 +64,7 @@ pages:
     - type: mushra
       id: trial3
       name: MUSHRA
-      content: This exerise is to evaluate the quality of a rock band accompaniment extraction. A successful extract for this task contains no singing. Consider whether this extraction could be used for karaoke or a cover recording.
+      content: This exercise is to evaluate the quality of a rock band accompaniment extraction. A successful extract for this task contains no singing. Consider whether this extraction could be used for karaoke or a cover recording.
       showWaveform: true
       enableLooping: true
       reference: configs/resources/audio/3/ref_10s.wav
@@ -80,7 +80,7 @@ pages:
     - type: mushra
       id: trial4
       name: MUSHRA
-      content: This exerise is to evaluate the quality of a guitar extraction. Consider whether this extraction could be used as a sample for a new song or remix.
+      content: This exercise is to evaluate the quality of a guitar extraction. Consider whether this extraction could be used as a sample for a new song or remix.
       showWaveform: true
       enableLooping: true
       reference: configs/resources/audio/4/ref_10s.wav
@@ -95,7 +95,7 @@ pages:
     - type: mushra
       id: trial5
       name: MUSHRA
-      content: This exerise is to evaluate the quality of a drums extraction. Consider whether this extraction could be used as a sample for a new song or remix.
+      content: This exercise is to evaluate the quality of a drums extraction. Consider whether this extraction could be used as a sample for a new song or remix.
       showWaveform: true
       enableLooping: true
       reference: configs/resources/audio/5/ref_10s.wav
