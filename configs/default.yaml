@@ -7,6 +7,12 @@ remoteService: service/write.php
 
 
 pages:
+    - type: consent
+      id: informed_consent
+      name: Informed Consent
+      mustConsent: true
+      content: consent content here
+
     - type: generic
       id: welcome_instructions
       name: Welcome to the musical source separation (MSS) evaluation task
@@ -18,11 +24,7 @@ pages:
         Please use your computer at a reasonable volume with headphones in a quiet listening environment.<br>
         When evaluating these extracts, compare them to the reference, which would warrant a 100% score. <br> Pay particular attention to whether the extract has other instruments that should not be present, interference, or noise. These should negatively affect the score. <br>
         Thanks, Noah Jaffe"
-    - type: generic
-      id: informed_consent
-      name: Informed Consent
-      mustConsent: true
-      content: consent content here
+
     - type: mushra
       id: trial1
       name: MUSHRA
