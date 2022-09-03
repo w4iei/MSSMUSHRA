@@ -54,13 +54,13 @@
   enableLooping: true
   id: trial5
   name: MUSHRA
-  reference: config/resources/audio/trial5/ref.wav
+  reference: configs/resources/audio/trial5/ref.wav
   showWaveform: true
   stimuli:
-    C1: config/resources/audio/trial5/TAU1.wav
-    C2: config/resources/audio/trial5/IRM2.wav
-    C3: config/resources/audio/trial5/MWF.wav
-    C4: config/resources/audio/trial5/UHL3.wav
+    C1: configs/resources/audio/trial5/TAU1.wav
+    C2: configs/resources/audio/trial5/IRM2.wav
+    C3: configs/resources/audio/trial5/MWF.wav
+    C4: configs/resources/audio/trial5/UHL3.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: true
@@ -68,15 +68,15 @@
   enableLooping: true
   id: trial10
   name: MUSHRA
-  reference: config/resources/audio/trial10/ref.wav
+  reference: configs/resources/audio/trial10/ref.wav
   showWaveform: true
   stimuli:
-    C1: config/resources/audio/trial10/TAU1.wav
-    C2: config/resources/audio/trial10/IRM2.wav
-    C3: config/resources/audio/trial10/MWF.wav
-    C4: config/resources/audio/trial10/UHL3.wav
-    C5: config/resources/audio/trial10/TAK2.wav
-    C6: config/resources/audio/trial10/2DFT.wav
+    C1: configs/resources/audio/trial10/TAU1.wav
+    C2: configs/resources/audio/trial10/IRM2.wav
+    C3: configs/resources/audio/trial10/MWF.wav
+    C4: configs/resources/audio/trial10/UHL3.wav
+    C5: configs/resources/audio/trial10/TAK2.wav
+    C6: configs/resources/audio/trial10/2DFT.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a accomp audio estimate.
   createAnchor35: true
@@ -84,14 +84,14 @@
   enableLooping: true
   id: trial15
   name: MUSHRA
-  reference: config/resources/audio/trial15/ref.wav
+  reference: configs/resources/audio/trial15/ref.wav
   showWaveform: true
   stimuli:
-    C1: config/resources/audio/trial15/TAU1.wav
-    C2: config/resources/audio/trial15/IRM2.wav
-    C3: config/resources/audio/trial15/MWF.wav
-    C4: config/resources/audio/trial15/UHL3.wav
-    C5: config/resources/audio/trial15/TAK2.wav
+    C1: configs/resources/audio/trial15/TAU1.wav
+    C2: configs/resources/audio/trial15/IRM2.wav
+    C3: configs/resources/audio/trial15/MWF.wav
+    C4: configs/resources/audio/trial15/UHL3.wav
+    C5: configs/resources/audio/trial15/TAK2.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: true
@@ -99,14 +99,14 @@
   enableLooping: true
   id: trial20
   name: MUSHRA
-  reference: config/resources/audio/trial20/ref.wav
+  reference: configs/resources/audio/trial20/ref.wav
   showWaveform: true
   stimuli:
-    C1: config/resources/audio/trial20/TAU1.wav
-    C2: config/resources/audio/trial20/IRM2.wav
-    C3: config/resources/audio/trial20/MWF.wav
-    C4: config/resources/audio/trial20/UHL3.wav
-    C5: config/resources/audio/trial20/TAK2.wav
+    C1: configs/resources/audio/trial20/TAU1.wav
+    C2: configs/resources/audio/trial20/IRM2.wav
+    C3: configs/resources/audio/trial20/MWF.wav
+    C4: configs/resources/audio/trial20/UHL3.wav
+    C5: configs/resources/audio/trial20/TAK2.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: true
@@ -114,14 +114,14 @@
   enableLooping: true
   id: trial25
   name: MUSHRA
-  reference: config/resources/audio/trial25/ref.wav
+  reference: configs/resources/audio/trial25/ref.wav
   showWaveform: true
   stimuli:
-    C1: config/resources/audio/trial25/TAU1.wav
-    C2: config/resources/audio/trial25/IRM2.wav
-    C3: config/resources/audio/trial25/MWF.wav
-    C4: config/resources/audio/trial25/UHL3.wav
-    C5: config/resources/audio/trial25/TAK2.wav
+    C1: configs/resources/audio/trial25/TAU1.wav
+    C2: configs/resources/audio/trial25/IRM2.wav
+    C3: configs/resources/audio/trial25/MWF.wav
+    C4: configs/resources/audio/trial25/UHL3.wav
+    C5: configs/resources/audio/trial25/TAK2.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: true
@@ -129,14 +129,14 @@
   enableLooping: true
   id: trial30
   name: MUSHRA
-  reference: config/resources/audio/trial30/ref.wav
+  reference: configs/resources/audio/trial30/ref.wav
   showWaveform: true
   stimuli:
-    C1: config/resources/audio/trial30/TAU1.wav
-    C2: config/resources/audio/trial30/IRM2.wav
-    C3: config/resources/audio/trial30/MWF.wav
-    C4: config/resources/audio/trial30/UHL3.wav
-    C5: config/resources/audio/trial30/TAK2.wav
+    C1: configs/resources/audio/trial30/TAU1.wav
+    C2: configs/resources/audio/trial30/IRM2.wav
+    C3: configs/resources/audio/trial30/MWF.wav
+    C4: configs/resources/audio/trial30/UHL3.wav
+    C5: configs/resources/audio/trial30/TAK2.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: true
@@ -144,14 +144,14 @@
   enableLooping: true
   id: trial35
   name: MUSHRA
-  reference: config/resources/audio/trial35/ref.wav
+  reference: configs/resources/audio/trial35/ref.wav
   showWaveform: true
   stimuli:
-    C1: config/resources/audio/trial35/TAU1.wav
-    C2: config/resources/audio/trial35/IRM2.wav
-    C3: config/resources/audio/trial35/MWF.wav
-    C4: config/resources/audio/trial35/UHL3.wav
-    C5: config/resources/audio/trial35/TAK2.wav
+    C1: configs/resources/audio/trial35/TAU1.wav
+    C2: configs/resources/audio/trial35/IRM2.wav
+    C3: configs/resources/audio/trial35/MWF.wav
+    C4: configs/resources/audio/trial35/UHL3.wav
+    C5: configs/resources/audio/trial35/TAK2.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio
     estimate.
@@ -160,12 +160,12 @@
   enableLooping: true
   id: trial40
   name: MUSHRA
-  reference: config/resources/audio/trial40/ref.wav
+  reference: configs/resources/audio/trial40/ref.wav
   showWaveform: true
   stimuli:
-    C1: config/resources/audio/trial40/TAU1.wav
-    C2: config/resources/audio/trial40/IRM2.wav
-    C3: config/resources/audio/trial40/MWF.wav
-    C4: config/resources/audio/trial40/UHL3.wav
-    C5: config/resources/audio/trial40/TAK2.wav
+    C1: configs/resources/audio/trial40/TAU1.wav
+    C2: configs/resources/audio/trial40/IRM2.wav
+    C3: configs/resources/audio/trial40/MWF.wav
+    C4: configs/resources/audio/trial40/UHL3.wav
+    C5: configs/resources/audio/trial40/TAK2.wav
   type: mushra
