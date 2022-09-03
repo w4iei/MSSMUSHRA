@@ -169,6 +169,11 @@ pages:
     C4: configs/resources/audio/trial38/UHL3.wav
     C5: configs/resources/audio/trial38/TAK2.wav
   type: mushra
+- content: Thank you for participating!
+  name: Thank you
+  showResults: true
+  type: finish
+  writeResults: true
 remoteService: service/write.php
 showButtonPreviousPage: true
 stopOnErrors: true
