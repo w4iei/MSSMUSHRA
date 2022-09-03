@@ -1,0 +1,171 @@
+- content: "Thank you for taking part in this study as the part of my Master\u2019\
+    s thesis at the University of Amsterdam.<br> In this research, we will be performing\
+    \ an informal MUSHRA experiment to correlate subjective score of audio quality\
+    \ with objective measures. In musical source separation (MSS), an audio recording\
+    \ is broken into its constituent parts (eg: guitar, singing, drums, bass). These\
+    \ extractions can have varying qualities as measured objectively and subjectively\u2014\
+    at odds with similar extractions. In other words, some extractions can have a\
+    \ high objective score and sound terrible, but others can have the opposite.<br>\
+    \ In this experiment, you will hear approximately 25 different audio samples.\
+    \ The samples are of individual instruments (eg: guitar, drums, bass, or vocals).\
+    \ A reference (perfect 100 score) will be provided. In this test, please rate\
+    \ the other recordings from 0 (unintelligible, or complete task failure) to 100.\
+    \ The task should take approximately 15 minutes.<br> <br> <br> Please use your\
+    \ computer at a reasonable volume with headphones in a quiet listening environment.<br>\
+    \ When evaluating these extracts, compare them to the reference, which would warrant\
+    \ a 100% score. <br> Pay particular attention to whether the extract has other\
+    \ instruments that should not be present, interference, or noise. These should\
+    \ negatively affect the score. <br> Thanks, Noah Jaffe"
+  id: welcome_instructions
+  name: Welcome to the musical source separation (MSS) evaluation task
+  type: generic
+- content: " You will be participating in this research project on a voluntary basis.\
+    \ This means you are free to stop taking part at any stage. This will not have\
+    \ any consequences and you will not be obliged to finish the procedures described\
+    \ above. You can always decide to withdraw your consent later on. If you decide\
+    \ to stop or withdraw your consent, all the information gathered up until then\
+    \ will be permanently deleted.<br> I hereby declare that I have been clearly informed\
+    \ about the research project musical source separation perception at the University\
+    \ of Amsterdam, Faculty of Humanities, conducted by Jaffe under supervision of\
+    \ J. A. Burgoyne as described in the information brochure. My questions have been\
+    \ answered to my satisfaction.<br> I realise that participation in this research\
+    \ is on an entirely voluntary basis. I retain the right to revoke this consent\
+    \ without having to provide any reasons for my decision. I am aware that I am\
+    \ entitled to discontinue the research at any time, and that I can always withdraw\
+    \ my consent after the research has ended. If I decide to stop or withdraw my\
+    \ consent, all the information gathered up until then will be permanently deleted.<br>\
+    \ I understand that no personal information will be collected.<br> If I need any\
+    \ further information on the research, now or in the future, I can contact J.A.\
+    \ Burgoyne (phone number: +31 20 \u2013 525 7034 e-mail: j.a.burgoyne@uva.nl;\
+    \ Postbus 93058, 1099 BB Amsterdam.<br> If I have any complaints regarding this\
+    \ research, I can contact the secretary of the Ethics Committee of the Faculty\
+    \ of Humanities of the University of Amsterdam; email: commissie- ethiek-fgw@uva.nl;\
+    \ phone number: +31 20 \u2013 525 3054; Kloveniersburgwal 48, 1012 CX Amsterdam.<br>\
+    \ By pressing Next I consent to participating in this research. Furthermore, I\
+    \ understand that I can revoke my consent by closing the web browser at any time\
+    \ prior to pressing \u201CSend Results\u201D on the final page."
+  id: informed_consent
+  mustConsent: true
+  name: Informed Consent
+  type: generic
+- content: This exercise is to evaluate the quality of a drums audio estimate.
+  createAnchor35: true
+  createAnchor70: true
+  enableLooping: true
+  id: trial5
+  name: MUSHRA
+  reference: config/resources/audio/trial5/ref.wav
+  showWaveform: true
+  stimuli:
+    C1: config/resources/audio/trial5/TAU1.wav
+    C2: config/resources/audio/trial5/IRM2.wav
+    C3: config/resources/audio/trial5/MWF.wav
+    C4: config/resources/audio/trial5/UHL3.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: true
+  createAnchor70: true
+  enableLooping: true
+  id: trial10
+  name: MUSHRA
+  reference: config/resources/audio/trial10/ref.wav
+  showWaveform: true
+  stimuli:
+    C1: config/resources/audio/trial10/TAU1.wav
+    C2: config/resources/audio/trial10/IRM2.wav
+    C3: config/resources/audio/trial10/MWF.wav
+    C4: config/resources/audio/trial10/UHL3.wav
+    C5: config/resources/audio/trial10/TAK2.wav
+    C6: config/resources/audio/trial10/2DFT.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a accomp audio estimate.
+  createAnchor35: true
+  createAnchor70: true
+  enableLooping: true
+  id: trial15
+  name: MUSHRA
+  reference: config/resources/audio/trial15/ref.wav
+  showWaveform: true
+  stimuli:
+    C1: config/resources/audio/trial15/TAU1.wav
+    C2: config/resources/audio/trial15/IRM2.wav
+    C3: config/resources/audio/trial15/MWF.wav
+    C4: config/resources/audio/trial15/UHL3.wav
+    C5: config/resources/audio/trial15/TAK2.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a bass audio estimate.
+  createAnchor35: true
+  createAnchor70: true
+  enableLooping: true
+  id: trial20
+  name: MUSHRA
+  reference: config/resources/audio/trial20/ref.wav
+  showWaveform: true
+  stimuli:
+    C1: config/resources/audio/trial20/TAU1.wav
+    C2: config/resources/audio/trial20/IRM2.wav
+    C3: config/resources/audio/trial20/MWF.wav
+    C4: config/resources/audio/trial20/UHL3.wav
+    C5: config/resources/audio/trial20/TAK2.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a bass audio estimate.
+  createAnchor35: true
+  createAnchor70: true
+  enableLooping: true
+  id: trial25
+  name: MUSHRA
+  reference: config/resources/audio/trial25/ref.wav
+  showWaveform: true
+  stimuli:
+    C1: config/resources/audio/trial25/TAU1.wav
+    C2: config/resources/audio/trial25/IRM2.wav
+    C3: config/resources/audio/trial25/MWF.wav
+    C4: config/resources/audio/trial25/UHL3.wav
+    C5: config/resources/audio/trial25/TAK2.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a drums audio estimate.
+  createAnchor35: true
+  createAnchor70: true
+  enableLooping: true
+  id: trial30
+  name: MUSHRA
+  reference: config/resources/audio/trial30/ref.wav
+  showWaveform: true
+  stimuli:
+    C1: config/resources/audio/trial30/TAU1.wav
+    C2: config/resources/audio/trial30/IRM2.wav
+    C3: config/resources/audio/trial30/MWF.wav
+    C4: config/resources/audio/trial30/UHL3.wav
+    C5: config/resources/audio/trial30/TAK2.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a drums audio estimate.
+  createAnchor35: true
+  createAnchor70: true
+  enableLooping: true
+  id: trial35
+  name: MUSHRA
+  reference: config/resources/audio/trial35/ref.wav
+  showWaveform: true
+  stimuli:
+    C1: config/resources/audio/trial35/TAU1.wav
+    C2: config/resources/audio/trial35/IRM2.wav
+    C3: config/resources/audio/trial35/MWF.wav
+    C4: config/resources/audio/trial35/UHL3.wav
+    C5: config/resources/audio/trial35/TAK2.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio
+    estimate.
+  createAnchor35: true
+  createAnchor70: true
+  enableLooping: true
+  id: trial40
+  name: MUSHRA
+  reference: config/resources/audio/trial40/ref.wav
+  showWaveform: true
+  stimuli:
+    C1: config/resources/audio/trial40/TAU1.wav
+    C2: config/resources/audio/trial40/IRM2.wav
+    C3: config/resources/audio/trial40/MWF.wav
+    C4: config/resources/audio/trial40/UHL3.wav
+    C5: config/resources/audio/trial40/TAK2.wav
+  type: mushra
