@@ -49,8 +49,8 @@ pages:
   name: Informed Consent
   type: generic
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
-  createAnchor35: true
-  createAnchor70: true
+  createAnchor35: false
+  createAnchor70: false
   enableLooping: true
   id: trial1
   name: MUSHRA
@@ -62,10 +62,11 @@ pages:
     C3: configs/resources/audio/trial1/REP2.wav
     C4: configs/resources/audio/trial1/TAU1.wav
     C5: configs/resources/audio/trial1/IRM2.wav
+    anchor35: configs/resources/audio/trial1/anchor35.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
-  createAnchor35: true
-  createAnchor70: true
+  createAnchor35: false
+  createAnchor70: false
   enableLooping: true
   id: trial6
   name: MUSHRA
@@ -78,10 +79,11 @@ pages:
     C4: configs/resources/audio/trial6/UHL3.wav
     C5: configs/resources/audio/trial6/TAK2.wav
     C6: configs/resources/audio/trial6/2DFT.wav
+    anchor35: configs/resources/audio/trial6/anchor35.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
-  createAnchor35: true
-  createAnchor70: true
+  createAnchor35: false
+  createAnchor70: false
   enableLooping: true
   id: trial11
   name: MUSHRA
@@ -94,10 +96,11 @@ pages:
     C4: configs/resources/audio/trial11/UHL3.wav
     C5: configs/resources/audio/trial11/TAK2.wav
     C6: configs/resources/audio/trial11/2DFT.wav
+    anchor35: configs/resources/audio/trial11/anchor35.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a accomp audio estimate.
-  createAnchor35: true
-  createAnchor70: true
+  createAnchor35: false
+  createAnchor70: false
   enableLooping: true
   id: trial16
   name: MUSHRA
@@ -109,10 +112,11 @@ pages:
     C3: configs/resources/audio/trial16/MWF.wav
     C4: configs/resources/audio/trial16/UHL3.wav
     C5: configs/resources/audio/trial16/TAK2.wav
+    anchor35: configs/resources/audio/trial16/anchor35.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
-  createAnchor35: true
-  createAnchor70: true
+  createAnchor35: false
+  createAnchor70: false
   enableLooping: true
   id: trial21
   name: MUSHRA
@@ -124,10 +128,11 @@ pages:
     C3: configs/resources/audio/trial21/MWF.wav
     C4: configs/resources/audio/trial21/UHL3.wav
     C5: configs/resources/audio/trial21/TAK2.wav
+    anchor35: configs/resources/audio/trial21/anchor35.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
-  createAnchor35: true
-  createAnchor70: true
+  createAnchor35: false
+  createAnchor70: false
   enableLooping: true
   id: trial26
   name: MUSHRA
@@ -139,10 +144,11 @@ pages:
     C3: configs/resources/audio/trial26/MWF.wav
     C4: configs/resources/audio/trial26/UHL3.wav
     C5: configs/resources/audio/trial26/TAK2.wav
+    anchor35: configs/resources/audio/trial26/anchor35.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
-  createAnchor35: true
-  createAnchor70: true
+  createAnchor35: false
+  createAnchor70: false
   enableLooping: true
   id: trial31
   name: MUSHRA
@@ -154,11 +160,12 @@ pages:
     C3: configs/resources/audio/trial31/MWF.wav
     C4: configs/resources/audio/trial31/UHL3.wav
     C5: configs/resources/audio/trial31/TAK2.wav
+    anchor35: configs/resources/audio/trial31/anchor35.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio
     estimate.
-  createAnchor35: true
-  createAnchor70: true
+  createAnchor35: false
+  createAnchor70: false
   enableLooping: true
   id: trial36
   name: MUSHRA
@@ -170,11 +177,12 @@ pages:
     C3: configs/resources/audio/trial36/MWF.wav
     C4: configs/resources/audio/trial36/UHL3.wav
     C5: configs/resources/audio/trial36/TAK2.wav
+    anchor35: configs/resources/audio/trial36/anchor35.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio
     estimate.
-  createAnchor35: true
-  createAnchor70: true
+  createAnchor35: false
+  createAnchor70: false
   enableLooping: true
   id: trial41
   name: MUSHRA
@@ -186,6 +194,7 @@ pages:
     C3: configs/resources/audio/trial41/MWF.wav
     C4: configs/resources/audio/trial41/UHL3.wav
     C5: configs/resources/audio/trial41/TAK2.wav
+    anchor35: configs/resources/audio/trial41/anchor35.wav
   type: mushra
 - content: Thank you for participating!
   name: Thank you
