@@ -48,7 +48,7 @@ pages:
   mustConsent: true
   name: Informed Consent
   type: generic
-- content: This exercise is to evaluate the quality of a accomp audio estimate.
+- content: This exercise is to evaluate the quality of an accompaniment audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
@@ -96,7 +96,7 @@ pages:
     C5: configs/resources/audio/trial12/TAK2.wav
     anchor35: configs/resources/audio/trial12/anchor35.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a accomp audio estimate.
+- content: This exercise is to evaluate the quality of an accompaniment audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true

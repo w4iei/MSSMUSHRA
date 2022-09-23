@@ -64,7 +64,7 @@ pages:
     C5: configs/resources/audio/trial1/IRM2.wav
     anchor35: configs/resources/audio/trial1/anchor35.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a accomp audio estimate.
+- content: This exercise is to evaluate the quality of an accompaniment audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
@@ -80,7 +80,7 @@ pages:
     C5: configs/resources/audio/trial2/IRM2.wav
     anchor35: configs/resources/audio/trial2/anchor35.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a accomp audio estimate.
+- content: This exercise is to evaluate the quality of an accompaniment audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
@@ -244,7 +244,7 @@ pages:
     C5: configs/resources/audio/trial12/TAK2.wav
     anchor35: configs/resources/audio/trial12/anchor35.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a accomp audio estimate.
+- content: This exercise is to evaluate the quality of an accompaniment audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
@@ -260,7 +260,7 @@ pages:
     C5: configs/resources/audio/trial13/TAK2.wav
     anchor35: configs/resources/audio/trial13/anchor35.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a accomp audio estimate.
+- content: This exercise is to evaluate the quality of an accompaniment audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
@@ -276,7 +276,7 @@ pages:
     C5: configs/resources/audio/trial14/TAK2.wav
     anchor35: configs/resources/audio/trial14/anchor35.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a accomp audio estimate.
+- content: This exercise is to evaluate the quality of an accompaniment audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
@@ -292,7 +292,7 @@ pages:
     C5: configs/resources/audio/trial15/TAK2.wav
     anchor35: configs/resources/audio/trial15/anchor35.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a accomp audio estimate.
+- content: This exercise is to evaluate the quality of an accompaniment audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
@@ -308,7 +308,7 @@ pages:
     C5: configs/resources/audio/trial16/TAK2.wav
     anchor35: configs/resources/audio/trial16/anchor35.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a accomp audio estimate.
+- content: This exercise is to evaluate the quality of an accompaniment audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
@@ -324,7 +324,7 @@ pages:
     C5: configs/resources/audio/trial17/TAK2.wav
     anchor35: configs/resources/audio/trial17/anchor35.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a accomp audio estimate.
+- content: This exercise is to evaluate the quality of an accompaniment audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
@@ -340,7 +340,7 @@ pages:
     C5: configs/resources/audio/trial18/TAK2.wav
     anchor35: configs/resources/audio/trial18/anchor35.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a accomp audio estimate.
+- content: This exercise is to evaluate the quality of an accompaniment audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
