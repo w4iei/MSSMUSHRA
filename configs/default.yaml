@@ -167,23 +167,6 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: trial36
-  name: MUSHRA
-  reference: configs/resources/audio/trial36/ref.wav
-  showWaveform: true
-  stimuli:
-    C1: configs/resources/audio/trial36/TAU1.wav
-    C2: configs/resources/audio/trial36/IRM2.wav
-    C3: configs/resources/audio/trial36/MWF.wav
-    C4: configs/resources/audio/trial36/UHL3.wav
-    C5: configs/resources/audio/trial36/TAK2.wav
-    anchor35: configs/resources/audio/trial36/anchor35.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio
-    estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
   id: trial41
   name: MUSHRA
   reference: configs/resources/audio/trial41/ref.wav
