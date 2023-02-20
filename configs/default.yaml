@@ -52,17 +52,17 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: trial7
+  id: trial12
   name: MUSHRA
-  reference: configs/resources/audio/trial7/ref.wav
+  reference: configs/resources/audio/trial12/ref.wav
   showWaveform: true
   stimuli:
-    C1: configs/resources/audio/trial7/TAU1.wav
-    C2: configs/resources/audio/trial7/IRM2.wav
-    C3: configs/resources/audio/trial7/MWF.wav
-    C4: configs/resources/audio/trial7/UHL3.wav
-    C5: configs/resources/audio/trial7/TAK2.wav
-    anchor35: configs/resources/audio/trial7/anchor35.wav
+    C1: configs/resources/audio/trial12/TAU1.wav
+    C2: configs/resources/audio/trial12/IRM2.wav
+    C3: configs/resources/audio/trial12/MWF.wav
+    C4: configs/resources/audio/trial12/UHL3.wav
+    C5: configs/resources/audio/trial12/TAK2.wav
+    anchor35: configs/resources/audio/trial12/anchor35.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -111,40 +111,6 @@ pages:
     C4: configs/resources/audio/trial32/UHL3.wav
     C5: configs/resources/audio/trial32/TAK2.wav
     anchor35: configs/resources/audio/trial32/anchor35.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio
-    estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: trial37
-  name: MUSHRA
-  reference: configs/resources/audio/trial37/ref.wav
-  showWaveform: true
-  stimuli:
-    C1: configs/resources/audio/trial37/TAU1.wav
-    C2: configs/resources/audio/trial37/IRM2.wav
-    C3: configs/resources/audio/trial37/MWF.wav
-    C4: configs/resources/audio/trial37/UHL3.wav
-    C5: configs/resources/audio/trial37/TAK2.wav
-    anchor35: configs/resources/audio/trial37/anchor35.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio
-    estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: trial42
-  name: MUSHRA
-  reference: configs/resources/audio/trial42/ref.wav
-  showWaveform: true
-  stimuli:
-    C1: configs/resources/audio/trial42/TAU1.wav
-    C2: configs/resources/audio/trial42/IRM2.wav
-    C3: configs/resources/audio/trial42/MWF.wav
-    C4: configs/resources/audio/trial42/UHL3.wav
-    C5: configs/resources/audio/trial42/TAK2.wav
-    anchor35: configs/resources/audio/trial42/anchor35.wav
   type: mushra
 - content: Thank you for participating!
   name: Thank you
