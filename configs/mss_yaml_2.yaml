@@ -48,38 +48,6 @@ pages:
   mustConsent: true
   name: Informed Consent
   type: generic
-- content: This exercise is to evaluate the quality of an accompaniment audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: trial2
-  name: MUSHRA
-  reference: configs/resources/audio/trial2/ref.wav
-  showWaveform: true
-  stimuli:
-    C1: configs/resources/audio/trial2/2DFT.wav
-    C2: configs/resources/audio/trial2/HPLP.wav
-    C3: configs/resources/audio/trial2/REP2.wav
-    C4: configs/resources/audio/trial2/TAU1.wav
-    C5: configs/resources/audio/trial2/IRM2.wav
-    anchor35: configs/resources/audio/trial2/anchor35.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a vocals audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: trial7
-  name: MUSHRA
-  reference: configs/resources/audio/trial7/ref.wav
-  showWaveform: true
-  stimuli:
-    C1: configs/resources/audio/trial7/TAU1.wav
-    C2: configs/resources/audio/trial7/IRM2.wav
-    C3: configs/resources/audio/trial7/MWF.wav
-    C4: configs/resources/audio/trial7/UHL3.wav
-    C5: configs/resources/audio/trial7/TAK2.wav
-    anchor35: configs/resources/audio/trial7/anchor35.wav
-  type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
   createAnchor70: false
@@ -95,38 +63,6 @@ pages:
     C4: configs/resources/audio/trial12/UHL3.wav
     C5: configs/resources/audio/trial12/TAK2.wav
     anchor35: configs/resources/audio/trial12/anchor35.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of an accompaniment audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: trial17
-  name: MUSHRA
-  reference: configs/resources/audio/trial17/ref.wav
-  showWaveform: true
-  stimuli:
-    C1: configs/resources/audio/trial17/TAU1.wav
-    C2: configs/resources/audio/trial17/IRM2.wav
-    C3: configs/resources/audio/trial17/MWF.wav
-    C4: configs/resources/audio/trial17/UHL3.wav
-    C5: configs/resources/audio/trial17/TAK2.wav
-    anchor35: configs/resources/audio/trial17/anchor35.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a bass audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: trial22
-  name: MUSHRA
-  reference: configs/resources/audio/trial22/ref.wav
-  showWaveform: true
-  stimuli:
-    C1: configs/resources/audio/trial22/TAU1.wav
-    C2: configs/resources/audio/trial22/IRM2.wav
-    C3: configs/resources/audio/trial22/MWF.wav
-    C4: configs/resources/audio/trial22/UHL3.wav
-    C5: configs/resources/audio/trial22/TAK2.wav
-    anchor35: configs/resources/audio/trial22/anchor35.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -160,47 +96,3 @@ pages:
     C5: configs/resources/audio/trial32/TAK2.wav
     anchor35: configs/resources/audio/trial32/anchor35.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio
-    estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: trial37
-  name: MUSHRA
-  reference: configs/resources/audio/trial37/ref.wav
-  showWaveform: true
-  stimuli:
-    C1: configs/resources/audio/trial37/TAU1.wav
-    C2: configs/resources/audio/trial37/IRM2.wav
-    C3: configs/resources/audio/trial37/MWF.wav
-    C4: configs/resources/audio/trial37/UHL3.wav
-    C5: configs/resources/audio/trial37/TAK2.wav
-    anchor35: configs/resources/audio/trial37/anchor35.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio
-    estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: trial42
-  name: MUSHRA
-  reference: configs/resources/audio/trial42/ref.wav
-  showWaveform: true
-  stimuli:
-    C1: configs/resources/audio/trial42/TAU1.wav
-    C2: configs/resources/audio/trial42/IRM2.wav
-    C3: configs/resources/audio/trial42/MWF.wav
-    C4: configs/resources/audio/trial42/UHL3.wav
-    C5: configs/resources/audio/trial42/TAK2.wav
-    anchor35: configs/resources/audio/trial42/anchor35.wav
-  type: mushra
-- content: Thank you for participating!
-  name: Thank you
-  showResults: true
-  type: finish
-  writeResults: true
-remoteService: service/write.php
-showButtonPreviousPage: true
-stopOnErrors: true
-testId: mss
-testname: MSS Subjective Evaluation
