@@ -191,23 +191,6 @@ pages:
     htdemucs_ft: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a vocals audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: Detsky Sad - Walkie Talkie__vocals
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/Detsky Sad - Walkie Talkie__vocals/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/Detsky Sad - Walkie Talkie__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Detsky Sad - Walkie Talkie__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Detsky Sad - Walkie Talkie__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Detsky Sad - Walkie Talkie__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Detsky Sad - Walkie Talkie__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Detsky Sad - Walkie Talkie__vocals/lpf_anchor.wav
-  type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
   createAnchor70: false
