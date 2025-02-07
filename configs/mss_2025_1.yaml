@@ -49,6 +49,7 @@ pages:
   enableLooping: true
   id: The Sunshine Garcia Band - For I Am The Moon__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__other/ref.wav
   showWaveform: true
   stimuli:
@@ -64,6 +65,7 @@ pages:
   enableLooping: true
   id: Angels In Amplifiers - I'm Alright__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/ref.wav
   showWaveform: true
   stimuli:
@@ -79,6 +81,7 @@ pages:
   enableLooping: true
   id: The Easton Ellises (Baumi) - SDRNR__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__other/ref.wav
   showWaveform: true
   stimuli:
@@ -94,6 +97,7 @@ pages:
   enableLooping: true
   id: Raft Monk - Tiring__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Raft Monk - Tiring__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -109,6 +113,7 @@ pages:
   enableLooping: true
   id: Speak Softly - Broken Man__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Speak Softly - Broken Man__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -125,6 +130,7 @@ pages:
   enableLooping: true
   id: Buitraker - Revo X__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Buitraker - Revo X__other/ref.wav
   showWaveform: true
   stimuli:
@@ -140,6 +146,7 @@ pages:
   enableLooping: true
   id: Cristina Vane - So Easy__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Cristina Vane - So Easy__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -155,6 +162,7 @@ pages:
   enableLooping: true
   id: AM Contra - Heart Peripheral__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/AM Contra - Heart Peripheral__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -170,6 +178,7 @@ pages:
   enableLooping: true
   id: Speak Softly - Broken Man__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Speak Softly - Broken Man__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -185,6 +194,7 @@ pages:
   enableLooping: true
   id: Secretariat - Over The Top__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Secretariat - Over The Top__other/ref.wav
   showWaveform: true
   stimuli:
@@ -200,6 +210,7 @@ pages:
   enableLooping: true
   id: The Easton Ellises - Falcon 69__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Easton Ellises - Falcon 69__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -215,6 +226,7 @@ pages:
   enableLooping: true
   id: Secretariat - Borderline__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Secretariat - Borderline__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -231,6 +243,7 @@ pages:
   enableLooping: true
   id: Carlos Gonzalez - A Place For Us__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Carlos Gonzalez - A Place For Us__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -246,6 +259,7 @@ pages:
   enableLooping: true
   id: Al James - Schoolboy Facination__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Al James - Schoolboy Facination__other/ref.wav
   showWaveform: true
   stimuli:
@@ -261,6 +275,7 @@ pages:
   enableLooping: true
   id: Sambasevam Shanmugam - Kaathaadi__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Sambasevam Shanmugam - Kaathaadi__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -276,6 +291,7 @@ pages:
   enableLooping: true
   id: Zeno - Signs__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Zeno - Signs__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -291,6 +307,7 @@ pages:
   enableLooping: true
   id: Hollow Ground - Ill Fate__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Hollow Ground - Ill Fate__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -307,6 +324,7 @@ pages:
   enableLooping: true
   id: Raft Monk - Tiring__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Raft Monk - Tiring__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -323,6 +341,7 @@ pages:
   enableLooping: true
   id: BKS - Too Much__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/BKS - Too Much__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -339,6 +358,7 @@ pages:
   enableLooping: true
   id: Tom McKenzie - Directions__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Tom McKenzie - Directions__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -355,6 +375,7 @@ pages:
   enableLooping: true
   id: BKS - Bulldozer__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/BKS - Bulldozer__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -370,6 +391,7 @@ pages:
   enableLooping: true
   id: Bobby Nobody - Stitch Up__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Bobby Nobody - Stitch Up__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -386,6 +408,7 @@ pages:
   enableLooping: true
   id: PR - Oh No__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/PR - Oh No__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -401,6 +424,7 @@ pages:
   enableLooping: true
   id: James Elder & Mark M Thompson - The English Actor__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/James Elder & Mark M Thompson - The English Actor__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -417,6 +441,7 @@ pages:
   enableLooping: true
   id: Triviul feat. The Fiend - Widow__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Triviul feat. The Fiend - Widow__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -432,6 +457,7 @@ pages:
   enableLooping: true
   id: Triviul feat. The Fiend - Widow__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Triviul feat. The Fiend - Widow__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -447,6 +473,7 @@ pages:
   enableLooping: true
   id: Girls Under Glass - We Feel Alright__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Girls Under Glass - We Feel Alright__other/ref.wav
   showWaveform: true
   stimuli:
@@ -462,6 +489,7 @@ pages:
   enableLooping: true
   id: Arise - Run Run Run__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Arise - Run Run Run__other/ref.wav
   showWaveform: true
   stimuli:
@@ -477,6 +505,7 @@ pages:
   enableLooping: true
   id: Georgia Wonder - Siren__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Georgia Wonder - Siren__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -492,6 +521,7 @@ pages:
   enableLooping: true
   id: Secretariat - Borderline__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Secretariat - Borderline__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -507,6 +537,7 @@ pages:
   enableLooping: true
   id: Little Chicago's Finest - My Own__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Little Chicago's Finest - My Own__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -522,6 +553,7 @@ pages:
   enableLooping: true
   id: Al James - Schoolboy Facination__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Al James - Schoolboy Facination__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -537,6 +569,7 @@ pages:
   enableLooping: true
   id: Side Effects Project - Sing With Me__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Side Effects Project - Sing With Me__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -552,6 +585,7 @@ pages:
   enableLooping: true
   id: Louis Cressy Band - Good Time__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Louis Cressy Band - Good Time__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -568,6 +602,7 @@ pages:
   enableLooping: true
   id: Moosmusic - Big Dummy Shake__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Moosmusic - Big Dummy Shake__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -584,6 +619,7 @@ pages:
   enableLooping: true
   id: Zeno - Signs__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Zeno - Signs__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -599,6 +635,7 @@ pages:
   enableLooping: true
   id: Motor Tapes - Shore__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Motor Tapes - Shore__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -614,6 +651,7 @@ pages:
   enableLooping: true
   id: We Fell From The Sky - Not You__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/We Fell From The Sky - Not You__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -630,6 +668,7 @@ pages:
   enableLooping: true
   id: Tom McKenzie - Directions__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Tom McKenzie - Directions__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -645,6 +684,7 @@ pages:
   enableLooping: true
   id: Girls Under Glass - We Feel Alright__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Girls Under Glass - We Feel Alright__bass/ref.wav
   showWaveform: true
   stimuli:

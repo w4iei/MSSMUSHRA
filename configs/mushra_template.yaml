@@ -38,6 +38,7 @@ pages:
   enableLooping: true
   id: trial1
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/trial1/ref.wav
   showWaveform: true
   stimuli:

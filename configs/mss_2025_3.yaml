@@ -49,6 +49,7 @@ pages:
   enableLooping: true
   id: Side Effects Project - Sing With Me__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Side Effects Project - Sing With Me__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -65,6 +66,7 @@ pages:
   enableLooping: true
   id: Buitraker - Revo X__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Buitraker - Revo X__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -81,6 +83,7 @@ pages:
   enableLooping: true
   id: The Mountaineering Club - Mallory__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Mountaineering Club - Mallory__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -97,6 +100,7 @@ pages:
   enableLooping: true
   id: Bobby Nobody - Stitch Up__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Bobby Nobody - Stitch Up__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -112,6 +116,7 @@ pages:
   enableLooping: true
   id: Detsky Sad - Walkie Talkie__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Detsky Sad - Walkie Talkie__other/ref.wav
   showWaveform: true
   stimuli:
@@ -127,6 +132,7 @@ pages:
   enableLooping: true
   id: BKS - Too Much__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/BKS - Too Much__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -142,6 +148,7 @@ pages:
   enableLooping: true
   id: The Mountaineering Club - Mallory__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Mountaineering Club - Mallory__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -157,6 +164,7 @@ pages:
   enableLooping: true
   id: Buitraker - Revo X__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Buitraker - Revo X__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -172,6 +180,7 @@ pages:
   enableLooping: true
   id: Ben Carrigan - We'll Talk About It All Tonight__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__other/ref.wav
   showWaveform: true
   stimuli:
@@ -187,6 +196,7 @@ pages:
   enableLooping: true
   id: The Mountaineering Club - Mallory__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Mountaineering Club - Mallory__other/ref.wav
   showWaveform: true
   stimuli:
@@ -202,6 +212,7 @@ pages:
   enableLooping: true
   id: Forkupines - Semantics__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Forkupines - Semantics__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -217,6 +228,7 @@ pages:
   enableLooping: true
   id: Carlos Gonzalez - A Place For Us__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Carlos Gonzalez - A Place For Us__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -233,6 +245,7 @@ pages:
   enableLooping: true
   id: The Doppler Shift - Atrophy__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Doppler Shift - Atrophy__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -248,6 +261,7 @@ pages:
   enableLooping: true
   id: Forkupines - Semantics__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Forkupines - Semantics__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -264,6 +278,7 @@ pages:
   enableLooping: true
   id: Tom McKenzie - Directions__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Tom McKenzie - Directions__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -279,6 +294,7 @@ pages:
   enableLooping: true
   id: Georgia Wonder - Siren__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Georgia Wonder - Siren__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -294,6 +310,7 @@ pages:
   enableLooping: true
   id: Motor Tapes - Shore__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Motor Tapes - Shore__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -309,6 +326,7 @@ pages:
   enableLooping: true
   id: Forkupines - Semantics__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Forkupines - Semantics__other/ref.wav
   showWaveform: true
   stimuli:
@@ -324,6 +342,7 @@ pages:
   enableLooping: true
   id: The Mountaineering Club - Mallory__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Mountaineering Club - Mallory__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -339,6 +358,7 @@ pages:
   enableLooping: true
   id: Girls Under Glass - We Feel Alright__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Girls Under Glass - We Feel Alright__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -354,6 +374,7 @@ pages:
   enableLooping: true
   id: Side Effects Project - Sing With Me__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Side Effects Project - Sing With Me__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -369,6 +390,7 @@ pages:
   enableLooping: true
   id: PR - Happy Daze__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/PR - Happy Daze__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -385,6 +407,7 @@ pages:
   enableLooping: true
   id: Detsky Sad - Walkie Talkie__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Detsky Sad - Walkie Talkie__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -400,6 +423,7 @@ pages:
   enableLooping: true
   id: Lyndsey Ollard - Catching Up__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Lyndsey Ollard - Catching Up__other/ref.wav
   showWaveform: true
   stimuli:
@@ -415,6 +439,7 @@ pages:
   enableLooping: true
   id: Timboz - Pony__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Timboz - Pony__other/ref.wav
   showWaveform: true
   stimuli:
@@ -430,6 +455,7 @@ pages:
   enableLooping: true
   id: Sambasevam Shanmugam - Kaathaadi__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Sambasevam Shanmugam - Kaathaadi__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -445,6 +471,7 @@ pages:
   enableLooping: true
   id: We Fell From The Sky - Not You__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/We Fell From The Sky - Not You__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -460,6 +487,7 @@ pages:
   enableLooping: true
   id: Secretariat - Borderline__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Secretariat - Borderline__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -475,6 +503,7 @@ pages:
   enableLooping: true
   id: Enda Reilly - Cur An Long Ag Seol__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -491,6 +520,7 @@ pages:
   enableLooping: true
   id: AM Contra - Heart Peripheral__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/AM Contra - Heart Peripheral__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -507,6 +537,7 @@ pages:
   enableLooping: true
   id: Louis Cressy Band - Good Time__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Louis Cressy Band - Good Time__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -522,6 +553,7 @@ pages:
   enableLooping: true
   id: The Long Wait - Dark Horses__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Long Wait - Dark Horses__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -537,6 +569,7 @@ pages:
   enableLooping: true
   id: Sambasevam Shanmugam - Kaathaadi__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Sambasevam Shanmugam - Kaathaadi__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -553,6 +586,7 @@ pages:
   enableLooping: true
   id: Detsky Sad - Walkie Talkie__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Detsky Sad - Walkie Talkie__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -568,6 +602,7 @@ pages:
   enableLooping: true
   id: Arise - Run Run Run__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Arise - Run Run Run__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -583,6 +618,7 @@ pages:
   enableLooping: true
   id: Zeno - Signs__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Zeno - Signs__other/ref.wav
   showWaveform: true
   stimuli:
@@ -598,6 +634,7 @@ pages:
   enableLooping: true
   id: Mu - Too Bright__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Mu - Too Bright__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -613,6 +650,7 @@ pages:
   enableLooping: true
   id: PR - Oh No__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/PR - Oh No__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -629,6 +667,7 @@ pages:
   enableLooping: true
   id: BKS - Too Much__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/BKS - Too Much__other/ref.wav
   showWaveform: true
   stimuli:
@@ -644,6 +683,7 @@ pages:
   enableLooping: true
   id: Juliet's Rescue - Heartbeats__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Juliet's Rescue - Heartbeats__drums/ref.wav
   showWaveform: true
   stimuli:

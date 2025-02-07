@@ -49,6 +49,7 @@ pages:
   enableLooping: true
   id: Moosmusic - Big Dummy Shake__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Moosmusic - Big Dummy Shake__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -64,6 +65,7 @@ pages:
   enableLooping: true
   id: The Doppler Shift - Atrophy__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Doppler Shift - Atrophy__other/ref.wav
   showWaveform: true
   stimuli:
@@ -79,6 +81,7 @@ pages:
   enableLooping: true
   id: Nerve 9 - Pray For The Rain__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Nerve 9 - Pray For The Rain__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -94,6 +97,7 @@ pages:
   enableLooping: true
   id: Speak Softly - Like Horses__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Speak Softly - Like Horses__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -109,6 +113,7 @@ pages:
   enableLooping: true
   id: Raft Monk - Tiring__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Raft Monk - Tiring__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -124,6 +129,7 @@ pages:
   enableLooping: true
   id: Signe Jakobsen - What Have You Done To Me__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__other/ref.wav
   showWaveform: true
   stimuli:
@@ -139,6 +145,7 @@ pages:
   enableLooping: true
   id: Cristina Vane - So Easy__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Cristina Vane - So Easy__other/ref.wav
   showWaveform: true
   stimuli:
@@ -154,6 +161,7 @@ pages:
   enableLooping: true
   id: Little Chicago's Finest - My Own__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Little Chicago's Finest - My Own__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -169,6 +177,7 @@ pages:
   enableLooping: true
   id: Juliet's Rescue - Heartbeats__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Juliet's Rescue - Heartbeats__other/ref.wav
   showWaveform: true
   stimuli:
@@ -184,6 +193,7 @@ pages:
   enableLooping: true
   id: Signe Jakobsen - What Have You Done To Me__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -200,6 +210,7 @@ pages:
   enableLooping: true
   id: We Fell From The Sky - Not You__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/We Fell From The Sky - Not You__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -215,6 +226,7 @@ pages:
   enableLooping: true
   id: PR - Oh No__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/PR - Oh No__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -230,6 +242,7 @@ pages:
   enableLooping: true
   id: Enda Reilly - Cur An Long Ag Seol__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -245,6 +258,7 @@ pages:
   enableLooping: true
   id: AM Contra - Heart Peripheral__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/AM Contra - Heart Peripheral__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -260,6 +274,7 @@ pages:
   enableLooping: true
   id: The Sunshine Garcia Band - For I Am The Moon__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -275,6 +290,7 @@ pages:
   enableLooping: true
   id: Hollow Ground - Ill Fate__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Hollow Ground - Ill Fate__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -290,6 +306,7 @@ pages:
   enableLooping: true
   id: Enda Reilly - Cur An Long Ag Seol__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__other/ref.wav
   showWaveform: true
   stimuli:
@@ -305,6 +322,7 @@ pages:
   enableLooping: true
   id: Juliet's Rescue - Heartbeats__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -321,6 +339,7 @@ pages:
   enableLooping: true
   id: Timboz - Pony__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Timboz - Pony__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -336,6 +355,7 @@ pages:
   enableLooping: true
   id: Motor Tapes - Shore__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Motor Tapes - Shore__other/ref.wav
   showWaveform: true
   stimuli:
@@ -351,6 +371,7 @@ pages:
   enableLooping: true
   id: The Easton Ellises - Falcon 69__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Easton Ellises - Falcon 69__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -367,6 +388,7 @@ pages:
   enableLooping: true
   id: BKS - Too Much__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/BKS - Too Much__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -382,6 +404,7 @@ pages:
   enableLooping: true
   id: Mu - Too Bright__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Mu - Too Bright__other/ref.wav
   showWaveform: true
   stimuli:
@@ -397,6 +420,7 @@ pages:
   enableLooping: true
   id: Nerve 9 - Pray For The Rain__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Nerve 9 - Pray For The Rain__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -413,6 +437,7 @@ pages:
   enableLooping: true
   id: Angels In Amplifiers - I'm Alright__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Angels In Amplifiers - I'm Alright__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -428,6 +453,7 @@ pages:
   enableLooping: true
   id: Speak Softly - Like Horses__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Speak Softly - Like Horses__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -443,6 +469,7 @@ pages:
   enableLooping: true
   id: Punkdisco - Oral Hygiene__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Punkdisco - Oral Hygiene__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -459,6 +486,7 @@ pages:
   enableLooping: true
   id: Little Chicago's Finest - My Own__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Little Chicago's Finest - My Own__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -475,6 +503,7 @@ pages:
   enableLooping: true
   id: BKS - Bulldozer__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/BKS - Bulldozer__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -490,6 +519,7 @@ pages:
   enableLooping: true
   id: Timboz - Pony__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Timboz - Pony__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -506,6 +536,7 @@ pages:
   enableLooping: true
   id: Louis Cressy Band - Good Time__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Louis Cressy Band - Good Time__other/ref.wav
   showWaveform: true
   stimuli:
@@ -521,6 +552,7 @@ pages:
   enableLooping: true
   id: The Easton Ellises (Baumi) - SDRNR__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -537,6 +569,7 @@ pages:
   enableLooping: true
   id: Arise - Run Run Run__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Arise - Run Run Run__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -553,6 +586,7 @@ pages:
   enableLooping: true
   id: Cristina Vane - So Easy__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Cristina Vane - So Easy__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -569,6 +603,7 @@ pages:
   enableLooping: true
   id: Speak Softly - Broken Man__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Speak Softly - Broken Man__other/ref.wav
   showWaveform: true
   stimuli:
@@ -584,6 +619,7 @@ pages:
   enableLooping: true
   id: Lyndsey Ollard - Catching Up__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Lyndsey Ollard - Catching Up__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -599,6 +635,7 @@ pages:
   enableLooping: true
   id: The Easton Ellises - Falcon 69__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Easton Ellises - Falcon 69__other/ref.wav
   showWaveform: true
   stimuli:
@@ -614,6 +651,7 @@ pages:
   enableLooping: true
   id: Punkdisco - Oral Hygiene__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Punkdisco - Oral Hygiene__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -629,6 +667,7 @@ pages:
   enableLooping: true
   id: Side Effects Project - Sing With Me__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Side Effects Project - Sing With Me__other/ref.wav
   showWaveform: true
   stimuli:
@@ -644,6 +683,7 @@ pages:
   enableLooping: true
   id: Georgia Wonder - Siren__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Georgia Wonder - Siren__other/ref.wav
   showWaveform: true
   stimuli:

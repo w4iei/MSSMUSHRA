@@ -49,6 +49,7 @@ pages:
   enableLooping: true
   id: The Easton Ellises (Baumi) - SDRNR__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -64,6 +65,7 @@ pages:
   enableLooping: true
   id: M.E.R.C. Music - Knockout__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/M.E.R.C. Music - Knockout__other/ref.wav
   showWaveform: true
   stimuli:
@@ -79,6 +81,7 @@ pages:
   enableLooping: true
   id: Nerve 9 - Pray For The Rain__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Nerve 9 - Pray For The Rain__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -94,6 +97,7 @@ pages:
   enableLooping: true
   id: The Long Wait - Dark Horses__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Long Wait - Dark Horses__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -110,6 +114,7 @@ pages:
   enableLooping: true
   id: Triviul feat. The Fiend - Widow__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Triviul feat. The Fiend - Widow__other/ref.wav
   showWaveform: true
   stimuli:
@@ -125,6 +130,7 @@ pages:
   enableLooping: true
   id: Lyndsey Ollard - Catching Up__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Lyndsey Ollard - Catching Up__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -141,6 +147,7 @@ pages:
   enableLooping: true
   id: Hollow Ground - Ill Fate__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Hollow Ground - Ill Fate__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -156,6 +163,7 @@ pages:
   enableLooping: true
   id: Punkdisco - Oral Hygiene__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Punkdisco - Oral Hygiene__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -171,6 +179,7 @@ pages:
   enableLooping: true
   id: Tom McKenzie - Directions__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Tom McKenzie - Directions__other/ref.wav
   showWaveform: true
   stimuli:
@@ -186,6 +195,7 @@ pages:
   enableLooping: true
   id: PR - Oh No__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/PR - Oh No__other/ref.wav
   showWaveform: true
   stimuli:
@@ -201,6 +211,7 @@ pages:
   enableLooping: true
   id: Motor Tapes - Shore__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Motor Tapes - Shore__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -217,6 +228,7 @@ pages:
   enableLooping: true
   id: Skelpolu - Resurrection__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Skelpolu - Resurrection__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -232,6 +244,7 @@ pages:
   enableLooping: true
   id: Detsky Sad - Walkie Talkie__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Detsky Sad - Walkie Talkie__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -248,6 +261,7 @@ pages:
   enableLooping: true
   id: Skelpolu - Resurrection__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Skelpolu - Resurrection__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -264,6 +278,7 @@ pages:
   enableLooping: true
   id: The Sunshine Garcia Band - For I Am The Moon__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -280,6 +295,7 @@ pages:
   enableLooping: true
   id: Speak Softly - Like Horses__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Speak Softly - Like Horses__other/ref.wav
   showWaveform: true
   stimuli:
@@ -295,6 +311,7 @@ pages:
   enableLooping: true
   id: Angels In Amplifiers - I'm Alright__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Angels In Amplifiers - I'm Alright__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -311,6 +328,7 @@ pages:
   enableLooping: true
   id: The Easton Ellises (Baumi) - SDRNR__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -326,6 +344,7 @@ pages:
   enableLooping: true
   id: James Elder & Mark M Thompson - The English Actor__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/James Elder & Mark M Thompson - The English Actor__other/ref.wav
   showWaveform: true
   stimuli:
@@ -341,6 +360,7 @@ pages:
   enableLooping: true
   id: M.E.R.C. Music - Knockout__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/M.E.R.C. Music - Knockout__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -356,6 +376,7 @@ pages:
   enableLooping: true
   id: Nerve 9 - Pray For The Rain__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Nerve 9 - Pray For The Rain__other/ref.wav
   showWaveform: true
   stimuli:
@@ -371,6 +392,7 @@ pages:
   enableLooping: true
   id: Hollow Ground - Ill Fate__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Hollow Ground - Ill Fate__other/ref.wav
   showWaveform: true
   stimuli:
@@ -386,6 +408,7 @@ pages:
   enableLooping: true
   id: Moosmusic - Big Dummy Shake__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Moosmusic - Big Dummy Shake__other/ref.wav
   showWaveform: true
   stimuli:
@@ -401,6 +424,7 @@ pages:
   enableLooping: true
   id: Mu - Too Bright__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Mu - Too Bright__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -417,6 +441,7 @@ pages:
   enableLooping: true
   id: The Doppler Shift - Atrophy__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Doppler Shift - Atrophy__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -432,6 +457,7 @@ pages:
   enableLooping: true
   id: Raft Monk - Tiring__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Raft Monk - Tiring__other/ref.wav
   showWaveform: true
   stimuli:
@@ -447,6 +473,7 @@ pages:
   enableLooping: true
   id: AM Contra - Heart Peripheral__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/AM Contra - Heart Peripheral__other/ref.wav
   showWaveform: true
   stimuli:
@@ -462,6 +489,7 @@ pages:
   enableLooping: true
   id: Moosmusic - Big Dummy Shake__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Moosmusic - Big Dummy Shake__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -477,6 +505,7 @@ pages:
   enableLooping: true
   id: Georgia Wonder - Siren__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Georgia Wonder - Siren__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -493,6 +522,7 @@ pages:
   enableLooping: true
   id: Buitraker - Revo X__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Buitraker - Revo X__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -508,6 +538,7 @@ pages:
   enableLooping: true
   id: The Doppler Shift - Atrophy__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/The Doppler Shift - Atrophy__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -524,6 +555,7 @@ pages:
   enableLooping: true
   id: BKS - Bulldozer__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/BKS - Bulldozer__other/ref.wav
   showWaveform: true
   stimuli:
@@ -539,6 +571,7 @@ pages:
   enableLooping: true
   id: Sambasevam Shanmugam - Kaathaadi__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Sambasevam Shanmugam - Kaathaadi__other/ref.wav
   showWaveform: true
   stimuli:
@@ -554,6 +587,7 @@ pages:
   enableLooping: true
   id: Ben Carrigan - We'll Talk About It All Tonight__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -569,6 +603,7 @@ pages:
   enableLooping: true
   id: Punkdisco - Oral Hygiene__other
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Punkdisco - Oral Hygiene__other/ref.wav
   showWaveform: true
   stimuli:
@@ -584,6 +619,7 @@ pages:
   enableLooping: true
   id: Ben Carrigan - We'll Talk About It All Tonight__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__vocals/ref.wav
   showWaveform: true
   stimuli:
@@ -600,6 +636,7 @@ pages:
   enableLooping: true
   id: Juliet's Rescue - Heartbeats__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Juliet's Rescue - Heartbeats__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -615,6 +652,7 @@ pages:
   enableLooping: true
   id: Bobby Nobody - Stitch Up__drums
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Bobby Nobody - Stitch Up__drums/ref.wav
   showWaveform: true
   stimuli:
@@ -630,6 +668,7 @@ pages:
   enableLooping: true
   id: Carlos Gonzalez - A Place For Us__bass
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Carlos Gonzalez - A Place For Us__bass/ref.wav
   showWaveform: true
   stimuli:
@@ -645,6 +684,7 @@ pages:
   enableLooping: true
   id: Zeno - Signs__vocals
   name: MUSHRA
+  randomize: true
   reference: configs/resources/audio/Zeno - Signs__vocals/ref.wav
   showWaveform: true
   stimuli:
