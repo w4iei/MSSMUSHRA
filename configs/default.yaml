@@ -1,22 +1,6 @@
 bufferSize: 2048
 pages:
-- content: Thank you for taking part in this study as the part at the University of
-    Amsterdam.<br>In this research, we will be performing an informal MUSHRA experiment
-    to correlate subjective score of audio quality with objective measures. In musical
-    source separation (MSS), an audio recording is broken into its constituent parts
-    (eg guitar, singing, drums, bass). These extractions can have varying qualities
-    as measured objectively and subjectively at odds with similar estimates. In other
-    words, some extractions can have a high objective score and sound terrible, but
-    others can have the opposite.<br>In this experiment, you will hear approximately
-    25 different audio samples. The samples are of individual instruments (eg. guitar,
-    drums, bass, or vocals). A reference (perfect 100 score) will be provided. In
-    this test, please rate the other recordings from 0 (unintelligible, or complete
-    task failure) to 100. The task should take approximately 15 minutes.<br>Please
-    use your computer at a reasonable volume with headphones in a quiet listening
-    environment.<br>When evaluating these extracts, compare them to the reference,
-    which would warrant a 100% score. <br> Pay particular attention to whether the
-    extract has other instruments that should not be present, interference, or noise.
-    These should negatively affect the score.<br>Thanks, Noah Jaffe
+- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>40 tasks</b> (~30 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
   id: welcome_instructions
   name: Welcome to the musical source separation (MSS) evaluation task
   type: generic
