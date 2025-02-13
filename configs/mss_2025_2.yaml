@@ -4,8 +4,8 @@ pages:
     the University of Amsterdam.<br><br>This research examines how subjective audio
     quality ratings align with objective measurements in musical source separation
     (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass)
-    from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>40 tasks</b>
-    (~30 minutes).<br>- Each task involves rating an isolated instrument track on
+    from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>30 tasks</b>
+    (~45 minutes).<br>- Each task involves rating an isolated instrument track on
     a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  -
     <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>-
     Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>-
@@ -211,17 +211,17 @@ pages:
   id: James Elder & Mark M Thompson - The English Actor__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/James Elder & Mark M Thompson - The English Actor__drums/ref.wav
+  reference: configs/resources/audio/James Elder  Mark M Thompson - The English Actor__drums/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/James Elder & Mark M Thompson - The English Actor__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/James Elder & Mark M Thompson - The English
+    IRM1: configs/resources/audio/James Elder  Mark M Thompson - The English Actor__drums/IRM1.wav
+    Open-UMix: configs/resources/audio/James Elder  Mark M Thompson - The English
       Actor__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/James Elder & Mark M Thompson - The English
+    SCNet-large: configs/resources/audio/James Elder  Mark M Thompson - The English
       Actor__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/James Elder & Mark M Thompson - The English
+    htdemucs_ft: configs/resources/audio/James Elder  Mark M Thompson - The English
       Actor__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/James Elder & Mark M Thompson - The English
+    lpf_anchor: configs/resources/audio/James Elder  Mark M Thompson - The English
       Actor__drums/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a other audio estimate.
