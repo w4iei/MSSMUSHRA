@@ -216,12 +216,9 @@ pages:
   stimuli:
     IRM1: configs/resources/audio/James Elder Mark M Thompson - The English Actor__drums/IRM1.wav
     Open-UMix: configs/resources/audio/James Elder Mark M Thompson - The English Actor__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/James Elder Mark M Thompson - The English
-      Actor__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/James Elder Mark M Thompson - The English
-      Actor__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/James Elder Mark M Thompson - The English
-      Actor__drums/lpf_anchor.wav
+    SCNet-large: configs/resources/audio/James Elder Mark M Thompson - The English Actor__drums/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/James Elder Mark M Thompson - The English Actor__drums/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/James Elder Mark M Thompson - The English Actor__drums/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
