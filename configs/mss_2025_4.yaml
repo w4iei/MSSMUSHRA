@@ -309,18 +309,17 @@ pages:
   id: James Elder & Mark M Thompson - The English Actor__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/James Elder  Mark M Thompson - The English Actor__vocals/ref.wav
+  reference: configs/resources/audio/James Elder Mark M Thompson - The English Actor__vocals/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/James Elder  Mark M Thompson - The English Actor__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/James Elder  Mark M Thompson - The English
-      Actor__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/James Elder  Mark M Thompson - The English Actor__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/James Elder  Mark M Thompson - The English
+    IRM1: configs/resources/audio/James Elder Mark M Thompson - The English Actor__vocals/IRM1.wav
+    Open-UMix: configs/resources/audio/James Elder Mark M Thompson - The English Actor__vocals/Open-UMix.wav
+    REP1: configs/resources/audio/James Elder Mark M Thompson - The English Actor__vocals/REP1.wav
+    SCNet-large: configs/resources/audio/James Elder Mark M Thompson - The English
       Actor__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/James Elder  Mark M Thompson - The English
+    htdemucs_ft: configs/resources/audio/James Elder Mark M Thompson - The English
       Actor__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/James Elder  Mark M Thompson - The English
+    lpf_anchor: configs/resources/audio/James Elder Mark M Thompson - The English
       Actor__vocals/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a other audio estimate.

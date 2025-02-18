@@ -260,17 +260,16 @@ pages:
   id: James Elder & Mark M Thompson - The English Actor__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/James Elder  Mark M Thompson - The English Actor__other/ref.wav
+  reference: configs/resources/audio/James Elder Mark M Thompson - The English Actor__other/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/James Elder  Mark M Thompson - The English Actor__other/IRM1.wav
-    Open-UMix: configs/resources/audio/James Elder  Mark M Thompson - The English
-      Actor__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/James Elder  Mark M Thompson - The English
+    IRM1: configs/resources/audio/James Elder Mark M Thompson - The English Actor__other/IRM1.wav
+    Open-UMix: configs/resources/audio/James Elder Mark M Thompson - The English Actor__other/Open-UMix.wav
+    SCNet-large: configs/resources/audio/James Elder Mark M Thompson - The English
       Actor__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/James Elder  Mark M Thompson - The English
+    htdemucs_ft: configs/resources/audio/James Elder Mark M Thompson - The English
       Actor__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/James Elder  Mark M Thompson - The English
+    lpf_anchor: configs/resources/audio/James Elder Mark M Thompson - The English
       Actor__other/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
