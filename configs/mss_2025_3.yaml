@@ -156,22 +156,6 @@ pages:
     htdemucs_ft: configs/resources/audio/Skelpolu - Resurrection__drums/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/Skelpolu - Resurrection__drums/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a other audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: Al James - Schoolboy Facination__other
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/Al James - Schoolboy Facination__other/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/Al James - Schoolboy Facination__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Al James - Schoolboy Facination__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Al James - Schoolboy Facination__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Al James - Schoolboy Facination__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Al James - Schoolboy Facination__other/lpf_anchor.wav
-  type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
   createAnchor70: false
