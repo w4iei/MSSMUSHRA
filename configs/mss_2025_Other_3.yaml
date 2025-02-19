@@ -14,129 +14,129 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Sunshine Garcia Band - For I Am The Moon__other
+  id: Detsky Sad - Walkie Talkie__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__other/ref.wav
+  reference: configs/resources/audio/Detsky Sad - Walkie Talkie__other/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__other/IRM1.wav
-    Open-UMix: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/Detsky Sad - Walkie Talkie__other/IRM1.wav
+    Open-UMix: configs/resources/audio/Detsky Sad - Walkie Talkie__other/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Detsky Sad - Walkie Talkie__other/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Detsky Sad - Walkie Talkie__other/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Detsky Sad - Walkie Talkie__other/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Angels In Amplifiers - I'm Alright__other
+  id: Ben Carrigan - We'll Talk About It All Tonight__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/ref.wav
+  reference: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__other/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__other/IRM1.wav
+    Open-UMix: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__other/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__other/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__other/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__other/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises (Baumi) - SDRNR__other
+  id: The Mountaineering Club - Mallory__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__other/ref.wav
+  reference: configs/resources/audio/The Mountaineering Club - Mallory__other/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__other/IRM1.wav
-    Open-UMix: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/The Mountaineering Club - Mallory__other/IRM1.wav
+    Open-UMix: configs/resources/audio/The Mountaineering Club - Mallory__other/Open-UMix.wav
+    SCNet-large: configs/resources/audio/The Mountaineering Club - Mallory__other/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/The Mountaineering Club - Mallory__other/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/The Mountaineering Club - Mallory__other/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Buitraker - Revo X__other
+  id: Forkupines - Semantics__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Buitraker - Revo X__other/ref.wav
+  reference: configs/resources/audio/Forkupines - Semantics__other/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Buitraker - Revo X__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Buitraker - Revo X__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Buitraker - Revo X__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Buitraker - Revo X__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Buitraker - Revo X__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/Forkupines - Semantics__other/IRM1.wav
+    Open-UMix: configs/resources/audio/Forkupines - Semantics__other/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Forkupines - Semantics__other/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Forkupines - Semantics__other/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Forkupines - Semantics__other/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Over The Top__other
+  id: Lyndsey Ollard - Catching Up__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Secretariat - Over The Top__other/ref.wav
+  reference: configs/resources/audio/Lyndsey Ollard - Catching Up__other/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Secretariat - Over The Top__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Secretariat - Over The Top__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Secretariat - Over The Top__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Secretariat - Over The Top__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Secretariat - Over The Top__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/Lyndsey Ollard - Catching Up__other/IRM1.wav
+    Open-UMix: configs/resources/audio/Lyndsey Ollard - Catching Up__other/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Lyndsey Ollard - Catching Up__other/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Lyndsey Ollard - Catching Up__other/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Lyndsey Ollard - Catching Up__other/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Al James - Schoolboy Facination__other
+  id: Timboz - Pony__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Al James - Schoolboy Facination__other/ref.wav
+  reference: configs/resources/audio/Timboz - Pony__other/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Al James - Schoolboy Facination__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Al James - Schoolboy Facination__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Al James - Schoolboy Facination__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Al James - Schoolboy Facination__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Al James - Schoolboy Facination__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/Timboz - Pony__other/IRM1.wav
+    Open-UMix: configs/resources/audio/Timboz - Pony__other/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Timboz - Pony__other/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Timboz - Pony__other/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Timboz - Pony__other/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Girls Under Glass - We Feel Alright__other
+  id: Zeno - Signs__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Girls Under Glass - We Feel Alright__other/ref.wav
+  reference: configs/resources/audio/Zeno - Signs__other/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Girls Under Glass - We Feel Alright__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Girls Under Glass - We Feel Alright__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Girls Under Glass - We Feel Alright__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Girls Under Glass - We Feel Alright__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Girls Under Glass - We Feel Alright__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/Zeno - Signs__other/IRM1.wav
+    Open-UMix: configs/resources/audio/Zeno - Signs__other/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Zeno - Signs__other/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Zeno - Signs__other/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Zeno - Signs__other/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Arise - Run Run Run__other
+  id: BKS - Too Much__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Arise - Run Run Run__other/ref.wav
+  reference: configs/resources/audio/BKS - Too Much__other/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Arise - Run Run Run__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Arise - Run Run Run__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Arise - Run Run Run__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Arise - Run Run Run__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Arise - Run Run Run__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/BKS - Too Much__other/IRM1.wav
+    Open-UMix: configs/resources/audio/BKS - Too Much__other/Open-UMix.wav
+    SCNet-large: configs/resources/audio/BKS - Too Much__other/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/BKS - Too Much__other/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/BKS - Too Much__other/lpf_anchor.wav
   type: mushra
 - content: Thank you for participating in this listening test. Please click the button below to submit your responses.
   name: Thank you

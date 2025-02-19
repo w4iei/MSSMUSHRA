@@ -1,6 +1,6 @@
 bufferSize: 2048
 pages:
-- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>30 tasks</b> (~45 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
+- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>10 tasks</b> (~15 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
   id: welcome_instructions
   name: Welcome to the musical source separation (MSS) evaluation task
   type: generic
@@ -14,17 +14,65 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Angels In Amplifiers - I'm Alright__bass
+  id: Raft Monk - Tiring__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Angels In Amplifiers - I'm Alright__bass/ref.wav
+  reference: configs/resources/audio/Raft Monk - Tiring__bass/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Angels In Amplifiers - I'm Alright__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Angels In Amplifiers - I'm Alright__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Angels In Amplifiers - I'm Alright__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Angels In Amplifiers - I'm Alright__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Angels In Amplifiers - I'm Alright__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/Raft Monk - Tiring__bass/IRM1.wav
+    Open-UMix: configs/resources/audio/Raft Monk - Tiring__bass/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Raft Monk - Tiring__bass/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Raft Monk - Tiring__bass/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Raft Monk - Tiring__bass/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a bass audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: Zeno - Signs__bass
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/Zeno - Signs__bass/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/Zeno - Signs__bass/IRM1.wav
+    Open-UMix: configs/resources/audio/Zeno - Signs__bass/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Zeno - Signs__bass/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Zeno - Signs__bass/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Zeno - Signs__bass/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a bass audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: PR - Oh No__bass
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/PR - Oh No__bass/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/PR - Oh No__bass/IRM1.wav
+    Open-UMix: configs/resources/audio/PR - Oh No__bass/Open-UMix.wav
+    SCNet-large: configs/resources/audio/PR - Oh No__bass/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/PR - Oh No__bass/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/PR - Oh No__bass/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a bass audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: Triviul feat. The Fiend - Widow__bass
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/Triviul feat. The Fiend - Widow__bass/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/Triviul feat. The Fiend - Widow__bass/IRM1.wav
+    Open-UMix: configs/resources/audio/Triviul feat. The Fiend - Widow__bass/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Triviul feat. The Fiend - Widow__bass/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Triviul feat. The Fiend - Widow__bass/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Triviul feat. The Fiend - Widow__bass/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -46,65 +94,97 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: M.E.R.C. Music - Knockout__bass
+  id: Secretariat - Borderline__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/M.E.R.C. Music - Knockout__bass/ref.wav
+  reference: configs/resources/audio/Secretariat - Borderline__bass/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/M.E.R.C. Music - Knockout__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/M.E.R.C. Music - Knockout__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/M.E.R.C. Music - Knockout__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/M.E.R.C. Music - Knockout__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/M.E.R.C. Music - Knockout__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/Secretariat - Borderline__bass/IRM1.wav
+    Open-UMix: configs/resources/audio/Secretariat - Borderline__bass/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Secretariat - Borderline__bass/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Secretariat - Borderline__bass/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Secretariat - Borderline__bass/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Mu - Too Bright__bass
+  id: Al James - Schoolboy Facination__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Mu - Too Bright__bass/ref.wav
+  reference: configs/resources/audio/Al James - Schoolboy Facination__bass/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Mu - Too Bright__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Mu - Too Bright__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Mu - Too Bright__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Mu - Too Bright__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Mu - Too Bright__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/Al James - Schoolboy Facination__bass/IRM1.wav
+    Open-UMix: configs/resources/audio/Al James - Schoolboy Facination__bass/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Al James - Schoolboy Facination__bass/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Al James - Schoolboy Facination__bass/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Al James - Schoolboy Facination__bass/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Punkdisco - Oral Hygiene__bass
+  id: Side Effects Project - Sing With Me__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Punkdisco - Oral Hygiene__bass/ref.wav
+  reference: configs/resources/audio/Side Effects Project - Sing With Me__bass/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Punkdisco - Oral Hygiene__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Punkdisco - Oral Hygiene__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Punkdisco - Oral Hygiene__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Punkdisco - Oral Hygiene__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Punkdisco - Oral Hygiene__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/Side Effects Project - Sing With Me__bass/IRM1.wav
+    Open-UMix: configs/resources/audio/Side Effects Project - Sing With Me__bass/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Side Effects Project - Sing With Me__bass/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Side Effects Project - Sing With Me__bass/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Side Effects Project - Sing With Me__bass/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Ben Carrigan - We'll Talk About It All Tonight__bass
+  id: Motor Tapes - Shore__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__bass/ref.wav
+  reference: configs/resources/audio/Motor Tapes - Shore__bass/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Ben Carrigan - We'll Talk About It All Tonight__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/Motor Tapes - Shore__bass/IRM1.wav
+    Open-UMix: configs/resources/audio/Motor Tapes - Shore__bass/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Motor Tapes - Shore__bass/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Motor Tapes - Shore__bass/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Motor Tapes - Shore__bass/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a bass audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: Tom McKenzie - Directions__bass
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/Tom McKenzie - Directions__bass/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/Tom McKenzie - Directions__bass/IRM1.wav
+    Open-UMix: configs/resources/audio/Tom McKenzie - Directions__bass/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Tom McKenzie - Directions__bass/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Tom McKenzie - Directions__bass/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Tom McKenzie - Directions__bass/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a bass audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: Girls Under Glass - We Feel Alright__bass
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/Girls Under Glass - We Feel Alright__bass/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/Girls Under Glass - We Feel Alright__bass/IRM1.wav
+    Open-UMix: configs/resources/audio/Girls Under Glass - We Feel Alright__bass/Open-UMix.wav
+    SCNet-large: configs/resources/audio/Girls Under Glass - We Feel Alright__bass/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Girls Under Glass - We Feel Alright__bass/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Girls Under Glass - We Feel Alright__bass/lpf_anchor.wav
   type: mushra
 - content: Thank you for participating in this listening test. Please click the button below to submit your responses.
   name: Thank you

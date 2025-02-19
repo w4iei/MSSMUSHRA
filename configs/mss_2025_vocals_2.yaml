@@ -1,0 +1,141 @@
+bufferSize: 2048
+pages:
+- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>10 tasks</b> (~15 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
+  id: welcome_instructions
+  name: Welcome to the musical source separation (MSS) evaluation task
+  type: generic
+- content: You will be participating in this research project on a voluntary basis. This means you are free to stop taking part at any stage. This will not have any consequences and you will not be obliged to finish the procedures described above. You can always decide to withdraw your consent later on. If you decide to stop or withdraw your consent, all the information gathered up until then will be permanently deleted.<br>I hereby declare that I have been clearly informed about the research project musical source separation perception at the University of Amsterdam, Faculty of Humanities, conducted by Noah Jaffe under supervision of J. A. Burgoyne as described in the information brochure. My questions have been answered to my satisfaction.<br>I realise that participation in this research is on an entirely voluntary basis. I retain the right to revoke this consent without having to provide any reasons for my decision. I am aware that I am entitled to discontinue the research at any time,
+    and that I can always withdraw my consent after the research has ended. If I decide to stop or withdraw my consent, all the information gathered up until then will be permanently deleted.<br>I understand that no personal information will be collected.<br>If I need any further information on the research, now or in the future, I can contact J.A. Burgoyne (phone number +31 20 525 7034 e-mail j.a.burgoyne@uva.nl; Postbus 93058, 1099 BB Amsterdam.<br>If I have any complaints regarding this research, I can contact the secretary of the Ethics Committee of the Faculty of Humanities of the University of Amsterdam; email commissie- ethiek-fgw@uva.nl; phone number +31 20 525 3054; Kloveniersburgwal 48, 1012 CX Amsterdam.<br>By pressing Next I consent to participating in this research. Furthermore, I understand that I can revoke my consent by closing the web browser at any time prior to pressing Send Results on the final page.
+  id: informed_consent
+  mustConsent: true
+  name: Informed Consent
+  type: generic
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: Triviul feat. The Fiend - Widow__vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/Triviul feat. The Fiend - Widow__vocals/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/Triviul feat. The Fiend - Widow__vocals/IRM1.wav
+    Open-UMix: configs/resources/audio/Triviul feat. The Fiend - Widow__vocals/Open-UMix.wav
+    REP1: configs/resources/audio/Triviul feat. The Fiend - Widow__vocals/REP1.wav
+    SCNet-large: configs/resources/audio/Triviul feat. The Fiend - Widow__vocals/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Triviul feat. The Fiend - Widow__vocals/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Triviul feat. The Fiend - Widow__vocals/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: Girls Under Glass - We Feel Alright__vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/IRM1.wav
+    Open-UMix: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/Open-UMix.wav
+    REP1: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/REP1.wav
+    SCNet-large: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: BKS - Bulldozer__vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/BKS - Bulldozer__vocals/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/BKS - Bulldozer__vocals/IRM1.wav
+    Open-UMix: configs/resources/audio/BKS - Bulldozer__vocals/Open-UMix.wav
+    REP1: configs/resources/audio/BKS - Bulldozer__vocals/REP1.wav
+    SCNet-large: configs/resources/audio/BKS - Bulldozer__vocals/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/BKS - Bulldozer__vocals/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/BKS - Bulldozer__vocals/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: Secretariat - Over The Top__vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/Secretariat - Over The Top__vocals/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/Secretariat - Over The Top__vocals/IRM1.wav
+    Open-UMix: configs/resources/audio/Secretariat - Over The Top__vocals/Open-UMix.wav
+    REP1: configs/resources/audio/Secretariat - Over The Top__vocals/REP1.wav
+    SCNet-large: configs/resources/audio/Secretariat - Over The Top__vocals/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Secretariat - Over The Top__vocals/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Secretariat - Over The Top__vocals/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: Al James - Schoolboy Facination__vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/Al James - Schoolboy Facination__vocals/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/Al James - Schoolboy Facination__vocals/IRM1.wav
+    Open-UMix: configs/resources/audio/Al James - Schoolboy Facination__vocals/Open-UMix.wav
+    REP1: configs/resources/audio/Al James - Schoolboy Facination__vocals/REP1.wav
+    SCNet-large: configs/resources/audio/Al James - Schoolboy Facination__vocals/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Al James - Schoolboy Facination__vocals/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Al James - Schoolboy Facination__vocals/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: M.E.R.C. Music - Knockout__vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/IRM1.wav
+    Open-UMix: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/Open-UMix.wav
+    REP1: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/REP1.wav
+    SCNet-large: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: Speak Softly - Like Horses__vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/Speak Softly - Like Horses__vocals/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/Speak Softly - Like Horses__vocals/IRM1.wav
+    Open-UMix: configs/resources/audio/Speak Softly - Like Horses__vocals/Open-UMix.wav
+    REP1: configs/resources/audio/Speak Softly - Like Horses__vocals/REP1.wav
+    SCNet-large: configs/resources/audio/Speak Softly - Like Horses__vocals/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/Speak Softly - Like Horses__vocals/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/Speak Softly - Like Horses__vocals/lpf_anchor.wav
+  type: mushra
+- content: Thank you for participating in this listening test. Please click the button below to submit your responses.
+  name: Thank you
+  showResults: true
+  type: finish
+  writeResults: true
+remoteService: service/write.php
+showButtonPreviousPage: true
+stopOnErrors: true
+testId: mss
+testname: MSS Subjective Evaluation
