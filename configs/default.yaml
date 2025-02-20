@@ -488,5 +488,5 @@ pages:
 remoteService: service/write.php
 showButtonPreviousPage: true
 stopOnErrors: true
-testId: mss
+testId: mss2
 testname: MSS Subjective Evaluation
