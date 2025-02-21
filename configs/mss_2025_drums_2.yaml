@@ -1,6 +1,6 @@
 bufferSize: 2048
 pages:
-- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>10 tasks</b> (~15 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
+- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>30 tasks</b> (~45 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
   id: welcome_instructions
   name: Welcome to the musical source separation (MSS) evaluation task
   type: generic
@@ -17,14 +17,14 @@ pages:
   id: The Sunshine Garcia Band - For I Am The Moon__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__drums/ref.wav
+  reference: configs/resources/audio/188/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/188/IRM1.wav
+    Open-UMix: configs/resources/audio/188/Open-UMix.wav
+    SCNet-large: configs/resources/audio/188/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/188/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/188/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
@@ -33,14 +33,14 @@ pages:
   id: Mu - Too Bright__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Mu - Too Bright__drums/ref.wav
+  reference: configs/resources/audio/14/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Mu - Too Bright__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/Mu - Too Bright__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Mu - Too Bright__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Mu - Too Bright__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Mu - Too Bright__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/14/IRM1.wav
+    Open-UMix: configs/resources/audio/14/Open-UMix.wav
+    SCNet-large: configs/resources/audio/14/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/14/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/14/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
@@ -49,14 +49,14 @@ pages:
   id: Arise - Run Run Run__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Arise - Run Run Run__drums/ref.wav
+  reference: configs/resources/audio/46/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Arise - Run Run Run__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/Arise - Run Run Run__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Arise - Run Run Run__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Arise - Run Run Run__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Arise - Run Run Run__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/46/IRM1.wav
+    Open-UMix: configs/resources/audio/46/Open-UMix.wav
+    SCNet-large: configs/resources/audio/46/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/46/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/46/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
@@ -65,14 +65,14 @@ pages:
   id: James Elder & Mark M Thompson - The English Actor__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/James Elder Mark M Thompson - The English Actor__drums/ref.wav
+  reference: configs/resources/audio/180/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/James Elder Mark M Thompson - The English Actor__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/James Elder Mark M Thompson - The English Actor__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/James Elder Mark M Thompson - The English Actor__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/James Elder Mark M Thompson - The English Actor__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/James Elder Mark M Thompson - The English Actor__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/180/IRM1.wav
+    Open-UMix: configs/resources/audio/180/Open-UMix.wav
+    SCNet-large: configs/resources/audio/180/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/180/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/180/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
@@ -81,14 +81,14 @@ pages:
   id: Al James - Schoolboy Facination__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Al James - Schoolboy Facination__drums/ref.wav
+  reference: configs/resources/audio/121/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Al James - Schoolboy Facination__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/Al James - Schoolboy Facination__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Al James - Schoolboy Facination__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Al James - Schoolboy Facination__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Al James - Schoolboy Facination__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/121/IRM1.wav
+    Open-UMix: configs/resources/audio/121/Open-UMix.wav
+    SCNet-large: configs/resources/audio/121/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/121/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/121/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
@@ -97,14 +97,14 @@ pages:
   id: Secretariat - Over The Top__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Secretariat - Over The Top__drums/ref.wav
+  reference: configs/resources/audio/150/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Secretariat - Over The Top__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/Secretariat - Over The Top__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Secretariat - Over The Top__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Secretariat - Over The Top__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Secretariat - Over The Top__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/150/IRM1.wav
+    Open-UMix: configs/resources/audio/150/Open-UMix.wav
+    SCNet-large: configs/resources/audio/150/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/150/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/150/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
@@ -113,14 +113,14 @@ pages:
   id: Forkupines - Semantics__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Forkupines - Semantics__drums/ref.wav
+  reference: configs/resources/audio/78/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Forkupines - Semantics__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/Forkupines - Semantics__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Forkupines - Semantics__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Forkupines - Semantics__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Forkupines - Semantics__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/78/IRM1.wav
+    Open-UMix: configs/resources/audio/78/Open-UMix.wav
+    SCNet-large: configs/resources/audio/78/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/78/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/78/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
@@ -129,14 +129,14 @@ pages:
   id: PR - Happy Daze__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/PR - Happy Daze__drums/ref.wav
+  reference: configs/resources/audio/57/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/PR - Happy Daze__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/PR - Happy Daze__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/PR - Happy Daze__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/PR - Happy Daze__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/PR - Happy Daze__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/57/IRM1.wav
+    Open-UMix: configs/resources/audio/57/Open-UMix.wav
+    SCNet-large: configs/resources/audio/57/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/57/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/57/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
@@ -145,14 +145,14 @@ pages:
   id: Signe Jakobsen - What Have You Done To Me__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__drums/ref.wav
+  reference: configs/resources/audio/189/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/189/IRM1.wav
+    Open-UMix: configs/resources/audio/189/Open-UMix.wav
+    SCNet-large: configs/resources/audio/189/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/189/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/189/lpf_anchor.wav
   type: mushra
 - content: Thank you for participating in this listening test. Please click the button below to submit your responses.
   name: Thank you

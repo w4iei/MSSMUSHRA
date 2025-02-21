@@ -17,14 +17,14 @@ pages:
   id: Angels In Amplifiers - I'm Alright__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/ref.wav
+  reference: configs/resources/audio/122/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/122/IRM1.wav
+    Open-UMix: configs/resources/audio/122/Open-UMix.wav
+    SCNet-large: configs/resources/audio/122/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/122/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/122/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -33,15 +33,15 @@ pages:
   id: The Mountaineering Club - Mallory__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/The Mountaineering Club - Mallory__vocals/ref.wav
+  reference: configs/resources/audio/129/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/The Mountaineering Club - Mallory__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/The Mountaineering Club - Mallory__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/The Mountaineering Club - Mallory__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/The Mountaineering Club - Mallory__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/The Mountaineering Club - Mallory__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/The Mountaineering Club - Mallory__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/129/IRM1.wav
+    Open-UMix: configs/resources/audio/129/Open-UMix.wav
+    REP1: configs/resources/audio/129/REP1.wav
+    SCNet-large: configs/resources/audio/129/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/129/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/129/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
@@ -50,14 +50,14 @@ pages:
   id: Speak Softly - Like Horses__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Speak Softly - Like Horses__drums/ref.wav
+  reference: configs/resources/audio/4/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Speak Softly - Like Horses__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/Speak Softly - Like Horses__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Speak Softly - Like Horses__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Speak Softly - Like Horses__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Speak Softly - Like Horses__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/4/IRM1.wav
+    Open-UMix: configs/resources/audio/4/Open-UMix.wav
+    SCNet-large: configs/resources/audio/4/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/4/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/4/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
@@ -66,14 +66,14 @@ pages:
   id: Skelpolu - Resurrection__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Skelpolu - Resurrection__other/ref.wav
+  reference: configs/resources/audio/48/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Skelpolu - Resurrection__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Skelpolu - Resurrection__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Skelpolu - Resurrection__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Skelpolu - Resurrection__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Skelpolu - Resurrection__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/48/IRM1.wav
+    Open-UMix: configs/resources/audio/48/Open-UMix.wav
+    SCNet-large: configs/resources/audio/48/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/48/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/48/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -82,14 +82,14 @@ pages:
   id: Hollow Ground - Ill Fate__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Hollow Ground - Ill Fate__bass/ref.wav
+  reference: configs/resources/audio/37/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Hollow Ground - Ill Fate__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Hollow Ground - Ill Fate__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Hollow Ground - Ill Fate__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Hollow Ground - Ill Fate__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Hollow Ground - Ill Fate__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/37/IRM1.wav
+    Open-UMix: configs/resources/audio/37/Open-UMix.wav
+    SCNet-large: configs/resources/audio/37/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/37/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/37/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
@@ -98,14 +98,14 @@ pages:
   id: Speak Softly - Broken Man__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Speak Softly - Broken Man__drums/ref.wav
+  reference: configs/resources/audio/172/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Speak Softly - Broken Man__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/Speak Softly - Broken Man__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Speak Softly - Broken Man__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Speak Softly - Broken Man__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Speak Softly - Broken Man__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/172/IRM1.wav
+    Open-UMix: configs/resources/audio/172/Open-UMix.wav
+    SCNet-large: configs/resources/audio/172/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/172/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/172/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
@@ -114,14 +114,14 @@ pages:
   id: The Mountaineering Club - Mallory__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/The Mountaineering Club - Mallory__other/ref.wav
+  reference: configs/resources/audio/107/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/The Mountaineering Club - Mallory__other/IRM1.wav
-    Open-UMix: configs/resources/audio/The Mountaineering Club - Mallory__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/The Mountaineering Club - Mallory__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/The Mountaineering Club - Mallory__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/The Mountaineering Club - Mallory__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/107/IRM1.wav
+    Open-UMix: configs/resources/audio/107/Open-UMix.wav
+    SCNet-large: configs/resources/audio/107/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/107/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/107/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -130,14 +130,14 @@ pages:
   id: We Fell From The Sky - Not You__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/We Fell From The Sky - Not You__bass/ref.wav
+  reference: configs/resources/audio/44/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/We Fell From The Sky - Not You__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/We Fell From The Sky - Not You__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/We Fell From The Sky - Not You__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/We Fell From The Sky - Not You__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/We Fell From The Sky - Not You__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/44/IRM1.wav
+    Open-UMix: configs/resources/audio/44/Open-UMix.wav
+    SCNet-large: configs/resources/audio/44/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/44/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/44/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -146,14 +146,14 @@ pages:
   id: Lyndsey Ollard - Catching Up__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Lyndsey Ollard - Catching Up__bass/ref.wav
+  reference: configs/resources/audio/39/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Lyndsey Ollard - Catching Up__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Lyndsey Ollard - Catching Up__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Lyndsey Ollard - Catching Up__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Lyndsey Ollard - Catching Up__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Lyndsey Ollard - Catching Up__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/39/IRM1.wav
+    Open-UMix: configs/resources/audio/39/Open-UMix.wav
+    SCNet-large: configs/resources/audio/39/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/39/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/39/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -162,15 +162,15 @@ pages:
   id: Skelpolu - Resurrection__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Skelpolu - Resurrection__vocals/ref.wav
+  reference: configs/resources/audio/15/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Skelpolu - Resurrection__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Skelpolu - Resurrection__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Skelpolu - Resurrection__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Skelpolu - Resurrection__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Skelpolu - Resurrection__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Skelpolu - Resurrection__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/15/IRM1.wav
+    Open-UMix: configs/resources/audio/15/Open-UMix.wav
+    REP1: configs/resources/audio/15/REP1.wav
+    SCNet-large: configs/resources/audio/15/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/15/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/15/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -179,14 +179,14 @@ pages:
   id: Zeno - Signs__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Zeno - Signs__bass/ref.wav
+  reference: configs/resources/audio/47/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Zeno - Signs__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Zeno - Signs__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Zeno - Signs__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Zeno - Signs__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Zeno - Signs__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/47/IRM1.wav
+    Open-UMix: configs/resources/audio/47/Open-UMix.wav
+    SCNet-large: configs/resources/audio/47/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/47/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/47/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
@@ -195,14 +195,14 @@ pages:
   id: Motor Tapes - Shore__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Motor Tapes - Shore__drums/ref.wav
+  reference: configs/resources/audio/110/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Motor Tapes - Shore__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/Motor Tapes - Shore__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Motor Tapes - Shore__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Motor Tapes - Shore__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Motor Tapes - Shore__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/110/IRM1.wav
+    Open-UMix: configs/resources/audio/110/Open-UMix.wav
+    SCNet-large: configs/resources/audio/110/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/110/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/110/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -211,15 +211,15 @@ pages:
   id: Juliet's Rescue - Heartbeats__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/ref.wav
+  reference: configs/resources/audio/176/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/176/IRM1.wav
+    Open-UMix: configs/resources/audio/176/Open-UMix.wav
+    REP1: configs/resources/audio/176/REP1.wav
+    SCNet-large: configs/resources/audio/176/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/176/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/176/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -228,14 +228,14 @@ pages:
   id: Enda Reilly - Cur An Long Ag Seol__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__bass/ref.wav
+  reference: configs/resources/audio/28/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/28/IRM1.wav
+    Open-UMix: configs/resources/audio/28/Open-UMix.wav
+    SCNet-large: configs/resources/audio/28/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/28/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/28/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
@@ -244,14 +244,14 @@ pages:
   id: Nerve 9 - Pray For The Rain__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Nerve 9 - Pray For The Rain__other/ref.wav
+  reference: configs/resources/audio/184/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Nerve 9 - Pray For The Rain__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Nerve 9 - Pray For The Rain__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Nerve 9 - Pray For The Rain__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Nerve 9 - Pray For The Rain__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Nerve 9 - Pray For The Rain__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/184/IRM1.wav
+    Open-UMix: configs/resources/audio/184/Open-UMix.wav
+    SCNet-large: configs/resources/audio/184/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/184/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/184/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -260,14 +260,14 @@ pages:
   id: PR - Oh No__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/PR - Oh No__bass/ref.wav
+  reference: configs/resources/audio/179/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/PR - Oh No__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/PR - Oh No__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/PR - Oh No__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/PR - Oh No__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/PR - Oh No__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/179/IRM1.wav
+    Open-UMix: configs/resources/audio/179/Open-UMix.wav
+    SCNet-large: configs/resources/audio/179/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/179/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/179/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
@@ -276,14 +276,14 @@ pages:
   id: Lyndsey Ollard - Catching Up__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Lyndsey Ollard - Catching Up__other/ref.wav
+  reference: configs/resources/audio/133/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Lyndsey Ollard - Catching Up__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Lyndsey Ollard - Catching Up__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Lyndsey Ollard - Catching Up__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Lyndsey Ollard - Catching Up__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Lyndsey Ollard - Catching Up__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/133/IRM1.wav
+    Open-UMix: configs/resources/audio/133/Open-UMix.wav
+    SCNet-large: configs/resources/audio/133/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/133/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/133/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
@@ -292,14 +292,14 @@ pages:
   id: Angels In Amplifiers - I'm Alright__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Angels In Amplifiers - I'm Alright__drums/ref.wav
+  reference: configs/resources/audio/165/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Angels In Amplifiers - I'm Alright__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/Angels In Amplifiers - I'm Alright__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Angels In Amplifiers - I'm Alright__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Angels In Amplifiers - I'm Alright__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Angels In Amplifiers - I'm Alright__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/165/IRM1.wav
+    Open-UMix: configs/resources/audio/165/Open-UMix.wav
+    SCNet-large: configs/resources/audio/165/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/165/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/165/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -308,15 +308,15 @@ pages:
   id: M.E.R.C. Music - Knockout__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/ref.wav
+  reference: configs/resources/audio/42/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/42/IRM1.wav
+    Open-UMix: configs/resources/audio/42/Open-UMix.wav
+    REP1: configs/resources/audio/42/REP1.wav
+    SCNet-large: configs/resources/audio/42/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/42/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/42/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
@@ -325,14 +325,14 @@ pages:
   id: Moosmusic - Big Dummy Shake__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Moosmusic - Big Dummy Shake__drums/ref.wav
+  reference: configs/resources/audio/148/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Moosmusic - Big Dummy Shake__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/Moosmusic - Big Dummy Shake__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Moosmusic - Big Dummy Shake__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Moosmusic - Big Dummy Shake__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Moosmusic - Big Dummy Shake__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/148/IRM1.wav
+    Open-UMix: configs/resources/audio/148/Open-UMix.wav
+    SCNet-large: configs/resources/audio/148/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/148/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/148/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -341,14 +341,14 @@ pages:
   id: Secretariat - Borderline__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Secretariat - Borderline__bass/ref.wav
+  reference: configs/resources/audio/76/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Secretariat - Borderline__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Secretariat - Borderline__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Secretariat - Borderline__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Secretariat - Borderline__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Secretariat - Borderline__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/76/IRM1.wav
+    Open-UMix: configs/resources/audio/76/Open-UMix.wav
+    SCNet-large: configs/resources/audio/76/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/76/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/76/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
@@ -357,14 +357,14 @@ pages:
   id: Louis Cressy Band - Good Time__drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Louis Cressy Band - Good Time__drums/ref.wav
+  reference: configs/resources/audio/12/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Louis Cressy Band - Good Time__drums/IRM1.wav
-    Open-UMix: configs/resources/audio/Louis Cressy Band - Good Time__drums/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Louis Cressy Band - Good Time__drums/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Louis Cressy Band - Good Time__drums/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Louis Cressy Band - Good Time__drums/lpf_anchor.wav
+    IRM1: configs/resources/audio/12/IRM1.wav
+    Open-UMix: configs/resources/audio/12/Open-UMix.wav
+    SCNet-large: configs/resources/audio/12/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/12/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/12/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -373,15 +373,15 @@ pages:
   id: The Easton Ellises (Baumi) - SDRNR__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/ref.wav
+  reference: configs/resources/audio/191/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/191/IRM1.wav
+    Open-UMix: configs/resources/audio/191/Open-UMix.wav
+    REP1: configs/resources/audio/191/REP1.wav
+    SCNet-large: configs/resources/audio/191/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/191/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/191/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
@@ -390,14 +390,14 @@ pages:
   id: Secretariat - Borderline__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Secretariat - Borderline__other/ref.wav
+  reference: configs/resources/audio/41/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Secretariat - Borderline__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Secretariat - Borderline__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Secretariat - Borderline__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Secretariat - Borderline__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Secretariat - Borderline__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/41/IRM1.wav
+    Open-UMix: configs/resources/audio/41/Open-UMix.wav
+    SCNet-large: configs/resources/audio/41/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/41/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/41/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
@@ -406,14 +406,14 @@ pages:
   id: Punkdisco - Oral Hygiene__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Punkdisco - Oral Hygiene__other/ref.wav
+  reference: configs/resources/audio/192/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Punkdisco - Oral Hygiene__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Punkdisco - Oral Hygiene__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Punkdisco - Oral Hygiene__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Punkdisco - Oral Hygiene__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Punkdisco - Oral Hygiene__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/192/IRM1.wav
+    Open-UMix: configs/resources/audio/192/Open-UMix.wav
+    SCNet-large: configs/resources/audio/192/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/192/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/192/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -422,14 +422,14 @@ pages:
   id: Motor Tapes - Shore__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Motor Tapes - Shore__bass/ref.wav
+  reference: configs/resources/audio/60/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Motor Tapes - Shore__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Motor Tapes - Shore__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Motor Tapes - Shore__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Motor Tapes - Shore__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Motor Tapes - Shore__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/60/IRM1.wav
+    Open-UMix: configs/resources/audio/60/Open-UMix.wav
+    SCNet-large: configs/resources/audio/60/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/60/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/60/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -438,15 +438,15 @@ pages:
   id: PR - Oh No__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/PR - Oh No__vocals/ref.wav
+  reference: configs/resources/audio/23/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/PR - Oh No__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/PR - Oh No__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/PR - Oh No__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/PR - Oh No__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/PR - Oh No__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/PR - Oh No__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/23/IRM1.wav
+    Open-UMix: configs/resources/audio/23/Open-UMix.wav
+    REP1: configs/resources/audio/23/REP1.wav
+    SCNet-large: configs/resources/audio/23/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/23/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/23/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
@@ -455,14 +455,14 @@ pages:
   id: Side Effects Project - Sing With Me__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Side Effects Project - Sing With Me__other/ref.wav
+  reference: configs/resources/audio/63/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Side Effects Project - Sing With Me__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Side Effects Project - Sing With Me__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Side Effects Project - Sing With Me__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Side Effects Project - Sing With Me__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Side Effects Project - Sing With Me__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/63/IRM1.wav
+    Open-UMix: configs/resources/audio/63/Open-UMix.wav
+    SCNet-large: configs/resources/audio/63/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/63/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/63/lpf_anchor.wav
   type: mushra
 - content: Thank you for participating in this listening test. Please click the button below to submit your responses.<br>Your prolific code is CXLPIJGW
   name: Thank you

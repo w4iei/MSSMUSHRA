@@ -1,6 +1,6 @@
 bufferSize: 2048
 pages:
-- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>10 tasks</b> (~15 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
+- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>30 tasks</b> (~45 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
   id: welcome_instructions
   name: Welcome to the musical source separation (MSS) evaluation task
   type: generic
@@ -17,14 +17,14 @@ pages:
   id: The Easton Ellises (Baumi) - SDRNR__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__bass/ref.wav
+  reference: configs/resources/audio/194/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/194/IRM1.wav
+    Open-UMix: configs/resources/audio/194/Open-UMix.wav
+    SCNet-large: configs/resources/audio/194/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/194/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/194/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -33,14 +33,14 @@ pages:
   id: Nerve 9 - Pray For The Rain__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Nerve 9 - Pray For The Rain__bass/ref.wav
+  reference: configs/resources/audio/77/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Nerve 9 - Pray For The Rain__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Nerve 9 - Pray For The Rain__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Nerve 9 - Pray For The Rain__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Nerve 9 - Pray For The Rain__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Nerve 9 - Pray For The Rain__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/77/IRM1.wav
+    Open-UMix: configs/resources/audio/77/Open-UMix.wav
+    SCNet-large: configs/resources/audio/77/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/77/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/77/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -49,14 +49,14 @@ pages:
   id: Hollow Ground - Ill Fate__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Hollow Ground - Ill Fate__bass/ref.wav
+  reference: configs/resources/audio/37/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Hollow Ground - Ill Fate__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Hollow Ground - Ill Fate__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Hollow Ground - Ill Fate__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Hollow Ground - Ill Fate__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Hollow Ground - Ill Fate__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/37/IRM1.wav
+    Open-UMix: configs/resources/audio/37/Open-UMix.wav
+    SCNet-large: configs/resources/audio/37/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/37/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/37/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -65,14 +65,14 @@ pages:
   id: Buitraker - Revo X__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Buitraker - Revo X__bass/ref.wav
+  reference: configs/resources/audio/97/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Buitraker - Revo X__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Buitraker - Revo X__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Buitraker - Revo X__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Buitraker - Revo X__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Buitraker - Revo X__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/97/IRM1.wav
+    Open-UMix: configs/resources/audio/97/Open-UMix.wav
+    SCNet-large: configs/resources/audio/97/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/97/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/97/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -81,14 +81,14 @@ pages:
   id: Juliet's Rescue - Heartbeats__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Juliet's Rescue - Heartbeats__bass/ref.wav
+  reference: configs/resources/audio/8/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Juliet's Rescue - Heartbeats__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Juliet's Rescue - Heartbeats__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Juliet's Rescue - Heartbeats__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Juliet's Rescue - Heartbeats__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Juliet's Rescue - Heartbeats__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/8/IRM1.wav
+    Open-UMix: configs/resources/audio/8/Open-UMix.wav
+    SCNet-large: configs/resources/audio/8/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/8/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/8/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
@@ -97,14 +97,14 @@ pages:
   id: Carlos Gonzalez - A Place For Us__bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Carlos Gonzalez - A Place For Us__bass/ref.wav
+  reference: configs/resources/audio/58/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Carlos Gonzalez - A Place For Us__bass/IRM1.wav
-    Open-UMix: configs/resources/audio/Carlos Gonzalez - A Place For Us__bass/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Carlos Gonzalez - A Place For Us__bass/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Carlos Gonzalez - A Place For Us__bass/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Carlos Gonzalez - A Place For Us__bass/lpf_anchor.wav
+    IRM1: configs/resources/audio/58/IRM1.wav
+    Open-UMix: configs/resources/audio/58/Open-UMix.wav
+    SCNet-large: configs/resources/audio/58/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/58/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/58/lpf_anchor.wav
   type: mushra
 - content: Thank you for participating in this listening test. Please click the button below to submit your responses.
   name: Thank you

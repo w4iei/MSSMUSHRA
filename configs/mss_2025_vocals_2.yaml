@@ -1,6 +1,6 @@
 bufferSize: 2048
 pages:
-- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>10 tasks</b> (~15 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
+- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>30 tasks</b> (~45 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
   id: welcome_instructions
   name: Welcome to the musical source separation (MSS) evaluation task
   type: generic
@@ -17,15 +17,15 @@ pages:
   id: Triviul feat. The Fiend - Widow__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Triviul feat. The Fiend - Widow__vocals/ref.wav
+  reference: configs/resources/audio/96/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Triviul feat. The Fiend - Widow__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Triviul feat. The Fiend - Widow__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Triviul feat. The Fiend - Widow__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Triviul feat. The Fiend - Widow__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Triviul feat. The Fiend - Widow__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Triviul feat. The Fiend - Widow__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/96/IRM1.wav
+    Open-UMix: configs/resources/audio/96/Open-UMix.wav
+    REP1: configs/resources/audio/96/REP1.wav
+    SCNet-large: configs/resources/audio/96/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/96/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/96/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -34,15 +34,15 @@ pages:
   id: Girls Under Glass - We Feel Alright__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/ref.wav
+  reference: configs/resources/audio/162/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Girls Under Glass - We Feel Alright__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/162/IRM1.wav
+    Open-UMix: configs/resources/audio/162/Open-UMix.wav
+    REP1: configs/resources/audio/162/REP1.wav
+    SCNet-large: configs/resources/audio/162/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/162/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/162/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -51,15 +51,15 @@ pages:
   id: BKS - Bulldozer__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/BKS - Bulldozer__vocals/ref.wav
+  reference: configs/resources/audio/116/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/BKS - Bulldozer__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/BKS - Bulldozer__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/BKS - Bulldozer__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/BKS - Bulldozer__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/BKS - Bulldozer__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/BKS - Bulldozer__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/116/IRM1.wav
+    Open-UMix: configs/resources/audio/116/Open-UMix.wav
+    REP1: configs/resources/audio/116/REP1.wav
+    SCNet-large: configs/resources/audio/116/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/116/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/116/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -68,15 +68,15 @@ pages:
   id: Secretariat - Over The Top__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Secretariat - Over The Top__vocals/ref.wav
+  reference: configs/resources/audio/132/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Secretariat - Over The Top__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Secretariat - Over The Top__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Secretariat - Over The Top__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Secretariat - Over The Top__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Secretariat - Over The Top__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Secretariat - Over The Top__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/132/IRM1.wav
+    Open-UMix: configs/resources/audio/132/Open-UMix.wav
+    REP1: configs/resources/audio/132/REP1.wav
+    SCNet-large: configs/resources/audio/132/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/132/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/132/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -85,15 +85,15 @@ pages:
   id: Al James - Schoolboy Facination__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Al James - Schoolboy Facination__vocals/ref.wav
+  reference: configs/resources/audio/90/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Al James - Schoolboy Facination__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Al James - Schoolboy Facination__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Al James - Schoolboy Facination__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Al James - Schoolboy Facination__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Al James - Schoolboy Facination__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Al James - Schoolboy Facination__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/90/IRM1.wav
+    Open-UMix: configs/resources/audio/90/Open-UMix.wav
+    REP1: configs/resources/audio/90/REP1.wav
+    SCNet-large: configs/resources/audio/90/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/90/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/90/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -102,15 +102,15 @@ pages:
   id: M.E.R.C. Music - Knockout__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/ref.wav
+  reference: configs/resources/audio/42/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/M.E.R.C. Music - Knockout__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/42/IRM1.wav
+    Open-UMix: configs/resources/audio/42/Open-UMix.wav
+    REP1: configs/resources/audio/42/REP1.wav
+    SCNet-large: configs/resources/audio/42/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/42/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/42/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -119,15 +119,15 @@ pages:
   id: Speak Softly - Like Horses__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Speak Softly - Like Horses__vocals/ref.wav
+  reference: configs/resources/audio/26/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Speak Softly - Like Horses__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Speak Softly - Like Horses__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Speak Softly - Like Horses__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Speak Softly - Like Horses__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Speak Softly - Like Horses__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Speak Softly - Like Horses__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/26/IRM1.wav
+    Open-UMix: configs/resources/audio/26/Open-UMix.wav
+    REP1: configs/resources/audio/26/REP1.wav
+    SCNet-large: configs/resources/audio/26/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/26/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/26/lpf_anchor.wav
   type: mushra
 - content: Thank you for participating in this listening test. Please click the button below to submit your responses.
   name: Thank you

@@ -1,6 +1,6 @@
 bufferSize: 2048
 pages:
-- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>10 tasks</b> (~15 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
+- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>30 tasks</b> (~45 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
   id: welcome_instructions
   name: Welcome to the musical source separation (MSS) evaluation task
   type: generic
@@ -17,14 +17,14 @@ pages:
   id: Skelpolu - Resurrection__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Skelpolu - Resurrection__other/ref.wav
+  reference: configs/resources/audio/48/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Skelpolu - Resurrection__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Skelpolu - Resurrection__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Skelpolu - Resurrection__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Skelpolu - Resurrection__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Skelpolu - Resurrection__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/48/IRM1.wav
+    Open-UMix: configs/resources/audio/48/Open-UMix.wav
+    SCNet-large: configs/resources/audio/48/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/48/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/48/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
@@ -33,14 +33,14 @@ pages:
   id: Carlos Gonzalez - A Place For Us__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Carlos Gonzalez - A Place For Us__other/ref.wav
+  reference: configs/resources/audio/62/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Carlos Gonzalez - A Place For Us__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Carlos Gonzalez - A Place For Us__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Carlos Gonzalez - A Place For Us__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Carlos Gonzalez - A Place For Us__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Carlos Gonzalez - A Place For Us__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/62/IRM1.wav
+    Open-UMix: configs/resources/audio/62/Open-UMix.wav
+    SCNet-large: configs/resources/audio/62/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/62/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/62/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
@@ -49,14 +49,14 @@ pages:
   id: Little Chicago's Finest - My Own__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Little Chicago's Finest - My Own__other/ref.wav
+  reference: configs/resources/audio/61/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Little Chicago's Finest - My Own__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Little Chicago's Finest - My Own__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Little Chicago's Finest - My Own__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Little Chicago's Finest - My Own__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Little Chicago's Finest - My Own__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/61/IRM1.wav
+    Open-UMix: configs/resources/audio/61/Open-UMix.wav
+    SCNet-large: configs/resources/audio/61/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/61/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/61/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
@@ -65,14 +65,14 @@ pages:
   id: Bobby Nobody - Stitch Up__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Bobby Nobody - Stitch Up__other/ref.wav
+  reference: configs/resources/audio/84/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Bobby Nobody - Stitch Up__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Bobby Nobody - Stitch Up__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Bobby Nobody - Stitch Up__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Bobby Nobody - Stitch Up__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Bobby Nobody - Stitch Up__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/84/IRM1.wav
+    Open-UMix: configs/resources/audio/84/Open-UMix.wav
+    SCNet-large: configs/resources/audio/84/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/84/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/84/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
@@ -81,14 +81,14 @@ pages:
   id: The Long Wait - Dark Horses__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/The Long Wait - Dark Horses__other/ref.wav
+  reference: configs/resources/audio/142/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/The Long Wait - Dark Horses__other/IRM1.wav
-    Open-UMix: configs/resources/audio/The Long Wait - Dark Horses__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/The Long Wait - Dark Horses__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/The Long Wait - Dark Horses__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/The Long Wait - Dark Horses__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/142/IRM1.wav
+    Open-UMix: configs/resources/audio/142/Open-UMix.wav
+    SCNet-large: configs/resources/audio/142/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/142/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/142/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
@@ -97,14 +97,14 @@ pages:
   id: PR - Happy Daze__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/PR - Happy Daze__other/ref.wav
+  reference: configs/resources/audio/25/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/PR - Happy Daze__other/IRM1.wav
-    Open-UMix: configs/resources/audio/PR - Happy Daze__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/PR - Happy Daze__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/PR - Happy Daze__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/PR - Happy Daze__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/25/IRM1.wav
+    Open-UMix: configs/resources/audio/25/Open-UMix.wav
+    SCNet-large: configs/resources/audio/25/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/25/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/25/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
@@ -113,14 +113,14 @@ pages:
   id: Secretariat - Borderline__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Secretariat - Borderline__other/ref.wav
+  reference: configs/resources/audio/41/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Secretariat - Borderline__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Secretariat - Borderline__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Secretariat - Borderline__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Secretariat - Borderline__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Secretariat - Borderline__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/41/IRM1.wav
+    Open-UMix: configs/resources/audio/41/Open-UMix.wav
+    SCNet-large: configs/resources/audio/41/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/41/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/41/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
@@ -129,14 +129,14 @@ pages:
   id: We Fell From The Sky - Not You__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/We Fell From The Sky - Not You__other/ref.wav
+  reference: configs/resources/audio/56/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/We Fell From The Sky - Not You__other/IRM1.wav
-    Open-UMix: configs/resources/audio/We Fell From The Sky - Not You__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/We Fell From The Sky - Not You__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/We Fell From The Sky - Not You__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/We Fell From The Sky - Not You__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/56/IRM1.wav
+    Open-UMix: configs/resources/audio/56/Open-UMix.wav
+    SCNet-large: configs/resources/audio/56/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/56/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/56/lpf_anchor.wav
   type: mushra
 - content: Thank you for participating in this listening test. Please click the button below to submit your responses.
   name: Thank you

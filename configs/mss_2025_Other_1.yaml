@@ -1,6 +1,6 @@
 bufferSize: 2048
 pages:
-- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>10 tasks</b> (~15 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
+- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>30 tasks</b> (~45 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
   id: welcome_instructions
   name: Welcome to the musical source separation (MSS) evaluation task
   type: generic
@@ -17,14 +17,14 @@ pages:
   id: The Sunshine Garcia Band - For I Am The Moon__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__other/ref.wav
+  reference: configs/resources/audio/67/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__other/IRM1.wav
-    Open-UMix: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/The Sunshine Garcia Band - For I Am The Moon__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/67/IRM1.wav
+    Open-UMix: configs/resources/audio/67/Open-UMix.wav
+    SCNet-large: configs/resources/audio/67/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/67/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/67/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
@@ -33,14 +33,14 @@ pages:
   id: Angels In Amplifiers - I'm Alright__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/ref.wav
+  reference: configs/resources/audio/122/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Angels In Amplifiers - I'm Alright__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/122/IRM1.wav
+    Open-UMix: configs/resources/audio/122/Open-UMix.wav
+    SCNet-large: configs/resources/audio/122/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/122/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/122/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
@@ -49,14 +49,14 @@ pages:
   id: The Easton Ellises (Baumi) - SDRNR__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__other/ref.wav
+  reference: configs/resources/audio/137/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__other/IRM1.wav
-    Open-UMix: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/137/IRM1.wav
+    Open-UMix: configs/resources/audio/137/Open-UMix.wav
+    SCNet-large: configs/resources/audio/137/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/137/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/137/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
@@ -65,14 +65,14 @@ pages:
   id: Buitraker - Revo X__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Buitraker - Revo X__other/ref.wav
+  reference: configs/resources/audio/163/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Buitraker - Revo X__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Buitraker - Revo X__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Buitraker - Revo X__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Buitraker - Revo X__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Buitraker - Revo X__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/163/IRM1.wav
+    Open-UMix: configs/resources/audio/163/Open-UMix.wav
+    SCNet-large: configs/resources/audio/163/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/163/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/163/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
@@ -81,14 +81,30 @@ pages:
   id: Secretariat - Over The Top__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Secretariat - Over The Top__other/ref.wav
+  reference: configs/resources/audio/53/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Secretariat - Over The Top__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Secretariat - Over The Top__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Secretariat - Over The Top__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Secretariat - Over The Top__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Secretariat - Over The Top__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/53/IRM1.wav
+    Open-UMix: configs/resources/audio/53/Open-UMix.wav
+    SCNet-large: configs/resources/audio/53/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/53/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/53/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: Al James - Schoolboy Facination__other
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/79/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/79/IRM1.wav
+    Open-UMix: configs/resources/audio/79/Open-UMix.wav
+    SCNet-large: configs/resources/audio/79/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/79/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/79/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
@@ -97,14 +113,14 @@ pages:
   id: Girls Under Glass - We Feel Alright__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Girls Under Glass - We Feel Alright__other/ref.wav
+  reference: configs/resources/audio/95/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Girls Under Glass - We Feel Alright__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Girls Under Glass - We Feel Alright__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Girls Under Glass - We Feel Alright__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Girls Under Glass - We Feel Alright__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Girls Under Glass - We Feel Alright__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/95/IRM1.wav
+    Open-UMix: configs/resources/audio/95/Open-UMix.wav
+    SCNet-large: configs/resources/audio/95/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/95/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/95/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
   createAnchor35: false
@@ -113,14 +129,14 @@ pages:
   id: Arise - Run Run Run__other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Arise - Run Run Run__other/ref.wav
+  reference: configs/resources/audio/158/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Arise - Run Run Run__other/IRM1.wav
-    Open-UMix: configs/resources/audio/Arise - Run Run Run__other/Open-UMix.wav
-    SCNet-large: configs/resources/audio/Arise - Run Run Run__other/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Arise - Run Run Run__other/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Arise - Run Run Run__other/lpf_anchor.wav
+    IRM1: configs/resources/audio/158/IRM1.wav
+    Open-UMix: configs/resources/audio/158/Open-UMix.wav
+    SCNet-large: configs/resources/audio/158/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/158/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/158/lpf_anchor.wav
   type: mushra
 - content: Thank you for participating in this listening test. Please click the button below to submit your responses.
   name: Thank you

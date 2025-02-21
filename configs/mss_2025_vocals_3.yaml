@@ -1,6 +1,6 @@
 bufferSize: 2048
 pages:
-- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>10 tasks</b> (~15 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
+- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>30 tasks</b> (~45 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
   id: welcome_instructions
   name: Welcome to the musical source separation (MSS) evaluation task
   type: generic
@@ -17,15 +17,15 @@ pages:
   id: Side Effects Project - Sing With Me__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Side Effects Project - Sing With Me__vocals/ref.wav
+  reference: configs/resources/audio/102/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Side Effects Project - Sing With Me__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Side Effects Project - Sing With Me__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Side Effects Project - Sing With Me__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Side Effects Project - Sing With Me__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Side Effects Project - Sing With Me__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Side Effects Project - Sing With Me__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/102/IRM1.wav
+    Open-UMix: configs/resources/audio/102/Open-UMix.wav
+    REP1: configs/resources/audio/102/REP1.wav
+    SCNet-large: configs/resources/audio/102/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/102/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/102/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -34,15 +34,15 @@ pages:
   id: Buitraker - Revo X__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Buitraker - Revo X__vocals/ref.wav
+  reference: configs/resources/audio/3/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Buitraker - Revo X__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Buitraker - Revo X__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Buitraker - Revo X__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Buitraker - Revo X__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Buitraker - Revo X__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Buitraker - Revo X__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/3/IRM1.wav
+    Open-UMix: configs/resources/audio/3/Open-UMix.wav
+    REP1: configs/resources/audio/3/REP1.wav
+    SCNet-large: configs/resources/audio/3/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/3/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/3/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -51,15 +51,15 @@ pages:
   id: The Mountaineering Club - Mallory__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/The Mountaineering Club - Mallory__vocals/ref.wav
+  reference: configs/resources/audio/129/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/The Mountaineering Club - Mallory__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/The Mountaineering Club - Mallory__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/The Mountaineering Club - Mallory__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/The Mountaineering Club - Mallory__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/The Mountaineering Club - Mallory__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/The Mountaineering Club - Mallory__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/129/IRM1.wav
+    Open-UMix: configs/resources/audio/129/Open-UMix.wav
+    REP1: configs/resources/audio/129/REP1.wav
+    SCNet-large: configs/resources/audio/129/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/129/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/129/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -68,15 +68,15 @@ pages:
   id: Carlos Gonzalez - A Place For Us__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Carlos Gonzalez - A Place For Us__vocals/ref.wav
+  reference: configs/resources/audio/193/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Carlos Gonzalez - A Place For Us__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Carlos Gonzalez - A Place For Us__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Carlos Gonzalez - A Place For Us__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Carlos Gonzalez - A Place For Us__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Carlos Gonzalez - A Place For Us__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Carlos Gonzalez - A Place For Us__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/193/IRM1.wav
+    Open-UMix: configs/resources/audio/193/Open-UMix.wav
+    REP1: configs/resources/audio/193/REP1.wav
+    SCNet-large: configs/resources/audio/193/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/193/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/193/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -85,15 +85,15 @@ pages:
   id: Forkupines - Semantics__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Forkupines - Semantics__vocals/ref.wav
+  reference: configs/resources/audio/20/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Forkupines - Semantics__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Forkupines - Semantics__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Forkupines - Semantics__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Forkupines - Semantics__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Forkupines - Semantics__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Forkupines - Semantics__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/20/IRM1.wav
+    Open-UMix: configs/resources/audio/20/Open-UMix.wav
+    REP1: configs/resources/audio/20/REP1.wav
+    SCNet-large: configs/resources/audio/20/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/20/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/20/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -102,15 +102,15 @@ pages:
   id: PR - Happy Daze__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/PR - Happy Daze__vocals/ref.wav
+  reference: configs/resources/audio/125/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/PR - Happy Daze__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/PR - Happy Daze__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/PR - Happy Daze__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/PR - Happy Daze__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/PR - Happy Daze__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/PR - Happy Daze__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/125/IRM1.wav
+    Open-UMix: configs/resources/audio/125/Open-UMix.wav
+    REP1: configs/resources/audio/125/REP1.wav
+    SCNet-large: configs/resources/audio/125/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/125/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/125/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -119,15 +119,15 @@ pages:
   id: Enda Reilly - Cur An Long Ag Seol__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__vocals/ref.wav
+  reference: configs/resources/audio/18/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Enda Reilly - Cur An Long Ag Seol__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/18/IRM1.wav
+    Open-UMix: configs/resources/audio/18/Open-UMix.wav
+    REP1: configs/resources/audio/18/REP1.wav
+    SCNet-large: configs/resources/audio/18/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/18/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/18/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -136,15 +136,15 @@ pages:
   id: AM Contra - Heart Peripheral__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/AM Contra - Heart Peripheral__vocals/ref.wav
+  reference: configs/resources/audio/21/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/AM Contra - Heart Peripheral__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/AM Contra - Heart Peripheral__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/AM Contra - Heart Peripheral__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/AM Contra - Heart Peripheral__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/AM Contra - Heart Peripheral__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/AM Contra - Heart Peripheral__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/21/IRM1.wav
+    Open-UMix: configs/resources/audio/21/Open-UMix.wav
+    REP1: configs/resources/audio/21/REP1.wav
+    SCNet-large: configs/resources/audio/21/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/21/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/21/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -153,15 +153,15 @@ pages:
   id: Sambasevam Shanmugam - Kaathaadi__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Sambasevam Shanmugam - Kaathaadi__vocals/ref.wav
+  reference: configs/resources/audio/40/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Sambasevam Shanmugam - Kaathaadi__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Sambasevam Shanmugam - Kaathaadi__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Sambasevam Shanmugam - Kaathaadi__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Sambasevam Shanmugam - Kaathaadi__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Sambasevam Shanmugam - Kaathaadi__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Sambasevam Shanmugam - Kaathaadi__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/40/IRM1.wav
+    Open-UMix: configs/resources/audio/40/Open-UMix.wav
+    REP1: configs/resources/audio/40/REP1.wav
+    SCNet-large: configs/resources/audio/40/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/40/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/40/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -170,15 +170,15 @@ pages:
   id: PR - Oh No__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/PR - Oh No__vocals/ref.wav
+  reference: configs/resources/audio/23/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/PR - Oh No__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/PR - Oh No__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/PR - Oh No__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/PR - Oh No__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/PR - Oh No__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/PR - Oh No__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/23/IRM1.wav
+    Open-UMix: configs/resources/audio/23/Open-UMix.wav
+    REP1: configs/resources/audio/23/REP1.wav
+    SCNet-large: configs/resources/audio/23/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/23/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/23/lpf_anchor.wav
   type: mushra
 - content: Thank you for participating in this listening test. Please click the button below to submit your responses.
   name: Thank you

@@ -1,6 +1,6 @@
 bufferSize: 2048
 pages:
-- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>10 tasks</b> (~15 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
+- content: Instructions for Participants<br><br>Thank you for joining this study at the University of Amsterdam.<br><br>This research examines how subjective audio quality ratings align with objective measurements in musical source separation (MSS)—the process of isolating instruments (e.g., guitar, vocals, drums, bass) from a mix.<br><br><b>Task Overview</b><br>- You will complete <b>30 tasks</b> (~45 minutes).<br>- Each task involves rating an isolated instrument track on a scale from <b>0 to 100</b>:<br>  - <b>100</b> = Perfect match to the reference<br>  - <b>0</b> = Unintelligible or complete failure<br><br><b>What to Listen For</b><br>- Unwanted sounds (e.g., other instruments leaking in)<br>- Distortions or artifacts<br>- Clarity and naturalness<br><br><b>Test Setup</b><br>- Use a <b>computer</b> with <b>headphones</b>.<br>- Find a <b>quiet</b> space.<br><br>Thank you!<br><b>Noah Jaffe</b>
   id: welcome_instructions
   name: Welcome to the musical source separation (MSS) evaluation task
   type: generic
@@ -17,15 +17,15 @@ pages:
   id: Signe Jakobsen - What Have You Done To Me__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__vocals/ref.wav
+  reference: configs/resources/audio/114/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Signe Jakobsen - What Have You Done To Me__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/114/IRM1.wav
+    Open-UMix: configs/resources/audio/114/Open-UMix.wav
+    REP1: configs/resources/audio/114/REP1.wav
+    SCNet-large: configs/resources/audio/114/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/114/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/114/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -34,15 +34,15 @@ pages:
   id: Juliet's Rescue - Heartbeats__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/ref.wav
+  reference: configs/resources/audio/176/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Juliet's Rescue - Heartbeats__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/176/IRM1.wav
+    Open-UMix: configs/resources/audio/176/Open-UMix.wav
+    REP1: configs/resources/audio/176/REP1.wav
+    SCNet-large: configs/resources/audio/176/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/176/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/176/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -51,15 +51,15 @@ pages:
   id: The Easton Ellises - Falcon 69__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/The Easton Ellises - Falcon 69__vocals/ref.wav
+  reference: configs/resources/audio/100/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/The Easton Ellises - Falcon 69__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/The Easton Ellises - Falcon 69__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/The Easton Ellises - Falcon 69__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/The Easton Ellises - Falcon 69__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/The Easton Ellises - Falcon 69__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/The Easton Ellises - Falcon 69__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/100/IRM1.wav
+    Open-UMix: configs/resources/audio/100/Open-UMix.wav
+    REP1: configs/resources/audio/100/REP1.wav
+    SCNet-large: configs/resources/audio/100/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/100/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/100/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -68,15 +68,15 @@ pages:
   id: Nerve 9 - Pray For The Rain__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Nerve 9 - Pray For The Rain__vocals/ref.wav
+  reference: configs/resources/audio/22/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Nerve 9 - Pray For The Rain__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Nerve 9 - Pray For The Rain__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Nerve 9 - Pray For The Rain__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Nerve 9 - Pray For The Rain__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Nerve 9 - Pray For The Rain__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Nerve 9 - Pray For The Rain__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/22/IRM1.wav
+    Open-UMix: configs/resources/audio/22/Open-UMix.wav
+    REP1: configs/resources/audio/22/REP1.wav
+    SCNet-large: configs/resources/audio/22/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/22/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/22/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -85,15 +85,15 @@ pages:
   id: Punkdisco - Oral Hygiene__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Punkdisco - Oral Hygiene__vocals/ref.wav
+  reference: configs/resources/audio/200/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Punkdisco - Oral Hygiene__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Punkdisco - Oral Hygiene__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Punkdisco - Oral Hygiene__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Punkdisco - Oral Hygiene__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Punkdisco - Oral Hygiene__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Punkdisco - Oral Hygiene__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/200/IRM1.wav
+    Open-UMix: configs/resources/audio/200/Open-UMix.wav
+    REP1: configs/resources/audio/200/REP1.wav
+    SCNet-large: configs/resources/audio/200/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/200/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/200/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -102,15 +102,15 @@ pages:
   id: Little Chicago's Finest - My Own__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Little Chicago's Finest - My Own__vocals/ref.wav
+  reference: configs/resources/audio/75/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Little Chicago's Finest - My Own__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Little Chicago's Finest - My Own__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Little Chicago's Finest - My Own__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Little Chicago's Finest - My Own__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Little Chicago's Finest - My Own__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Little Chicago's Finest - My Own__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/75/IRM1.wav
+    Open-UMix: configs/resources/audio/75/Open-UMix.wav
+    REP1: configs/resources/audio/75/REP1.wav
+    SCNet-large: configs/resources/audio/75/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/75/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/75/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -119,15 +119,15 @@ pages:
   id: Timboz - Pony__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Timboz - Pony__vocals/ref.wav
+  reference: configs/resources/audio/32/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Timboz - Pony__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Timboz - Pony__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Timboz - Pony__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Timboz - Pony__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Timboz - Pony__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Timboz - Pony__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/32/IRM1.wav
+    Open-UMix: configs/resources/audio/32/Open-UMix.wav
+    REP1: configs/resources/audio/32/REP1.wav
+    SCNet-large: configs/resources/audio/32/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/32/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/32/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -136,15 +136,15 @@ pages:
   id: The Easton Ellises (Baumi) - SDRNR__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/ref.wav
+  reference: configs/resources/audio/191/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/The Easton Ellises (Baumi) - SDRNR__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/191/IRM1.wav
+    Open-UMix: configs/resources/audio/191/Open-UMix.wav
+    REP1: configs/resources/audio/191/REP1.wav
+    SCNet-large: configs/resources/audio/191/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/191/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/191/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -153,15 +153,15 @@ pages:
   id: Arise - Run Run Run__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Arise - Run Run Run__vocals/ref.wav
+  reference: configs/resources/audio/88/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Arise - Run Run Run__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Arise - Run Run Run__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Arise - Run Run Run__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Arise - Run Run Run__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Arise - Run Run Run__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Arise - Run Run Run__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/88/IRM1.wav
+    Open-UMix: configs/resources/audio/88/Open-UMix.wav
+    REP1: configs/resources/audio/88/REP1.wav
+    SCNet-large: configs/resources/audio/88/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/88/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/88/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
@@ -170,15 +170,15 @@ pages:
   id: Cristina Vane - So Easy__vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/Cristina Vane - So Easy__vocals/ref.wav
+  reference: configs/resources/audio/151/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/Cristina Vane - So Easy__vocals/IRM1.wav
-    Open-UMix: configs/resources/audio/Cristina Vane - So Easy__vocals/Open-UMix.wav
-    REP1: configs/resources/audio/Cristina Vane - So Easy__vocals/REP1.wav
-    SCNet-large: configs/resources/audio/Cristina Vane - So Easy__vocals/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/Cristina Vane - So Easy__vocals/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/Cristina Vane - So Easy__vocals/lpf_anchor.wav
+    IRM1: configs/resources/audio/151/IRM1.wav
+    Open-UMix: configs/resources/audio/151/Open-UMix.wav
+    REP1: configs/resources/audio/151/REP1.wav
+    SCNet-large: configs/resources/audio/151/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/151/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/151/lpf_anchor.wav
   type: mushra
 - content: Thank you for participating in this listening test. Please click the button below to submit your responses.
   name: Thank you
