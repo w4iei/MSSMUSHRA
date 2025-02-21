@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Side Effects Project - Sing With Me__vocals
+  id: 102_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/102/ref.wav
@@ -31,7 +31,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Buitraker - Revo X__vocals
+  id: 3_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/3/ref.wav
@@ -48,7 +48,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Mountaineering Club - Mallory__vocals
+  id: 129_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/129/ref.wav
@@ -65,7 +65,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Carlos Gonzalez - A Place For Us__vocals
+  id: 193_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/193/ref.wav
@@ -82,7 +82,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Forkupines - Semantics__vocals
+  id: 20_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/20/ref.wav
@@ -99,7 +99,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Happy Daze__vocals
+  id: 125_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/125/ref.wav
@@ -116,7 +116,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Enda Reilly - Cur An Long Ag Seol__vocals
+  id: 18_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/18/ref.wav
@@ -133,7 +133,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: AM Contra - Heart Peripheral__vocals
+  id: 21_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/21/ref.wav
@@ -150,7 +150,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Sambasevam Shanmugam - Kaathaadi__vocals
+  id: 40_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/40/ref.wav
@@ -167,7 +167,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Oh No__vocals
+  id: 23_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/23/ref.wav

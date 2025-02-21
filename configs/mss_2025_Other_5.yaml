@@ -10,11 +10,11 @@ pages:
   mustConsent: true
   name: Informed Consent
   type: generic
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Doppler Shift - Atrophy__other
+  id: 45_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/45/ref.wav
@@ -26,11 +26,11 @@ pages:
     htdemucs_ft: configs/resources/audio/45/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/45/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Signe Jakobsen - What Have You Done To Me__other
+  id: 195_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/195/ref.wav
@@ -42,11 +42,11 @@ pages:
     htdemucs_ft: configs/resources/audio/195/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/195/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Cristina Vane - So Easy__other
+  id: 154_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/154/ref.wav
@@ -58,11 +58,11 @@ pages:
     htdemucs_ft: configs/resources/audio/154/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/154/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Juliet's Rescue - Heartbeats__other
+  id: 161_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/161/ref.wav
@@ -74,11 +74,11 @@ pages:
     htdemucs_ft: configs/resources/audio/161/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/161/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Enda Reilly - Cur An Long Ag Seol__other
+  id: 143_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/143/ref.wav
@@ -90,11 +90,11 @@ pages:
     htdemucs_ft: configs/resources/audio/143/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/143/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Motor Tapes - Shore__other
+  id: 52_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/52/ref.wav
@@ -106,11 +106,11 @@ pages:
     htdemucs_ft: configs/resources/audio/52/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/52/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Mu - Too Bright__other
+  id: 170_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/170/ref.wav
@@ -122,11 +122,11 @@ pages:
     htdemucs_ft: configs/resources/audio/170/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/170/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Louis Cressy Band - Good Time__other
+  id: 89_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/89/ref.wav
@@ -138,11 +138,11 @@ pages:
     htdemucs_ft: configs/resources/audio/89/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/89/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Speak Softly - Broken Man__other
+  id: 167_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/167/ref.wav
@@ -154,11 +154,11 @@ pages:
     htdemucs_ft: configs/resources/audio/167/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/167/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises - Falcon 69__other
+  id: 9_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/9/ref.wav
@@ -170,11 +170,11 @@ pages:
     htdemucs_ft: configs/resources/audio/9/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/9/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Side Effects Project - Sing With Me__other
+  id: 63_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/63/ref.wav
@@ -186,11 +186,11 @@ pages:
     htdemucs_ft: configs/resources/audio/63/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/63/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Georgia Wonder - Siren__other
+  id: 164_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/164/ref.wav

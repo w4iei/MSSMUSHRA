@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Signe Jakobsen - What Have You Done To Me__vocals
+  id: 114_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/114/ref.wav
@@ -31,7 +31,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Juliet's Rescue - Heartbeats__vocals
+  id: 176_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/176/ref.wav
@@ -48,7 +48,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises - Falcon 69__vocals
+  id: 100_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/100/ref.wav
@@ -65,7 +65,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Nerve 9 - Pray For The Rain__vocals
+  id: 22_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/22/ref.wav
@@ -82,7 +82,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Punkdisco - Oral Hygiene__vocals
+  id: 200_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/200/ref.wav
@@ -99,7 +99,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Little Chicago's Finest - My Own__vocals
+  id: 75_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/75/ref.wav
@@ -116,7 +116,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Timboz - Pony__vocals
+  id: 32_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/32/ref.wav
@@ -133,7 +133,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises (Baumi) - SDRNR__vocals
+  id: 191_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/191/ref.wav
@@ -150,7 +150,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Arise - Run Run Run__vocals
+  id: 88_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/88/ref.wav
@@ -167,7 +167,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Cristina Vane - So Easy__vocals
+  id: 151_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/151/ref.wav

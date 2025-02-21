@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Over The Top__bass
+  id: 171_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/171/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Angels In Amplifiers - I'm Alright__bass
+  id: 16_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/16/ref.wav
@@ -46,7 +46,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Happy Daze__bass
+  id: 123_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/123/ref.wav
@@ -62,7 +62,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Long Wait - Dark Horses__bass
+  id: 126_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/126/ref.wav
@@ -78,7 +78,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Lyndsey Ollard - Catching Up__bass
+  id: 39_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/39/ref.wav
@@ -94,7 +94,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Louis Cressy Band - Good Time__bass
+  id: 105_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/105/ref.wav
@@ -110,7 +110,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: James Elder & Mark M Thompson - The English Actor__bass
+  id: 119_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/119/ref.wav
@@ -126,7 +126,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises - Falcon 69__bass
+  id: 19_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/19/ref.wav
@@ -142,7 +142,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Enda Reilly - Cur An Long Ag Seol__bass
+  id: 28_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/28/ref.wav
@@ -158,7 +158,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Signe Jakobsen - What Have You Done To Me__bass
+  id: 5_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/5/ref.wav
@@ -174,7 +174,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Speak Softly - Broken Man__bass
+  id: 153_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/153/ref.wav
@@ -190,7 +190,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Cristina Vane - So Easy__bass
+  id: 118_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/118/ref.wav
@@ -206,7 +206,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: M.E.R.C. Music - Knockout__bass
+  id: 182_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/182/ref.wav
@@ -222,7 +222,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Skelpolu - Resurrection__bass
+  id: 144_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/144/ref.wav
@@ -238,7 +238,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Timboz - Pony__bass
+  id: 152_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/152/ref.wav
@@ -254,7 +254,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Ben Carrigan - We'll Talk About It All Tonight__bass
+  id: 190_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/190/ref.wav

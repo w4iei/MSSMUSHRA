@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Moosmusic - Big Dummy Shake__bass
+  id: 112_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/112/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Over The Top__bass
+  id: 171_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/171/ref.wav
@@ -46,7 +46,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Long Wait - Dark Horses__vocals
+  id: 31_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/31/ref.wav
@@ -63,7 +63,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Buitraker - Revo X__other
+  id: 163_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/163/ref.wav
@@ -79,7 +79,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Mountaineering Club - Mallory__bass
+  id: 13_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/13/ref.wav
@@ -95,7 +95,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Little Chicago's Finest - My Own__bass
+  id: 173_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/173/ref.wav
@@ -111,7 +111,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Long Wait - Dark Horses__bass
+  id: 126_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/126/ref.wav
@@ -127,7 +127,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Motor Tapes - Shore__vocals
+  id: 146_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/146/ref.wav
@@ -144,7 +144,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Carlos Gonzalez - A Place For Us__drums
+  id: 103_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/103/ref.wav
@@ -160,7 +160,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Forkupines - Semantics__vocals
+  id: 20_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/20/ref.wav
@@ -177,7 +177,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Sunshine Garcia Band - For I Am The Moon__bass
+  id: 166_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/166/ref.wav
@@ -193,7 +193,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: James Elder & Mark M Thompson - The English Actor__bass
+  id: 119_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/119/ref.wav
@@ -209,7 +209,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises (Baumi) - SDRNR__drums
+  id: 124_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/124/ref.wav
@@ -225,7 +225,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Tom McKenzie - Directions__vocals
+  id: 73_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/73/ref.wav
@@ -242,7 +242,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Side Effects Project - Sing With Me__drums
+  id: 30_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/30/ref.wav
@@ -258,7 +258,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Too Much__drums
+  id: 135_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/135/ref.wav
@@ -274,7 +274,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Over The Top__drums
+  id: 150_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/150/ref.wav
@@ -290,7 +290,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Doppler Shift - Atrophy__drums
+  id: 83_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/83/ref.wav
@@ -306,7 +306,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Girls Under Glass - We Feel Alright__other
+  id: 95_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/95/ref.wav
@@ -322,7 +322,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Borderline__drums
+  id: 181_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/181/ref.wav
@@ -338,7 +338,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Bulldozer__bass
+  id: 93_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/93/ref.wav
@@ -354,7 +354,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Cristina Vane - So Easy__bass
+  id: 118_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/118/ref.wav
@@ -370,7 +370,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Bulldozer__other
+  id: 183_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/183/ref.wav
@@ -386,7 +386,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Louis Cressy Band - Good Time__vocals
+  id: 186_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/186/ref.wav
@@ -403,7 +403,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Arise - Run Run Run__bass
+  id: 108_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/108/ref.wav
@@ -419,7 +419,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Lyndsey Ollard - Catching Up__drums
+  id: 130_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/130/ref.wav
@@ -435,7 +435,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Timboz - Pony__bass
+  id: 152_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/152/ref.wav
@@ -451,7 +451,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Carlos Gonzalez - A Place For Us__bass
+  id: 58_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/58/ref.wav

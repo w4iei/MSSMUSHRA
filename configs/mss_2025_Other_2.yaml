@@ -10,11 +10,11 @@ pages:
   mustConsent: true
   name: Informed Consent
   type: generic
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Skelpolu - Resurrection__other
+  id: 48_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/48/ref.wav
@@ -26,11 +26,11 @@ pages:
     htdemucs_ft: configs/resources/audio/48/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/48/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Carlos Gonzalez - A Place For Us__other
+  id: 62_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/62/ref.wav
@@ -42,11 +42,11 @@ pages:
     htdemucs_ft: configs/resources/audio/62/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/62/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Little Chicago's Finest - My Own__other
+  id: 61_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/61/ref.wav
@@ -58,11 +58,11 @@ pages:
     htdemucs_ft: configs/resources/audio/61/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/61/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Bobby Nobody - Stitch Up__other
+  id: 84_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/84/ref.wav
@@ -74,11 +74,11 @@ pages:
     htdemucs_ft: configs/resources/audio/84/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/84/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Long Wait - Dark Horses__other
+  id: 142_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/142/ref.wav
@@ -90,11 +90,11 @@ pages:
     htdemucs_ft: configs/resources/audio/142/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/142/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Happy Daze__other
+  id: 25_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/25/ref.wav
@@ -106,11 +106,11 @@ pages:
     htdemucs_ft: configs/resources/audio/25/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/25/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Borderline__other
+  id: 41_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/41/ref.wav
@@ -122,11 +122,11 @@ pages:
     htdemucs_ft: configs/resources/audio/41/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/41/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: We Fell From The Sky - Not You__other
+  id: 56_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/56/ref.wav

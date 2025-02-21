@@ -10,11 +10,11 @@ pages:
   mustConsent: true
   name: Informed Consent
   type: generic
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Sunshine Garcia Band - For I Am The Moon__other
+  id: 67_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/67/ref.wav
@@ -26,11 +26,11 @@ pages:
     htdemucs_ft: configs/resources/audio/67/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/67/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Angels In Amplifiers - I'm Alright__other
+  id: 122_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/122/ref.wav
@@ -42,11 +42,11 @@ pages:
     htdemucs_ft: configs/resources/audio/122/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/122/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises (Baumi) - SDRNR__other
+  id: 137_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/137/ref.wav
@@ -58,11 +58,11 @@ pages:
     htdemucs_ft: configs/resources/audio/137/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/137/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Buitraker - Revo X__other
+  id: 163_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/163/ref.wav
@@ -74,11 +74,11 @@ pages:
     htdemucs_ft: configs/resources/audio/163/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/163/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Over The Top__other
+  id: 53_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/53/ref.wav
@@ -90,11 +90,11 @@ pages:
     htdemucs_ft: configs/resources/audio/53/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/53/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Al James - Schoolboy Facination__other
+  id: 79_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/79/ref.wav
@@ -106,11 +106,11 @@ pages:
     htdemucs_ft: configs/resources/audio/79/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/79/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Girls Under Glass - We Feel Alright__other
+  id: 95_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/95/ref.wav
@@ -122,11 +122,11 @@ pages:
     htdemucs_ft: configs/resources/audio/95/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/95/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Arise - Run Run Run__other
+  id: 158_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/158/ref.wav

@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Buitraker - Revo X__drums
+  id: 196_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/196/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Tom McKenzie - Directions__drums
+  id: 66_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/66/ref.wav
@@ -46,7 +46,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Georgia Wonder - Siren__drums
+  id: 80_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/80/ref.wav
@@ -62,7 +62,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Motor Tapes - Shore__drums
+  id: 110_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/110/ref.wav
@@ -78,7 +78,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Mountaineering Club - Mallory__drums
+  id: 149_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/149/ref.wav
@@ -94,7 +94,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Girls Under Glass - We Feel Alright__drums
+  id: 185_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/185/ref.wav
@@ -110,7 +110,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Side Effects Project - Sing With Me__drums
+  id: 30_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/30/ref.wav
@@ -126,7 +126,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Detsky Sad - Walkie Talkie__drums
+  id: 35_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/35/ref.wav
@@ -142,7 +142,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: We Fell From The Sky - Not You__drums
+  id: 94_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/94/ref.wav
@@ -158,7 +158,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Borderline__drums
+  id: 181_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/181/ref.wav
@@ -174,7 +174,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Louis Cressy Band - Good Time__drums
+  id: 12_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/12/ref.wav
@@ -190,7 +190,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Long Wait - Dark Horses__drums
+  id: 98_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/98/ref.wav
@@ -206,7 +206,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Juliet's Rescue - Heartbeats__drums
+  id: 7_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/7/ref.wav

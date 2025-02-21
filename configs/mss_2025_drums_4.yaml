@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Punkdisco - Oral Hygiene__drums
+  id: 33_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/33/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Skelpolu - Resurrection__drums
+  id: 17_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/17/ref.wav
@@ -46,7 +46,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises (Baumi) - SDRNR__drums
+  id: 124_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/124/ref.wav
@@ -62,7 +62,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: M.E.R.C. Music - Knockout__drums
+  id: 113_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/113/ref.wav
@@ -78,7 +78,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Doppler Shift - Atrophy__drums
+  id: 83_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/83/ref.wav
@@ -94,7 +94,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Moosmusic - Big Dummy Shake__drums
+  id: 148_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/148/ref.wav
@@ -110,7 +110,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Ben Carrigan - We'll Talk About It All Tonight__drums
+  id: 72_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/72/ref.wav
@@ -126,7 +126,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Bobby Nobody - Stitch Up__drums
+  id: 140_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/140/ref.wav

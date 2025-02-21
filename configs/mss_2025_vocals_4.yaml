@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Long Wait - Dark Horses__vocals
+  id: 31_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/31/ref.wav
@@ -31,7 +31,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Lyndsey Ollard - Catching Up__vocals
+  id: 6_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/6/ref.wav
@@ -48,7 +48,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Motor Tapes - Shore__vocals
+  id: 146_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/146/ref.wav
@@ -65,7 +65,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Skelpolu - Resurrection__vocals
+  id: 15_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/15/ref.wav
@@ -82,7 +82,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Sunshine Garcia Band - For I Am The Moon__vocals
+  id: 85_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/85/ref.wav
@@ -99,7 +99,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Angels In Amplifiers - I'm Alright__vocals
+  id: 134_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/134/ref.wav
@@ -116,7 +116,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Mu - Too Bright__vocals
+  id: 128_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/128/ref.wav
@@ -133,7 +133,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Georgia Wonder - Siren__vocals
+  id: 50_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/50/ref.wav
@@ -150,7 +150,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Doppler Shift - Atrophy__vocals
+  id: 68_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/68/ref.wav
@@ -167,7 +167,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Ben Carrigan - We'll Talk About It All Tonight__vocals
+  id: 155_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/155/ref.wav
@@ -184,7 +184,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Zeno - Signs__vocals
+  id: 29_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/29/ref.wav

@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Angels In Amplifiers - I'm Alright__other
+  id: 122_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/122/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Mountaineering Club - Mallory__vocals
+  id: 129_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/129/ref.wav
@@ -47,7 +47,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Speak Softly - Like Horses__drums
+  id: 4_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/4/ref.wav
@@ -63,7 +63,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Skelpolu - Resurrection__other
+  id: 48_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/48/ref.wav
@@ -79,7 +79,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Hollow Ground - Ill Fate__bass
+  id: 37_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/37/ref.wav
@@ -95,7 +95,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Speak Softly - Broken Man__drums
+  id: 172_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/172/ref.wav
@@ -111,7 +111,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Mountaineering Club - Mallory__other
+  id: 107_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/107/ref.wav
@@ -127,7 +127,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: We Fell From The Sky - Not You__bass
+  id: 44_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/44/ref.wav
@@ -143,7 +143,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Lyndsey Ollard - Catching Up__bass
+  id: 39_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/39/ref.wav
@@ -159,7 +159,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Skelpolu - Resurrection__vocals
+  id: 15_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/15/ref.wav
@@ -176,7 +176,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Zeno - Signs__bass
+  id: 47_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/47/ref.wav
@@ -192,7 +192,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Motor Tapes - Shore__drums
+  id: 110_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/110/ref.wav
@@ -208,7 +208,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Juliet's Rescue - Heartbeats__vocals
+  id: 176_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/176/ref.wav
@@ -225,7 +225,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Enda Reilly - Cur An Long Ag Seol__bass
+  id: 28_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/28/ref.wav
@@ -241,7 +241,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Nerve 9 - Pray For The Rain__other
+  id: 184_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/184/ref.wav
@@ -257,7 +257,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Oh No__bass
+  id: 179_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/179/ref.wav
@@ -273,7 +273,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Lyndsey Ollard - Catching Up__other
+  id: 133_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/133/ref.wav
@@ -289,7 +289,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Angels In Amplifiers - I'm Alright__drums
+  id: 165_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/165/ref.wav
@@ -305,7 +305,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: M.E.R.C. Music - Knockout__vocals
+  id: 42_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/42/ref.wav
@@ -322,7 +322,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Moosmusic - Big Dummy Shake__drums
+  id: 148_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/148/ref.wav
@@ -338,7 +338,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Borderline__bass
+  id: 76_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/76/ref.wav
@@ -354,7 +354,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Louis Cressy Band - Good Time__drums
+  id: 12_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/12/ref.wav
@@ -370,7 +370,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises (Baumi) - SDRNR__vocals
+  id: 191_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/191/ref.wav
@@ -387,7 +387,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Borderline__other
+  id: 41_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/41/ref.wav
@@ -403,7 +403,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Punkdisco - Oral Hygiene__other
+  id: 192_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/192/ref.wav
@@ -419,7 +419,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Motor Tapes - Shore__bass
+  id: 60_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/60/ref.wav
@@ -435,7 +435,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Oh No__vocals
+  id: 23_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/23/ref.wav
@@ -452,7 +452,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Side Effects Project - Sing With Me__other
+  id: 63_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/63/ref.wav

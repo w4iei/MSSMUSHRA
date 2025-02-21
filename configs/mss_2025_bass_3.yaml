@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Bobby Nobody - Stitch Up__bass
+  id: 131_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/131/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Too Much__bass
+  id: 111_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/111/ref.wav
@@ -46,7 +46,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Mountaineering Club - Mallory__bass
+  id: 13_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/13/ref.wav
@@ -62,7 +62,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Forkupines - Semantics__bass
+  id: 104_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/104/ref.wav
@@ -78,7 +78,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Doppler Shift - Atrophy__bass
+  id: 157_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/157/ref.wav
@@ -94,7 +94,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Sambasevam Shanmugam - Kaathaadi__bass
+  id: 69_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/69/ref.wav
@@ -110,7 +110,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Detsky Sad - Walkie Talkie__bass
+  id: 2_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/2/ref.wav
@@ -126,7 +126,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Arise - Run Run Run__bass
+  id: 108_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/108/ref.wav
@@ -142,7 +142,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Mu - Too Bright__bass
+  id: 24_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/24/ref.wav

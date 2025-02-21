@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises (Baumi) - SDRNR__bass
+  id: 194_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/194/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Nerve 9 - Pray For The Rain__bass
+  id: 77_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/77/ref.wav
@@ -46,7 +46,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Hollow Ground - Ill Fate__bass
+  id: 37_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/37/ref.wav
@@ -62,7 +62,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Buitraker - Revo X__bass
+  id: 97_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/97/ref.wav
@@ -78,7 +78,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Juliet's Rescue - Heartbeats__bass
+  id: 8_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/8/ref.wav
@@ -94,7 +94,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Carlos Gonzalez - A Place For Us__bass
+  id: 58_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/58/ref.wav

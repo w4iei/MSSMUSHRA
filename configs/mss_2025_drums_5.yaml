@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Nerve 9 - Pray For The Rain__drums
+  id: 159_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/159/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Speak Softly - Like Horses__drums
+  id: 4_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/4/ref.wav
@@ -46,7 +46,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Raft Monk - Tiring__drums
+  id: 187_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/187/ref.wav
@@ -62,7 +62,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Oh No__drums
+  id: 81_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/81/ref.wav
@@ -78,7 +78,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Enda Reilly - Cur An Long Ag Seol__drums
+  id: 136_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/136/ref.wav
@@ -94,7 +94,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Hollow Ground - Ill Fate__drums
+  id: 197_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/197/ref.wav
@@ -110,7 +110,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Timboz - Pony__drums
+  id: 156_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/156/ref.wav
@@ -126,7 +126,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Too Much__drums
+  id: 135_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/135/ref.wav
@@ -142,7 +142,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Angels In Amplifiers - I'm Alright__drums
+  id: 165_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/165/ref.wav
@@ -158,7 +158,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Lyndsey Ollard - Catching Up__drums
+  id: 130_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/130/ref.wav

@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises (Baumi) - SDRNR__bass
+  id: 194_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/194/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises (Baumi) - SDRNR__other
+  id: 137_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/137/ref.wav
@@ -46,7 +46,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Bobby Nobody - Stitch Up__bass
+  id: 131_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/131/ref.wav
@@ -62,7 +62,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Raft Monk - Tiring__drums
+  id: 187_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/187/ref.wav
@@ -78,7 +78,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Happy Daze__bass
+  id: 123_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/123/ref.wav
@@ -94,7 +94,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Punkdisco - Oral Hygiene__drums
+  id: 33_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/33/ref.wav
@@ -110,7 +110,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Over The Top__other
+  id: 53_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/53/ref.wav
@@ -126,7 +126,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Forkupines - Semantics__bass
+  id: 104_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/104/ref.wav
@@ -142,7 +142,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Oh No__drums
+  id: 81_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/81/ref.wav
@@ -158,7 +158,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Bulldozer__vocals
+  id: 116_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/116/ref.wav
@@ -175,7 +175,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Sunshine Garcia Band - For I Am The Moon__vocals
+  id: 85_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/85/ref.wav
@@ -192,7 +192,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Hollow Ground - Ill Fate__vocals
+  id: 86_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/86/ref.wav
@@ -209,7 +209,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Forkupines - Semantics__other
+  id: 141_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/141/ref.wav
@@ -225,7 +225,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Timboz - Pony__drums
+  id: 156_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/156/ref.wav
@@ -241,7 +241,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Signe Jakobsen - What Have You Done To Me__bass
+  id: 5_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/5/ref.wav
@@ -257,7 +257,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Hollow Ground - Ill Fate__other
+  id: 199_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/199/ref.wav
@@ -273,7 +273,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: James Elder & Mark M Thompson - The English Actor__vocals
+  id: 139_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/139/ref.wav
@@ -290,7 +290,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Timboz - Pony__other
+  id: 10_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/10/ref.wav
@@ -306,7 +306,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Speak Softly - Like Horses__bass
+  id: 91_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/91/ref.wav
@@ -322,7 +322,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Speak Softly - Like Horses__vocals
+  id: 26_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/26/ref.wav
@@ -339,7 +339,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Georgia Wonder - Siren__vocals
+  id: 50_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/50/ref.wav
@@ -356,7 +356,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Little Chicago's Finest - My Own__drums
+  id: 138_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/138/ref.wav
@@ -372,7 +372,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Long Wait - Dark Horses__drums
+  id: 98_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/98/ref.wav
@@ -388,7 +388,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Arise - Run Run Run__vocals
+  id: 88_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/88/ref.wav
@@ -405,7 +405,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Happy Daze__drums
+  id: 57_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/57/ref.wav
@@ -421,7 +421,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Ben Carrigan - We'll Talk About It All Tonight__vocals
+  id: 155_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/155/ref.wav
@@ -438,7 +438,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: We Fell From The Sky - Not You__vocals
+  id: 109_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/109/ref.wav
@@ -455,7 +455,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Too Much__other
+  id: 36_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/36/ref.wav
@@ -471,7 +471,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Georgia Wonder - Siren__other
+  id: 164_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/164/ref.wav

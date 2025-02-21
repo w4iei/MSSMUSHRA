@@ -10,11 +10,11 @@ pages:
   mustConsent: true
   name: Informed Consent
   type: generic
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Detsky Sad - Walkie Talkie__other
+  id: 43_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/43/ref.wav
@@ -26,11 +26,11 @@ pages:
     htdemucs_ft: configs/resources/audio/43/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/43/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Ben Carrigan - We'll Talk About It All Tonight__other
+  id: 11_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/11/ref.wav
@@ -42,11 +42,11 @@ pages:
     htdemucs_ft: configs/resources/audio/11/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/11/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Mountaineering Club - Mallory__other
+  id: 107_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/107/ref.wav
@@ -58,11 +58,11 @@ pages:
     htdemucs_ft: configs/resources/audio/107/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/107/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Forkupines - Semantics__other
+  id: 141_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/141/ref.wav
@@ -74,11 +74,11 @@ pages:
     htdemucs_ft: configs/resources/audio/141/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/141/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Lyndsey Ollard - Catching Up__other
+  id: 133_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/133/ref.wav
@@ -90,11 +90,11 @@ pages:
     htdemucs_ft: configs/resources/audio/133/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/133/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Timboz - Pony__other
+  id: 10_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/10/ref.wav
@@ -106,11 +106,11 @@ pages:
     htdemucs_ft: configs/resources/audio/10/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/10/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Zeno - Signs__other
+  id: 198_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/198/ref.wav
@@ -122,11 +122,11 @@ pages:
     htdemucs_ft: configs/resources/audio/198/htdemucs_ft.wav
     lpf_anchor: configs/resources/audio/198/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a guitar/keyboard/other audio estimate.
+- content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Too Much__other
+  id: 36_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/36/ref.wav

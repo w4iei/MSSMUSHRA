@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Raft Monk - Tiring__bass
+  id: 168_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/168/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Zeno - Signs__bass
+  id: 47_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/47/ref.wav
@@ -46,7 +46,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Oh No__bass
+  id: 179_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/179/ref.wav
@@ -62,7 +62,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Triviul feat. The Fiend - Widow__bass
+  id: 120_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/120/ref.wav
@@ -78,7 +78,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Georgia Wonder - Siren__bass
+  id: 59_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/59/ref.wav
@@ -94,7 +94,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Borderline__bass
+  id: 76_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/76/ref.wav
@@ -110,7 +110,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Al James - Schoolboy Facination__bass
+  id: 92_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/92/ref.wav
@@ -126,7 +126,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Side Effects Project - Sing With Me__bass
+  id: 87_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/87/ref.wav
@@ -142,7 +142,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Motor Tapes - Shore__bass
+  id: 60_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/60/ref.wav
@@ -158,7 +158,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Tom McKenzie - Directions__bass
+  id: 27_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/27/ref.wav
@@ -174,7 +174,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Girls Under Glass - We Feel Alright__bass
+  id: 71_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/71/ref.wav

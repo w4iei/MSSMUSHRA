@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Speak Softly - Broken Man__vocals
+  id: 160_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/160/ref.wav
@@ -31,7 +31,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Borderline__vocals
+  id: 1_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/1/ref.wav
@@ -48,7 +48,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Hollow Ground - Ill Fate__vocals
+  id: 86_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/86/ref.wav
@@ -65,7 +65,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Raft Monk - Tiring__vocals
+  id: 34_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/34/ref.wav
@@ -82,7 +82,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Too Much__vocals
+  id: 64_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/64/ref.wav
@@ -99,7 +99,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Tom McKenzie - Directions__vocals
+  id: 73_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/73/ref.wav
@@ -116,7 +116,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Bobby Nobody - Stitch Up__vocals
+  id: 99_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/99/ref.wav
@@ -133,7 +133,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: James Elder & Mark M Thompson - The English Actor__vocals
+  id: 139_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/139/ref.wav
@@ -150,7 +150,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Louis Cressy Band - Good Time__vocals
+  id: 186_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/186/ref.wav
@@ -167,7 +167,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Moosmusic - Big Dummy Shake__vocals
+  id: 115_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/115/ref.wav
@@ -184,7 +184,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: We Fell From The Sky - Not You__vocals
+  id: 109_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/109/ref.wav

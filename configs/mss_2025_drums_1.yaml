@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Cristina Vane - So Easy__drums
+  id: 38_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/38/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: AM Contra - Heart Peripheral__drums
+  id: 70_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/70/ref.wav
@@ -46,7 +46,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Speak Softly - Broken Man__drums
+  id: 172_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/172/ref.wav
@@ -62,7 +62,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises - Falcon 69__drums
+  id: 106_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/106/ref.wav
@@ -78,7 +78,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Carlos Gonzalez - A Place For Us__drums
+  id: 103_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/103/ref.wav
@@ -94,7 +94,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Sambasevam Shanmugam - Kaathaadi__drums
+  id: 147_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/147/ref.wav
@@ -110,7 +110,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Bulldozer__drums
+  id: 175_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/175/ref.wav
@@ -126,7 +126,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Triviul feat. The Fiend - Widow__drums
+  id: 82_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/82/ref.wav
@@ -142,7 +142,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Little Chicago's Finest - My Own__drums
+  id: 138_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/138/ref.wav
@@ -158,7 +158,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Zeno - Signs__drums
+  id: 51_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/51/ref.wav

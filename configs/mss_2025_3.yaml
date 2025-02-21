@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Side Effects Project - Sing With Me__vocals
+  id: 102_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/102/ref.wav
@@ -31,7 +31,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Doppler Shift - Atrophy__other
+  id: 45_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/45/ref.wav
@@ -47,7 +47,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Arise - Run Run Run__drums
+  id: 46_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/46/ref.wav
@@ -63,7 +63,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Triviul feat. The Fiend - Widow__other
+  id: 127_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/127/ref.wav
@@ -79,7 +79,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Cristina Vane - So Easy__drums
+  id: 38_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/38/ref.wav
@@ -95,7 +95,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Buitraker - Revo X__drums
+  id: 196_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/196/ref.wav
@@ -111,7 +111,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Juliet's Rescue - Heartbeats__other
+  id: 161_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/161/ref.wav
@@ -127,7 +127,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Triviul feat. The Fiend - Widow__vocals
+  id: 96_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/96/ref.wav
@@ -144,7 +144,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Skelpolu - Resurrection__drums
+  id: 17_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/17/ref.wav
@@ -160,7 +160,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Al James - Schoolboy Facination__other
+  id: 79_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/79/ref.wav
@@ -176,7 +176,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Tom McKenzie - Directions__drums
+  id: 66_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/66/ref.wav
@@ -192,7 +192,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Hollow Ground - Ill Fate__drums
+  id: 197_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/197/ref.wav
@@ -208,7 +208,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises - Falcon 69__bass
+  id: 19_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/19/ref.wav
@@ -224,7 +224,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: James Elder & Mark M Thompson - The English Actor__other
+  id: 101_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/101/ref.wav
@@ -240,7 +240,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Bulldozer__drums
+  id: 175_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/175/ref.wav
@@ -256,7 +256,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Happy Daze__vocals
+  id: 125_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/125/ref.wav
@@ -273,7 +273,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Mu - Too Bright__other
+  id: 170_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/170/ref.wav
@@ -289,7 +289,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Forkupines - Semantics__drums
+  id: 78_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/78/ref.wav
@@ -305,7 +305,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Raft Monk - Tiring__other
+  id: 54_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/54/ref.wav
@@ -321,7 +321,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Arise - Run Run Run__other
+  id: 158_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/158/ref.wav
@@ -337,7 +337,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Enda Reilly - Cur An Long Ag Seol__vocals
+  id: 18_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/18/ref.wav
@@ -354,7 +354,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Timboz - Pony__vocals
+  id: 32_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/32/ref.wav
@@ -371,7 +371,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Happy Daze__other
+  id: 25_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/25/ref.wav
@@ -387,7 +387,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Sambasevam Shanmugam - Kaathaadi__other
+  id: 169_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/169/ref.wav
@@ -403,7 +403,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Moosmusic - Big Dummy Shake__vocals
+  id: 115_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/115/ref.wav
@@ -420,7 +420,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Zeno - Signs__other
+  id: 198_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/198/ref.wav
@@ -436,7 +436,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises - Falcon 69__other
+  id: 9_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/9/ref.wav
@@ -452,7 +452,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Signe Jakobsen - What Have You Done To Me__drums
+  id: 189_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/189/ref.wav
@@ -468,7 +468,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Zeno - Signs__vocals
+  id: 29_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/29/ref.wav

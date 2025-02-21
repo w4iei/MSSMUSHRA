@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Sunshine Garcia Band - For I Am The Moon__other
+  id: 67_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/67/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Buitraker - Revo X__vocals
+  id: 3_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/3/ref.wav
@@ -47,7 +47,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Nerve 9 - Pray For The Rain__drums
+  id: 159_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/159/ref.wav
@@ -63,7 +63,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Angels In Amplifiers - I'm Alright__bass
+  id: 16_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/16/ref.wav
@@ -79,7 +79,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Lyndsey Ollard - Catching Up__vocals
+  id: 6_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/6/ref.wav
@@ -96,7 +96,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: AM Contra - Heart Peripheral__drums
+  id: 70_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/70/ref.wav
@@ -112,7 +112,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Ben Carrigan - We'll Talk About It All Tonight__other
+  id: 11_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/11/ref.wav
@@ -128,7 +128,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Signe Jakobsen - What Have You Done To Me__vocals
+  id: 114_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/114/ref.wav
@@ -145,7 +145,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Girls Under Glass - We Feel Alright__vocals
+  id: 162_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/162/ref.wav
@@ -162,7 +162,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Sambasevam Shanmugam - Kaathaadi__drums
+  id: 147_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/147/ref.wav
@@ -178,7 +178,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Georgia Wonder - Siren__drums
+  id: 80_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/80/ref.wav
@@ -194,7 +194,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Enda Reilly - Cur An Long Ag Seol__other
+  id: 143_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/143/ref.wav
@@ -210,7 +210,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Bobby Nobody - Stitch Up__other
+  id: 84_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/84/ref.wav
@@ -226,7 +226,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: M.E.R.C. Music - Knockout__drums
+  id: 113_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/113/ref.wav
@@ -242,7 +242,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Bobby Nobody - Stitch Up__vocals
+  id: 99_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/99/ref.wav
@@ -259,7 +259,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Detsky Sad - Walkie Talkie__drums
+  id: 35_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/35/ref.wav
@@ -275,7 +275,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Nerve 9 - Pray For The Rain__vocals
+  id: 22_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/22/ref.wav
@@ -292,7 +292,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Al James - Schoolboy Facination__vocals
+  id: 90_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/90/ref.wav
@@ -309,7 +309,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: AM Contra - Heart Peripheral__other
+  id: 117_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/117/ref.wav
@@ -325,7 +325,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Georgia Wonder - Siren__bass
+  id: 59_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/59/ref.wav
@@ -341,7 +341,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: AM Contra - Heart Peripheral__vocals
+  id: 21_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/21/ref.wav
@@ -358,7 +358,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Louis Cressy Band - Good Time__other
+  id: 89_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/89/ref.wav
@@ -374,7 +374,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: M.E.R.C. Music - Knockout__bass
+  id: 182_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/182/ref.wav
@@ -390,7 +390,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Ben Carrigan - We'll Talk About It All Tonight__drums
+  id: 72_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/72/ref.wav
@@ -406,7 +406,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Zeno - Signs__drums
+  id: 51_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/51/ref.wav
@@ -422,7 +422,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Mu - Too Bright__bass
+  id: 24_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/24/ref.wav
@@ -438,7 +438,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Punkdisco - Oral Hygiene__bass
+  id: 174_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/174/ref.wav
@@ -454,7 +454,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Ben Carrigan - We'll Talk About It All Tonight__bass
+  id: 190_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/190/ref.wav

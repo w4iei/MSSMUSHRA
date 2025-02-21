@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Moosmusic - Big Dummy Shake__bass
+  id: 112_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/112/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Little Chicago's Finest - My Own__bass
+  id: 173_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/173/ref.wav
@@ -46,7 +46,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: We Fell From The Sky - Not You__bass
+  id: 44_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/44/ref.wav
@@ -62,7 +62,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: AM Contra - Heart Peripheral__bass
+  id: 178_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/178/ref.wav
@@ -78,7 +78,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Sunshine Garcia Band - For I Am The Moon__bass
+  id: 166_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/166/ref.wav
@@ -94,7 +94,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Speak Softly - Like Horses__bass
+  id: 91_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/91/ref.wav
@@ -110,7 +110,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Bulldozer__bass
+  id: 93_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/93/ref.wav
@@ -126,7 +126,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Punkdisco - Oral Hygiene__bass
+  id: 174_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/174/ref.wav

@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Sunshine Garcia Band - For I Am The Moon__drums
+  id: 188_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/188/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Mu - Too Bright__drums
+  id: 14_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/14/ref.wav
@@ -46,7 +46,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Arise - Run Run Run__drums
+  id: 46_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/46/ref.wav
@@ -62,7 +62,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: James Elder & Mark M Thompson - The English Actor__drums
+  id: 180_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/180/ref.wav
@@ -78,7 +78,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Al James - Schoolboy Facination__drums
+  id: 121_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/121/ref.wav
@@ -94,7 +94,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Over The Top__drums
+  id: 150_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/150/ref.wav
@@ -110,7 +110,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Forkupines - Semantics__drums
+  id: 78_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/78/ref.wav
@@ -126,7 +126,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Happy Daze__drums
+  id: 57_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/57/ref.wav
@@ -142,7 +142,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Signe Jakobsen - What Have You Done To Me__drums
+  id: 189_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/189/ref.wav

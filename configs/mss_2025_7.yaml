@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Mu - Too Bright__drums
+  id: 14_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/14/ref.wav
@@ -30,7 +30,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Nerve 9 - Pray For The Rain__bass
+  id: 77_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/77/ref.wav
@@ -46,7 +46,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Speak Softly - Broken Man__vocals
+  id: 160_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/160/ref.wav
@@ -63,7 +63,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Too Much__bass
+  id: 111_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/111/ref.wav
@@ -79,7 +79,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Cristina Vane - So Easy__other
+  id: 154_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/154/ref.wav
@@ -95,7 +95,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Little Chicago's Finest - My Own__other
+  id: 61_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/61/ref.wav
@@ -111,7 +111,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: PR - Oh No__other
+  id: 74_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/74/ref.wav
@@ -127,7 +127,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Borderline__vocals
+  id: 1_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/1/ref.wav
@@ -144,7 +144,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Doppler Shift - Atrophy__bass
+  id: 157_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/157/ref.wav
@@ -160,7 +160,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: AM Contra - Heart Peripheral__bass
+  id: 178_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/178/ref.wav
@@ -176,7 +176,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Louis Cressy Band - Good Time__bass
+  id: 105_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/105/ref.wav
@@ -192,7 +192,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Angels In Amplifiers - I'm Alright__vocals
+  id: 134_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/134/ref.wav
@@ -209,7 +209,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Too Much__vocals
+  id: 64_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/64/ref.wav
@@ -226,7 +226,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Girls Under Glass - We Feel Alright__drums
+  id: 185_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/185/ref.wav
@@ -242,7 +242,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Easton Ellises - Falcon 69__vocals
+  id: 100_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/100/ref.wav
@@ -259,7 +259,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Al James - Schoolboy Facination__drums
+  id: 121_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/121/ref.wav
@@ -275,7 +275,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Mu - Too Bright__vocals
+  id: 128_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/128/ref.wav
@@ -292,7 +292,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Triviul feat. The Fiend - Widow__bass
+  id: 120_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/120/ref.wav
@@ -308,7 +308,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: We Fell From The Sky - Not You__drums
+  id: 94_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/94/ref.wav
@@ -324,7 +324,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Little Chicago's Finest - My Own__vocals
+  id: 75_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/75/ref.wav
@@ -341,7 +341,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Long Wait - Dark Horses__other
+  id: 142_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/142/ref.wav
@@ -357,7 +357,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: The Doppler Shift - Atrophy__vocals
+  id: 68_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/68/ref.wav
@@ -374,7 +374,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Side Effects Project - Sing With Me__bass
+  id: 87_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/87/ref.wav
@@ -390,7 +390,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Detsky Sad - Walkie Talkie__bass
+  id: 2_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/2/ref.wav
@@ -406,7 +406,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Speak Softly - Broken Man__other
+  id: 167_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/167/ref.wav
@@ -422,7 +422,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: We Fell From The Sky - Not You__other
+  id: 56_other
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/56/ref.wav
@@ -438,7 +438,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Bobby Nobody - Stitch Up__drums
+  id: 140_drums
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/140/ref.wav
@@ -454,7 +454,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Girls Under Glass - We Feel Alright__bass
+  id: 71_bass
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/71/ref.wav

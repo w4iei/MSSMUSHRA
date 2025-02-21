@@ -14,7 +14,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Triviul feat. The Fiend - Widow__vocals
+  id: 96_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/96/ref.wav
@@ -31,7 +31,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Girls Under Glass - We Feel Alright__vocals
+  id: 162_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/162/ref.wav
@@ -48,7 +48,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: BKS - Bulldozer__vocals
+  id: 116_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/116/ref.wav
@@ -65,7 +65,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Secretariat - Over The Top__vocals
+  id: 132_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/132/ref.wav
@@ -82,7 +82,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Al James - Schoolboy Facination__vocals
+  id: 90_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/90/ref.wav
@@ -99,7 +99,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: M.E.R.C. Music - Knockout__vocals
+  id: 42_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/42/ref.wav
@@ -116,7 +116,7 @@ pages:
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: Speak Softly - Like Horses__vocals
+  id: 26_vocals
   name: MUSHRA
   randomize: true
   reference: configs/resources/audio/26/ref.wav
