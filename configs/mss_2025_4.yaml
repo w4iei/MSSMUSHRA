@@ -10,7 +10,7 @@ pages:
   mustConsent: true
   name: Informed Consent
   type: generic
-- content: This exercise is to evaluate the quality of a bass audio estimate.
+- content: This exercise is to evaluate the quality of a bass audio estimate.<br>Please adjust your volume so that you can comfortably hear nuances in the music.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
