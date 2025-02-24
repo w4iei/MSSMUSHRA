@@ -10,476 +10,478 @@ pages:
   mustConsent: true
   name: Informed Consent
   type: generic
-- content: This exercise is to evaluate the quality of a vocals audio estimate.<br>Please adjust your volume so that you can comfortably hear nuances in the music.
+- content: This exercise is to evaluate the quality of a bass audio estimate.<br>Please adjust your volume so that you can comfortably hear nuances in the music.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: 102_vocals
+  id: 194_bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/102/ref.wav
+  reference: configs/resources/audio/194/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/102/IRM1.wav
-    Open-UMix: configs/resources/audio/102/Open-UMix.wav
-    REP1: configs/resources/audio/102/REP1.wav
-    SCNet-large: configs/resources/audio/102/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/102/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/102/lpf_anchor.wav
+    IRM1: configs/resources/audio/194/IRM1.wav
+    Open-UMix: configs/resources/audio/194/Open-UMix.wav
+    SCNet-large: configs/resources/audio/194/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/194/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/194/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: 45_other
+  id: 137_other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/45/ref.wav
+  reference: configs/resources/audio/137/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/45/IRM1.wav
-    Open-UMix: configs/resources/audio/45/Open-UMix.wav
-    SCNet-large: configs/resources/audio/45/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/45/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/45/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a drums audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 46_drums
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/46/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/46/IRM1.wav
-    Open-UMix: configs/resources/audio/46/Open-UMix.wav
-    SCNet-large: configs/resources/audio/46/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/46/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/46/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a other audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 127_other
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/127/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/127/IRM1.wav
-    Open-UMix: configs/resources/audio/127/Open-UMix.wav
-    SCNet-large: configs/resources/audio/127/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/127/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/127/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a drums audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 38_drums
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/38/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/38/IRM1.wav
-    Open-UMix: configs/resources/audio/38/Open-UMix.wav
-    SCNet-large: configs/resources/audio/38/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/38/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/38/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a drums audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 196_drums
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/196/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/196/IRM1.wav
-    Open-UMix: configs/resources/audio/196/Open-UMix.wav
-    SCNet-large: configs/resources/audio/196/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/196/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/196/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a other audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 161_other
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/161/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/161/IRM1.wav
-    Open-UMix: configs/resources/audio/161/Open-UMix.wav
-    SCNet-large: configs/resources/audio/161/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/161/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/161/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a vocals audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 96_vocals
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/96/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/96/IRM1.wav
-    Open-UMix: configs/resources/audio/96/Open-UMix.wav
-    REP1: configs/resources/audio/96/REP1.wav
-    SCNet-large: configs/resources/audio/96/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/96/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/96/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a drums audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 17_drums
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/17/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/17/IRM1.wav
-    Open-UMix: configs/resources/audio/17/Open-UMix.wav
-    SCNet-large: configs/resources/audio/17/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/17/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/17/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a other audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 79_other
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/79/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/79/IRM1.wav
-    Open-UMix: configs/resources/audio/79/Open-UMix.wav
-    SCNet-large: configs/resources/audio/79/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/79/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/79/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a drums audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 66_drums
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/66/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/66/IRM1.wav
-    Open-UMix: configs/resources/audio/66/Open-UMix.wav
-    SCNet-large: configs/resources/audio/66/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/66/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/66/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a drums audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 197_drums
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/197/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/197/IRM1.wav
-    Open-UMix: configs/resources/audio/197/Open-UMix.wav
-    SCNet-large: configs/resources/audio/197/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/197/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/197/lpf_anchor.wav
+    IRM1: configs/resources/audio/137/IRM1.wav
+    Open-UMix: configs/resources/audio/137/Open-UMix.wav
+    SCNet-large: configs/resources/audio/137/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/137/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/137/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: 19_bass
+  id: 131_bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/19/ref.wav
+  reference: configs/resources/audio/131/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/19/IRM1.wav
-    Open-UMix: configs/resources/audio/19/Open-UMix.wav
-    SCNet-large: configs/resources/audio/19/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/19/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/19/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a other audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 101_other
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/101/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/101/IRM1.wav
-    Open-UMix: configs/resources/audio/101/Open-UMix.wav
-    SCNet-large: configs/resources/audio/101/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/101/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/101/lpf_anchor.wav
+    IRM1: configs/resources/audio/131/IRM1.wav
+    Open-UMix: configs/resources/audio/131/Open-UMix.wav
+    SCNet-large: configs/resources/audio/131/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/131/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/131/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: 175_drums
+  id: 187_drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/175/ref.wav
+  reference: configs/resources/audio/187/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/175/IRM1.wav
-    Open-UMix: configs/resources/audio/175/Open-UMix.wav
-    SCNet-large: configs/resources/audio/175/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/175/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/175/lpf_anchor.wav
+    IRM1: configs/resources/audio/187/IRM1.wav
+    Open-UMix: configs/resources/audio/187/Open-UMix.wav
+    SCNet-large: configs/resources/audio/187/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/187/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/187/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a vocals audio estimate.
+- content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: 125_vocals
+  id: 123_bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/125/ref.wav
+  reference: configs/resources/audio/123/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/125/IRM1.wav
-    Open-UMix: configs/resources/audio/125/Open-UMix.wav
-    REP1: configs/resources/audio/125/REP1.wav
-    SCNet-large: configs/resources/audio/125/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/125/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/125/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a other audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 170_other
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/170/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/170/IRM1.wav
-    Open-UMix: configs/resources/audio/170/Open-UMix.wav
-    SCNet-large: configs/resources/audio/170/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/170/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/170/lpf_anchor.wav
+    IRM1: configs/resources/audio/123/IRM1.wav
+    Open-UMix: configs/resources/audio/123/Open-UMix.wav
+    SCNet-large: configs/resources/audio/123/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/123/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/123/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: 78_drums
+  id: 33_drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/78/ref.wav
+  reference: configs/resources/audio/33/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/78/IRM1.wav
-    Open-UMix: configs/resources/audio/78/Open-UMix.wav
-    SCNet-large: configs/resources/audio/78/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/78/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/78/lpf_anchor.wav
+    IRM1: configs/resources/audio/33/IRM1.wav
+    Open-UMix: configs/resources/audio/33/Open-UMix.wav
+    SCNet-large: configs/resources/audio/33/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/33/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/33/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a other audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: 54_other
+  id: 53_other
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/54/ref.wav
+  reference: configs/resources/audio/53/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/54/IRM1.wav
-    Open-UMix: configs/resources/audio/54/Open-UMix.wav
-    SCNet-large: configs/resources/audio/54/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/54/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/54/lpf_anchor.wav
+    IRM1: configs/resources/audio/53/IRM1.wav
+    Open-UMix: configs/resources/audio/53/Open-UMix.wav
+    SCNet-large: configs/resources/audio/53/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/53/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/53/lpf_anchor.wav
   type: mushra
-- content: This exercise is to evaluate the quality of a other audio estimate.
+- content: This exercise is to evaluate the quality of a bass audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: 158_other
+  id: 104_bass
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/158/ref.wav
+  reference: configs/resources/audio/104/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/158/IRM1.wav
-    Open-UMix: configs/resources/audio/158/Open-UMix.wav
-    SCNet-large: configs/resources/audio/158/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/158/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/158/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a vocals audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 18_vocals
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/18/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/18/IRM1.wav
-    Open-UMix: configs/resources/audio/18/Open-UMix.wav
-    REP1: configs/resources/audio/18/REP1.wav
-    SCNet-large: configs/resources/audio/18/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/18/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/18/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a vocals audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 32_vocals
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/32/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/32/IRM1.wav
-    Open-UMix: configs/resources/audio/32/Open-UMix.wav
-    REP1: configs/resources/audio/32/REP1.wav
-    SCNet-large: configs/resources/audio/32/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/32/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/32/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a other audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 25_other
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/25/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/25/IRM1.wav
-    Open-UMix: configs/resources/audio/25/Open-UMix.wav
-    SCNet-large: configs/resources/audio/25/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/25/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/25/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a other audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 169_other
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/169/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/169/IRM1.wav
-    Open-UMix: configs/resources/audio/169/Open-UMix.wav
-    SCNet-large: configs/resources/audio/169/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/169/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/169/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a vocals audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 115_vocals
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/115/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/115/IRM1.wav
-    Open-UMix: configs/resources/audio/115/Open-UMix.wav
-    REP1: configs/resources/audio/115/REP1.wav
-    SCNet-large: configs/resources/audio/115/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/115/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/115/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a other audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 198_other
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/198/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/198/IRM1.wav
-    Open-UMix: configs/resources/audio/198/Open-UMix.wav
-    SCNet-large: configs/resources/audio/198/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/198/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/198/lpf_anchor.wav
-  type: mushra
-- content: This exercise is to evaluate the quality of a other audio estimate.
-  createAnchor35: false
-  createAnchor70: false
-  enableLooping: true
-  id: 9_other
-  name: MUSHRA
-  randomize: true
-  reference: configs/resources/audio/9/ref.wav
-  showWaveform: true
-  stimuli:
-    IRM1: configs/resources/audio/9/IRM1.wav
-    Open-UMix: configs/resources/audio/9/Open-UMix.wav
-    SCNet-large: configs/resources/audio/9/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/9/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/9/lpf_anchor.wav
+    IRM1: configs/resources/audio/104/IRM1.wav
+    Open-UMix: configs/resources/audio/104/Open-UMix.wav
+    SCNet-large: configs/resources/audio/104/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/104/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/104/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a drums audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: 189_drums
+  id: 81_drums
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/189/ref.wav
+  reference: configs/resources/audio/81/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/189/IRM1.wav
-    Open-UMix: configs/resources/audio/189/Open-UMix.wav
-    SCNet-large: configs/resources/audio/189/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/189/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/189/lpf_anchor.wav
+    IRM1: configs/resources/audio/81/IRM1.wav
+    Open-UMix: configs/resources/audio/81/Open-UMix.wav
+    SCNet-large: configs/resources/audio/81/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/81/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/81/lpf_anchor.wav
   type: mushra
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
   createAnchor70: false
   enableLooping: true
-  id: 29_vocals
+  id: 116_vocals
   name: MUSHRA
   randomize: true
-  reference: configs/resources/audio/29/ref.wav
+  reference: configs/resources/audio/116/ref.wav
   showWaveform: true
   stimuli:
-    IRM1: configs/resources/audio/29/IRM1.wav
-    Open-UMix: configs/resources/audio/29/Open-UMix.wav
-    REP1: configs/resources/audio/29/REP1.wav
-    SCNet-large: configs/resources/audio/29/SCNet-large.wav
-    htdemucs_ft: configs/resources/audio/29/htdemucs_ft.wav
-    lpf_anchor: configs/resources/audio/29/lpf_anchor.wav
+    IRM1: configs/resources/audio/116/IRM1.wav
+    Open-UMix: configs/resources/audio/116/Open-UMix.wav
+    REP1: configs/resources/audio/116/REP1.wav
+    SCNet-large: configs/resources/audio/116/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/116/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/116/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 85_vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/85/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/85/IRM1.wav
+    Open-UMix: configs/resources/audio/85/Open-UMix.wav
+    REP1: configs/resources/audio/85/REP1.wav
+    SCNet-large: configs/resources/audio/85/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/85/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/85/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 86_vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/86/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/86/IRM1.wav
+    Open-UMix: configs/resources/audio/86/Open-UMix.wav
+    REP1: configs/resources/audio/86/REP1.wav
+    SCNet-large: configs/resources/audio/86/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/86/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/86/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a other audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 141_other
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/141/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/141/IRM1.wav
+    Open-UMix: configs/resources/audio/141/Open-UMix.wav
+    SCNet-large: configs/resources/audio/141/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/141/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/141/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a drums audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 156_drums
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/156/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/156/IRM1.wav
+    Open-UMix: configs/resources/audio/156/Open-UMix.wav
+    SCNet-large: configs/resources/audio/156/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/156/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/156/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a bass audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 5_bass
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/5/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/5/IRM1.wav
+    Open-UMix: configs/resources/audio/5/Open-UMix.wav
+    SCNet-large: configs/resources/audio/5/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/5/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/5/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a other audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 199_other
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/199/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/199/IRM1.wav
+    Open-UMix: configs/resources/audio/199/Open-UMix.wav
+    SCNet-large: configs/resources/audio/199/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/199/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/199/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 139_vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/139/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/139/IRM1.wav
+    Open-UMix: configs/resources/audio/139/Open-UMix.wav
+    REP1: configs/resources/audio/139/REP1.wav
+    SCNet-large: configs/resources/audio/139/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/139/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/139/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a other audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 10_other
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/10/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/10/IRM1.wav
+    Open-UMix: configs/resources/audio/10/Open-UMix.wav
+    SCNet-large: configs/resources/audio/10/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/10/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/10/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a bass audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 91_bass
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/91/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/91/IRM1.wav
+    Open-UMix: configs/resources/audio/91/Open-UMix.wav
+    SCNet-large: configs/resources/audio/91/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/91/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/91/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 26_vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/26/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/26/IRM1.wav
+    Open-UMix: configs/resources/audio/26/Open-UMix.wav
+    REP1: configs/resources/audio/26/REP1.wav
+    SCNet-large: configs/resources/audio/26/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/26/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/26/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 50_vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/50/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/50/IRM1.wav
+    Open-UMix: configs/resources/audio/50/Open-UMix.wav
+    REP1: configs/resources/audio/50/REP1.wav
+    SCNet-large: configs/resources/audio/50/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/50/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/50/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a drums audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 138_drums
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/138/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/138/IRM1.wav
+    Open-UMix: configs/resources/audio/138/Open-UMix.wav
+    SCNet-large: configs/resources/audio/138/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/138/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/138/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a drums audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 98_drums
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/98/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/98/IRM1.wav
+    Open-UMix: configs/resources/audio/98/Open-UMix.wav
+    SCNet-large: configs/resources/audio/98/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/98/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/98/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 88_vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/88/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/88/IRM1.wav
+    Open-UMix: configs/resources/audio/88/Open-UMix.wav
+    REP1: configs/resources/audio/88/REP1.wav
+    SCNet-large: configs/resources/audio/88/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/88/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/88/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a drums audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 57_drums
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/57/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/57/IRM1.wav
+    Open-UMix: configs/resources/audio/57/Open-UMix.wav
+    SCNet-large: configs/resources/audio/57/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/57/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/57/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 155_vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/155/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/155/IRM1.wav
+    Open-UMix: configs/resources/audio/155/Open-UMix.wav
+    REP1: configs/resources/audio/155/REP1.wav
+    SCNet-large: configs/resources/audio/155/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/155/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/155/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a vocals audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 109_vocals
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/109/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/109/IRM1.wav
+    Open-UMix: configs/resources/audio/109/Open-UMix.wav
+    REP1: configs/resources/audio/109/REP1.wav
+    SCNet-large: configs/resources/audio/109/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/109/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/109/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a other audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 36_other
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/36/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/36/IRM1.wav
+    Open-UMix: configs/resources/audio/36/Open-UMix.wav
+    SCNet-large: configs/resources/audio/36/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/36/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/36/lpf_anchor.wav
+  type: mushra
+- content: This exercise is to evaluate the quality of a other audio estimate.
+  createAnchor35: false
+  createAnchor70: false
+  enableLooping: true
+  id: 164_other
+  name: MUSHRA
+  randomize: true
+  reference: configs/resources/audio/164/ref.wav
+  showWaveform: true
+  stimuli:
+    IRM1: configs/resources/audio/164/IRM1.wav
+    Open-UMix: configs/resources/audio/164/Open-UMix.wav
+    SCNet-large: configs/resources/audio/164/SCNet-large.wav
+    htdemucs_ft: configs/resources/audio/164/htdemucs_ft.wav
+    lpf_anchor: configs/resources/audio/164/lpf_anchor.wav
   type: mushra
 - content: Thank you for participating in this listening test. Please click the button below to submit your responses.<br>Your prolific code is CXLPIJGW
   name: Thank you
@@ -489,5 +491,5 @@ pages:
 remoteService: service/write.php
 showButtonPreviousPage: true
 stopOnErrors: true
-testId: mss_2025_3
+testId: mss_2025_4
 testname: MSS Subjective Evaluation
