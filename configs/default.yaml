@@ -10,6 +10,12 @@ pages:
   mustConsent: true
   name: Informed Consent
   type: generic
+- type: volume
+   id: vol
+   name: Volume settings
+   content: Please adjust the volume!
+   stimulus: configs/resources/audio/1/ref.wav
+   defaultVolume: 0.5
 - content: This exercise is to evaluate the quality of a vocals audio estimate.
   createAnchor35: false
   createAnchor70: false
